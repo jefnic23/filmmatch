@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% block head %}
+
+            {% block metas %}
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                <meta name="author" content="Jeff Nicholas">
+                <meta name="description" content="Connect movies and actors">
+                <meta name="application-name" content="FilmMatch">
+                <meta name="robots" content="noindex, noarchive">
+            {% endblock %}
+
+            {% block styles %}
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+                <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+                <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+            {% endblock %}
+
+            <title>FilmMatch</title>
+
+        {% endblock %}
+    </head>
+    <body>
+        {% block navbar %}
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="container-fluid">
+                    <div class="navbar-left navbar-edge">
+                        <button class="icon" onclick="openInfo()">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+                        </button>
+                    </div>
+                    <div class="navbar-center"></div>
+                    <div class="navbar-right navbar-edge">
+                        <button class="icon" onclick="openStats()">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"><path d="M3 3v18h18"/><path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"/></svg>
+                        </button>
+                    </div>
+                </div>
+            </nav>
+        {% endblock %}
+
+        {% block content %}{% endblock %}
+
+        {% block scripts %}{% endblock %}
+    </body>
+</html>
