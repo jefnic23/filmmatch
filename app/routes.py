@@ -13,29 +13,25 @@ def index():
     movies = pd.read_csv('app/static/data/movies.csv')
     actors = pd.read_csv('app/static/data/actors.csv')
     top = pd.concat([movies.iloc[:226], actors.iloc[:139]]).sample(frac=1, random_state=year)
-    current = top.iloc[day].to_dict()
-    current['answer'] = True
-    rollcall = [current]
-    index = 0
+    first = top.iloc[day].to_dict()
+    first['answer'] = True
+    current = first
+    rollcall = []
     while True:
-        # try:
+        try:
             random.seed(year+day)
-            if index != 0:
-                current = list(filter(lambda x: x['answer'] == True, rollcall[index]))[0]
-                print(f'\n{current}\n')
             if current['category'] == 'primaryTitle':
                 df = cast[cast['primaryTitle'] == current['name']]
-                n = [v.to_dict() for k, v in actors[actors['name'].isin(df['nconst'].tolist())].iterrows() if v['name'] not in [x['name'] for x in rollcall]]    
+                n = [v.to_dict() for k, v in actors[actors['name'].isin(df['nconst'].tolist())].iterrows() if v['name'] not in [x["name"] for y in rollcall for x in y]]    
             else:
                 df = cast[cast['nconst'] == current['name']]
-                n = [v.to_dict() for k, v in movies[movies['name'].isin(df['primaryTitle'].tolist())].iterrows() if v['name'] not in [x['name'] for x in rollcall]]
-            c = random.choices(n, weights=[i['weight'] for i in n], k=1)[0]
-            c['answer'] = True
-            rollcall.append(getChoices(cast, actors, movies, current, year+day))
-            index += 1
-        # except:
-        #     break
-    return render_template('index.html', data=rollcall)
+                n = [v.to_dict() for k, v in movies[movies['name'].isin(df['primaryTitle'].tolist())].iterrows() if v['name'] not in [x["name"] for y in rollcall for x in y]]
+            current = random.choices(n, weights=[i['weight'] for i in n], k=1)[0]
+            current['answer'] = True
+            rollcall.append(getWrongAnswers(current, cast, actors, movies, year+day+current['weight']))
+        except:
+            break
+    return render_template('index.html', first=first, data=rollcall)
 
 if __name__ == '__main__':
     app.run()
