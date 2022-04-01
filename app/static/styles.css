@@ -1,0 +1,37 @@
+body {
+    background-color: #161320;
+    font-family: "Roboto", sans-serif;
+}
+
+.container-fluid {
+    display: flex;
+}
+
+.navbar-left, .navbar-right {
+    display: flex;
+    width: 20%;
+}
+
+.navbar-center {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+
+.navbar-left {
+    justify-content: flex-start;
+}
+
+.navbar-right {
+    justify-content: flex-end;
+}
+
+.logo {
+    width: 100%;
+    max-width: 233px;
+}
+
+.icon {
+    border: none;
+    background: none;
+}
