@@ -7,10 +7,13 @@
     </script>
     <div id="main">
         <div id="game">
-            <div id="current"></div>
+            <div id="current">
+                <h1></h1>
+                <p></p>
+            </div>
             <div id="answers">
                 {% for _ in range(4) %}
-                    <button></button>
+                    <button class="answer-button" onClick="checkAnswer(this)"></button>
                 {% endfor %}
             </div>
         </div>

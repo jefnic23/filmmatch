@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #fff;
 }
 
 body {
@@ -46,4 +47,23 @@ body {
     border: none;
     background: none;
     cursor: pointer;
+}
+
+#main {
+    display: flex;
+}
+
+#game {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.answer-button {
+    background-color: #D9E0EE;
+    color: #161320;
 }
