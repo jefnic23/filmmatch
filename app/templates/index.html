@@ -5,4 +5,15 @@
         const first = {{ first | tojson }};
         const data = {{ data | tojson }};
     </script>
+    <div id="main">
+        <div id="game">
+            <div id="current"></div>
+            <div id="answers">
+                {% for _ in range(4) %}
+                    <button></button>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="{{ url_for('static', filename='main.js') }}"></script>
 {% endblock %}

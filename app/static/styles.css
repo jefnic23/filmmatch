@@ -1,10 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: #161320;
     font-family: "Roboto", sans-serif;
 }
 
-.container-fluid {
+.navbar {
+    width: 100%;
+    padding: 13px;
     display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    border-bottom: 1px solid #fff;
 }
 
 .navbar-left, .navbar-right {
@@ -34,4 +45,5 @@ body {
 .icon {
     border: none;
     background: none;
+    cursor: pointer;
 }
