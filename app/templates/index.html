@@ -4,13 +4,16 @@
     <script type="text/javascript">
         const first = {{ first | tojson }};
         const data = {{ data | tojson }};
+        const serv_day = new Date({{ today | tojson }});
     </script>
     <div id="main">
         <div id="game">
             <div id="current">
+                <h3>0</h3>
                 <h1></h1>
                 <p></p>
             </div>
+            <hr>
             <div id="answers">
                 {% for _ in range(4) %}
                     <button class="answer-button" onClick="checkAnswer(this)"></button>

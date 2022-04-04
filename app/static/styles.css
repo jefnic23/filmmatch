@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: #fff;
+    overflow: hidden;
 }
 
 body {
@@ -10,12 +11,21 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+hr {
+    width: 89%;
+    max-width: 377px;
+    margin: 13px 0;
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(217,224,238,0), rgba(217,224,238,0.75), rgba(217,224,238,0));
+    background-image: -moz-linear-gradient(left, rgba(217,224,238,0), rgba(217,224,238,0.75), rgba(217,224,238,0));
+}
+
 .navbar {
     width: 100%;
     padding: 13px;
     display: flex;
     justify-content: space-between;
-    overflow: hidden;
     border-bottom: 1px solid #fff;
 }
 
@@ -40,7 +50,7 @@ body {
 
 .logo {
     width: 100%;
-    max-width: 233px;
+    max-width: 144px;
 }
 
 .icon {
@@ -63,7 +73,27 @@ body {
     text-transform: uppercase;
 }
 
+#current {
+    padding: 13px 5px;
+}
+
+#answers {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
 .answer-button {
-    background-color: #D9E0EE;
-    color: #161320;
+    background: none;
+    border: none;
+    padding: 13px;
+    font-size: 21px;
+    transition: background-color 0.08s, color 0.08s;
+}
+
+@media (hover: hover) {
+    .answer-button:hover {
+        background-color: #D9E0EE;
+        color: #161320;
+    }
 }
