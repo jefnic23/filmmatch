@@ -44,6 +44,7 @@ Avengers: Endgame,primaryTitle,1031516,Q4
 The Truman Show,primaryTitle,1026834,Q4
 Iron Man,primaryTitle,1019489,Q4
 Star Wars: Episode VI - Return of the Jedi,primaryTitle,1014961,Q4
+Braveheart,primaryTitle,1011880,Q4
 Avengers: Infinity War,primaryTitle,996934,Q4
 Deadpool,primaryTitle,987969,Q4
 Reservoir Dogs,primaryTitle,984684,Q4
@@ -65,6 +66,7 @@ Harry Potter and the Deathly Hallows: Part 2,primaryTitle,838522,Q4
 The Terminator,primaryTitle,836807,Q4
 Snatch,primaryTitle,832223,Q4
 Slumdog Millionaire,primaryTitle,830681,Q4
+The Intouchables,primaryTitle,825591,Q4
 Avengers: Age of Ultron,primaryTitle,825220,Q4
 Iron Man 3,primaryTitle,819443,Q4
 Requiem for a Dream,primaryTitle,816066,Q4
@@ -72,6 +74,7 @@ Captain America: The First Avenger,primaryTitle,813087,Q4
 Thor,primaryTitle,811743,Q4
 Captain America: The Winter Soldier,primaryTitle,809542,Q4
 Gravity,primaryTitle,808431,Q4
+Scarface,primaryTitle,805089,Q4
 The Hobbit: An Unexpected Journey,primaryTitle,800201,Q4
 Whiplash,primaryTitle,799979,Q4
 The Pianist,primaryTitle,799556,Q4
@@ -92,9 +95,12 @@ Captain America: Civil War,primaryTitle,745910,Q4
 Harry Potter and the Sorcerer's Stone,primaryTitle,745762,Q4
 Blade Runner,primaryTitle,744192,Q4
 The Imitation Game,primaryTitle,742726,Q4
+"The Good, the Bad and the Ugly",primaryTitle,738370,Q4
 Indiana Jones and the Last Crusade,primaryTitle,734468,Q4
+I Am Legend,primaryTitle,734024,Q4
 Kill Bill: Vol. 2,primaryTitle,732854,Q4
 Logan,primaryTitle,721029,Q4
+Full Metal Jacket,primaryTitle,719574,Q4
 Black Panther,primaryTitle,713659,Q4
 Silver Linings Playbook,primaryTitle,695632,Q4
 X-Men: Days of Future Past,primaryTitle,694396,Q4
@@ -117,6 +123,7 @@ Arrival,primaryTitle,664422,Q4
 Fargo,primaryTitle,660395,Q4
 Thor: The Dark World,primaryTitle,652962,Q4
 Edge of Tomorrow,primaryTitle,651683,Q4
+Psycho,primaryTitle,649363,Q4
 The Hunger Games: Catching Fire,primaryTitle,648114,Q4
 Kingsman: The Secret Service,primaryTitle,647901,Q4
 Apocalypse Now,primaryTitle,647005,Q4
@@ -131,11 +138,14 @@ Heat,primaryTitle,629433,Q4
 Pirates of the Caribbean: At World's End,primaryTitle,629277,Q4
 Spider-Man 2,primaryTitle,627359,Q4
 The Bourne Ultimatum,primaryTitle,625594,Q4
+Dunkirk,primaryTitle,625586,Q4
 Transformers,primaryTitle,624426,Q4
 Spider-Man: Homecoming,primaryTitle,619472,Q4
 Sherlock Holmes,primaryTitle,617012,Q4
 Birdman or (The Unexpected Virtue of Ignorance),primaryTitle,614897,Q4
+Life of Pi,primaryTitle,613910,Q4
 Drive,primaryTitle,613430,Q4
+Groundhog Day,primaryTitle,610390,Q4
 Harry Potter and the Chamber of Secrets,primaryTitle,610032,Q4
 Harry Potter and the Prisoner of Azkaban,primaryTitle,609198,Q4
 Into the Wild,primaryTitle,609190,Q4
@@ -144,8 +154,11 @@ Star Wars: Episode VIII - The Last Jedi,primaryTitle,607494,Q4
 Harry Potter and the Goblet of Fire,primaryTitle,602610,Q4
 Argo,primaryTitle,602482,Q4
 John Wick,primaryTitle,601563,Q4
+Rogue One: A Star Wars Story,primaryTitle,600972,Q4
 X-Men,primaryTitle,600894,Q4
+Ted,primaryTitle,599106,Q4
 Star Trek,primaryTitle,596570,Q4
+Prometheus,primaryTitle,595986,Q4
 The Matrix Reloaded,primaryTitle,582283,Q4
 Knives Out,primaryTitle,581865,Q4
 Jaws,primaryTitle,578288,Q4
@@ -163,8 +176,10 @@ Limitless,primaryTitle,558254,Q4
 Spider-Man: No Way Home,primaryTitle,557720,Q4
 American Psycho,primaryTitle,557414,Q4
 Zombieland,primaryTitle,557052,Q4
+Casablanca,primaryTitle,556662,Q4
 Rocky,primaryTitle,556325,Q4
 The Notebook,primaryTitle,555322,Q4
+Get Out,primaryTitle,555187,Q4
 Ocean's Eleven,primaryTitle,554779,Q4
 Men in Black,primaryTitle,550955,Q4
 Kick-Ass,primaryTitle,550692,Q4
@@ -183,6 +198,7 @@ Blade Runner 2049,primaryTitle,532703,Q4
 Monty Python and the Holy Grail,primaryTitle,528898,Q4
 "I, Robot",primaryTitle,527256,Q4
 Harry Potter and the Deathly Hallows: Part 1,primaryTitle,526558,Q4
+Dune,primaryTitle,526188,Q4
 Captain Marvel,primaryTitle,526055,Q4
 Harry Potter and the Half-Blood Prince,primaryTitle,523357,Q4
 The Great Gatsby,primaryTitle,523081,Q4
@@ -192,7 +208,9 @@ Zodiac,primaryTitle,519351,Q4
 Nightcrawler,primaryTitle,517695,Q4
 Rise of the Planet of the Apes,primaryTitle,517571,Q4
 Back to the Future Part II,primaryTitle,515201,Q4
+It,primaryTitle,512125,Q4
 Juno,primaryTitle,512062,Q4
+Bohemian Rhapsody,primaryTitle,511609,Q4
 Oblivion,primaryTitle,511348,Q4
 The Hobbit: The Battle of the Five Armies,primaryTitle,510856,Q4
 Pirates of the Caribbean: On Stranger Tides,primaryTitle,510143,Q4
@@ -201,12 +219,14 @@ Baby Driver,primaryTitle,506161,Q4
 X-Men: The Last Stand,primaryTitle,506079,Q4
 "Crazy, Stupid, Love.",primaryTitle,505820,Q4
 Casino,primaryTitle,502778,Q4
+A Quiet Place,primaryTitle,502532,Q4
 The Matrix Revolutions,primaryTitle,502419,Q4
 Rain Man,primaryTitle,500687,Q4
 Hacksaw Ridge,primaryTitle,496219,Q4
 The Perks of Being a Wallflower,primaryTitle,495144,Q4
 Hot Fuzz,primaryTitle,493374,Q4
 X-Men Origins: Wolverine,primaryTitle,493030,Q4
+The Pursuit of Happyness,primaryTitle,491905,Q4
 Pacific Rim,primaryTitle,490203,Q4
 Children of Men,primaryTitle,490002,Q4
 The Hangover Part II,primaryTitle,488604,Q4
@@ -216,11 +236,13 @@ Mr. & Mrs. Smith,primaryTitle,480857,Q4
 The Amazing Spider-Man 2,primaryTitle,478772,Q4
 Mission: Impossible - Ghost Protocol,primaryTitle,478748,Q4
 Star Trek Into Darkness,primaryTitle,478076,Q4
+The Butterfly Effect,primaryTitle,478022,Q4
 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,primaryTitle,477764,Q4
 Indiana Jones and the Temple of Doom,primaryTitle,475638,Q4
 Dallas Buyers Club,primaryTitle,474651,Q4
 The Incredible Hulk,primaryTitle,473213,Q4
 Love Actually,primaryTitle,472946,Q4
+American Sniper,primaryTitle,471432,Q4
 American Hustle,primaryTitle,470789,Q4
 Hancock,primaryTitle,470676,Q4
 Fury,primaryTitle,468684,Q4
@@ -230,12 +252,16 @@ Rush,primaryTitle,465600,Q4
 Charlie and the Chocolate Factory,primaryTitle,462526,Q4
 Warrior,primaryTitle,460980,Q4
 The Fifth Element,primaryTitle,460805,Q4
+Tenet,primaryTitle,460137,Q4
 Venom,primaryTitle,459712,Q4
+Green Book,primaryTitle,457352,Q4
 Spotlight,primaryTitle,456454,Q4
 The Bourne Supremacy,primaryTitle,455396,Q4
 Spider-Man: Far from Home,primaryTitle,453124,Q4
 The Girl with the Dragon Tattoo,primaryTitle,453065,Q4
 Twilight,primaryTitle,452185,Q4
+The Maze Runner,primaryTitle,450837,Q4
+Divergent,primaryTitle,449445,Q4
 Mystic River,primaryTitle,446869,Q4
 Fantastic Beasts and Where to Find Them,primaryTitle,446859,Q4
 Indiana Jones and the Kingdom of the Crystal Skull,primaryTitle,445935,Q4
@@ -244,7 +270,9 @@ Sherlock Holmes: A Game of Shadows,primaryTitle,443741,Q4
 The Hurt Locker,primaryTitle,442867,Q4
 The Hunger Games: Mockingjay - Part 1,primaryTitle,442699,Q4
 Lost in Translation,primaryTitle,442673,Q4
+It's a Wonderful Life,primaryTitle,442333,Q4
 Horrible Bosses,primaryTitle,440738,Q4
+Quantum of Solace,primaryTitle,439420,Q4
 Elysium,primaryTitle,439369,Q4
 The Day After Tomorrow,primaryTitle,438684,Q4
 Justice League,primaryTitle,438200,Q4
@@ -253,6 +281,7 @@ Aquaman,primaryTitle,436989,Q4
 We're the Millers,primaryTitle,435800,Q4
 Big Fish,primaryTitle,434220,Q4
 Back to the Future Part III,primaryTitle,433208,Q4
+Citizen Kane,primaryTitle,432245,Q4
 Crash,primaryTitle,432187,Q4
 Dawn of the Planet of the Apes,primaryTitle,431794,Q4
 Gangs of New York,primaryTitle,431564,Q4
@@ -269,6 +298,7 @@ The Mummy,primaryTitle,417213,Q4
 American Gangster,primaryTitle,416990,Q4
 Armageddon,primaryTitle,416910,Q4
 King Kong,primaryTitle,414572,Q4
+Scott Pilgrim vs. the World,primaryTitle,413150,Q4
 Sicario,primaryTitle,413081,Q4
 The Big Short,primaryTitle,412177,Q4
 Mission: Impossible,primaryTitle,412133,Q4
@@ -278,12 +308,14 @@ Unbreakable,primaryTitle,408651,Q4
 Saw,primaryTitle,408200,Q4
 Moneyball,primaryTitle,407621,Q4
 The Thing,primaryTitle,406678,Q4
+The Shape of Water,primaryTitle,406537,Q4
 Godzilla,primaryTitle,405674,Q4
 Platoon,primaryTitle,404485,Q4
 The Lost World: Jurassic Park,primaryTitle,403955,Q4
 This Is the End,primaryTitle,403481,Q4
 Tropic Thunder,primaryTitle,403342,Q4
 Ghostbusters,primaryTitle,402375,Q4
+28 Days Later...,primaryTitle,402224,Q4
 Unforgiven,primaryTitle,401867,Q4
 Live Free or Die Hard,primaryTitle,401753,Q4
 Transformers: Revenge of the Fallen,primaryTitle,401373,Q4
@@ -293,12 +325,21 @@ Predator,primaryTitle,397678,Q4
 American Pie,primaryTitle,397522,Q4
 E.T. the Extra-Terrestrial,primaryTitle,396713,Q4
 Bruce Almighty,primaryTitle,393170,Q4
+Terminator 3: Rise of the Machines,primaryTitle,392686,Q4
+Amadeus,primaryTitle,391527,Q4
+Cloverfield,primaryTitle,391121,Q4
+Stand by Me,primaryTitle,390688,Q4
+Life of Brian,primaryTitle,390672,Q4
+The Exorcist,primaryTitle,388597,Q4
 Collateral,primaryTitle,388159,Q4
 Passengers,primaryTitle,387971,Q4
 Fast & Furious 6,primaryTitle,387957,Q4
 Black Hawk Down,primaryTitle,387022,Q4
 The Godfather: Part III,primaryTitle,385137,Q4
+3 Idiots,primaryTitle,382585,Q4
 Furious 7,primaryTitle,382166,Q4
+Easy A,primaryTitle,382039,Q4
+The Lives of Others,primaryTitle,381424,Q4
 Wanted,primaryTitle,381222,Q4
 Ocean's Twelve,primaryTitle,381160,Q4
 The Game,primaryTitle,381123,Q4
@@ -306,6 +347,7 @@ Die Hard with a Vengeance,primaryTitle,380945,Q4
 The Town,primaryTitle,380055,Q4
 The Fast and the Furious,primaryTitle,376120,Q4
 Dumb and Dumber,primaryTitle,375106,Q4
+The Mask,primaryTitle,373872,Q4
 Fast Five,primaryTitle,373780,Q4
 Ant-Man and the Wasp,primaryTitle,373233,Q4
 2012,primaryTitle,370826,Q4
@@ -316,11 +358,13 @@ Face/Off,primaryTitle,367903,Q4
 The Illusionist,primaryTitle,367710,Q4
 22 Jump Street,primaryTitle,367632,Q4
 Batman,primaryTitle,367352,Q4
+The Fault in Our Stars,primaryTitle,366980,Q4
 Men in Black II,primaryTitle,365269,Q4
 Knocked Up,primaryTitle,364491,Q4
 Inside Man,primaryTitle,364144,Q4
 Mission: Impossible - Rogue Nation,primaryTitle,362634,Q4
 Jumanji: Welcome to the Jungle,primaryTitle,361682,Q4
+The Equalizer,primaryTitle,360866,Q4
 Ford v Ferrari,primaryTitle,360775,Q4
 The Italian Job,primaryTitle,360613,Q4
 Sweeney Todd: The Demon Barber of Fleet Street,primaryTitle,360371,Q4
@@ -337,6 +381,7 @@ Speed,primaryTitle,353635,Q4
 Moon,primaryTitle,352222,Q4
 Snowpiercer,primaryTitle,351314,Q4
 Sleepy Hollow,primaryTitle,350970,Q4
+Super 8,primaryTitle,349975,Q4
 Hotel Rwanda,primaryTitle,349627,Q4
 Wedding Crashers,primaryTitle,348803,Q4
 Anchorman: The Legend of Ron Burgundy,primaryTitle,348230,Q4
@@ -349,15 +394,19 @@ Raging Bull,primaryTitle,344152,Q4
 Home Alone 2: Lost in New York,primaryTitle,343238,Q4
 Moonrise Kingdom,primaryTitle,342116,Q4
 Once Upon a Time in America,primaryTitle,340535,Q4
+The Ring,primaryTitle,340417,Q4
 The Expendables,primaryTitle,340117,Q4
+Jackie Brown,primaryTitle,339911,Q4
 Ocean's Thirteen,primaryTitle,339307,Q4
 Shang-Chi and the Legend of the Ten Rings,primaryTitle,338717,Q4
 Due Date,primaryTitle,338377,Q4
+Night at the Museum,primaryTitle,337597,Q4
 Seven Samurai,primaryTitle,337259,Q4
 About Time,primaryTitle,334504,Q4
 Constantine,primaryTitle,333094,Q4
 Mission: Impossible II,primaryTitle,332817,Q4
 Pineapple Express,primaryTitle,332564,Q4
+No Time to Die,primaryTitle,332239,Q4
 True Grit,primaryTitle,332171,Q4
 The Deer Hunter,primaryTitle,332100,Q4
 Jack Reacher,primaryTitle,331718,Q4
@@ -373,7 +422,7 @@ Burn After Reading,primaryTitle,326667,Q4
 Pearl Harbor,primaryTitle,326507,Q4
 50/50,primaryTitle,326394,Q4
 Fantastic Four,primaryTitle,324303,Q4
-Les Misérables,primaryTitle,324090,Q4
+Les Miserables,primaryTitle,324090,Q4
 The Interview,primaryTitle,324054,Q4
 Equilibrium,primaryTitle,324048,Q4
 Click,primaryTitle,323577,Q4
@@ -382,15 +431,21 @@ John Wick: Chapter 3 - Parabellum,primaryTitle,323165,Q4
 Total Recall,primaryTitle,322400,Q4
 Top Gun,primaryTitle,321971,Q4
 Hellboy,primaryTitle,321947,Q4
+Bird Box,primaryTitle,321946,Q4
 Once Upon a Time in the West,primaryTitle,321838,Q4
 North by Northwest,primaryTitle,320013,Q4
 Real Steel,primaryTitle,319520,Q4
 The Proposal,primaryTitle,318913,Q4
 Mission: Impossible - Fallout,primaryTitle,318746,Q4
 Hugo,primaryTitle,318363,Q4
+Free Guy,primaryTitle,317678,Q4
+The Mummy Returns,primaryTitle,317318,Q4
 The Suicide Squad,primaryTitle,317184,Q4
+The Hunt,primaryTitle,316827,Q4
 The Hunger Games: Mockingjay - Part 2,primaryTitle,314645,Q4
 Kingsman: The Golden Circle,primaryTitle,314175,Q4
+Pretty Woman,primaryTitle,314125,Q4
+Shazam!,primaryTitle,313802,Q4
 Interview with the Vampire: The Vampire Chronicles,primaryTitle,313151,Q4
 The Island,primaryTitle,312583,Q4
 Hitch,primaryTitle,311749,Q4
@@ -402,6 +457,7 @@ Lucky Number Slevin,primaryTitle,309570,Q4
 Transformers: Age of Extinction,primaryTitle,309406,Q4
 Lord of War,primaryTitle,309294,Q4
 The Hangover Part III,primaryTitle,308929,Q4
+Gone with the Wind,primaryTitle,308553,Q4
 Kong: Skull Island,primaryTitle,308402,Q4
 The Gentlemen,primaryTitle,308175,Q4
 Magnolia,primaryTitle,306561,Q4
@@ -424,12 +480,18 @@ Contagion,primaryTitle,299101,Q4
 Beauty and the Beast,primaryTitle,298860,Q4
 Seven Pounds,primaryTitle,298768,Q4
 Donnie Brasco,primaryTitle,298515,Q4
+The Transporter,primaryTitle,298438,Q4
+School of Rock,primaryTitle,298365,Q4
+The Mist,primaryTitle,298252,Q4
+Moonlight,primaryTitle,298246,Q4
 The Bourne Legacy,primaryTitle,297995,Q4
 The Dictator,primaryTitle,297538,Q4
 Batman Returns,primaryTitle,297235,Q4
 Gattaca,primaryTitle,296635,Q4
 Public Enemies,primaryTitle,295994,Q4
+Jurassic World: Fallen Kingdom,primaryTitle,294762,Q4
 As Good as It Gets,primaryTitle,293448,Q4
+Alien 3,primaryTitle,293417,Q4
 Serenity,primaryTitle,293068,Q4
 Pirates of the Caribbean: Dead Men Tell No Tales,primaryTitle,292825,Q4
 Zero Dark Thirty,primaryTitle,292195,Q4
@@ -440,6 +502,7 @@ Insomnia,primaryTitle,289767,Q4
 Beetlejuice,primaryTitle,288893,Q4
 Apollo 13,primaryTitle,287990,Q4
 Angels & Demons,primaryTitle,287973,Q4
+Hereditary,primaryTitle,287662,Q4
 Step Brothers,primaryTitle,287475,Q4
 Scent of a Woman,primaryTitle,287036,Q4
 The Accountant,primaryTitle,287005,Q4
@@ -447,6 +510,7 @@ The Fugitive,primaryTitle,286917,Q4
 Lawrence of Arabia,primaryTitle,286465,Q4
 The Royal Tenenbaums,primaryTitle,286044,Q4
 Pride & Prejudice,primaryTitle,285191,Q4
+Snow White and the Huntsman,primaryTitle,285124,Q4
 Prince of Persia: The Sands of Time,primaryTitle,285105,Q4
 Kingdom of Heaven,primaryTitle,282157,Q4
 Lone Survivor,primaryTitle,281391,Q4
@@ -459,7 +523,10 @@ The Holiday,primaryTitle,279378,Q4
 Moulin Rouge!,primaryTitle,279249,Q4
 Forgetting Sarah Marshall,primaryTitle,279097,Q4
 Now You See Me 2,primaryTitle,277126,Q4
+Lady Bird,primaryTitle,275738,Q4
+Hachi: A Dog's Tale,primaryTitle,275729,Q4
 The World's End,primaryTitle,275405,Q4
+Predestination,primaryTitle,274799,Q4
 Panic Room,primaryTitle,274755,Q4
 Fear and Loathing in Las Vegas,primaryTitle,274710,Q4
 Gone in 60 Seconds,primaryTitle,273546,Q4
@@ -475,12 +542,14 @@ The Greatest Showman,primaryTitle,269272,Q4
 Contact,primaryTitle,269218,Q4
 The Patriot,primaryTitle,268828,Q4
 2 Fast 2 Furious,primaryTitle,268520,Q4
+The Graduate,primaryTitle,268134,Q4
 Gone Baby Gone,primaryTitle,268004,Q4
 John Carter,primaryTitle,267943,Q4
 Red Dragon,primaryTitle,267910,Q4
 Kick-Ass 2,primaryTitle,267515,Q4
 Nocturnal Animals,primaryTitle,267155,Q4
 1408,primaryTitle,267079,Q4
+Hellboy II: The Golden Army,primaryTitle,267028,Q4
 Meet the Fockers,primaryTitle,266396,Q4
 Creed,primaryTitle,265740,Q4
 Underworld,primaryTitle,265250,Q4
@@ -488,11 +557,15 @@ Robin Hood,primaryTitle,265024,Q4
 Blade,primaryTitle,264823,Q4
 "Crouching Tiger, Hidden Dragon",primaryTitle,264645,Q4
 Halloween,primaryTitle,264309,Q4
+The Fast and the Furious: Tokyo Drift,primaryTitle,264102,Q4
 Phone Booth,primaryTitle,263999,Q4
 Hulk,primaryTitle,263632,Q4
+The Goonies,primaryTitle,263379,Q4
+Don't Breathe,primaryTitle,263041,Q4
 Mrs. Doubtfire,primaryTitle,262986,Q4
 Sully,primaryTitle,262709,Q4
 The Place Beyond the Pines,primaryTitle,261989,Q4
+Annie Hall,primaryTitle,261849,Q4
 Fantastic 4: Rise of the Silver Surfer,primaryTitle,261250,Q4
 The Other Guys,primaryTitle,261209,Q4
 Non-Stop,primaryTitle,261047,Q4
@@ -508,10 +581,12 @@ Bad Boys,primaryTitle,258125,Q4
 Boogie Nights,primaryTitle,257919,Q4
 Dances with Wolves,primaryTitle,257478,Q4
 Enemy at the Gates,primaryTitle,257379,Q4
+Alita: Battle Angel,primaryTitle,257051,Q4
 Lincoln,primaryTitle,257049,Q4
 The Village,primaryTitle,256569,Q4
 The Sting,primaryTitle,256147,Q4
 The A-Team,primaryTitle,256096,Q4
+Aladdin,primaryTitle,255265,Q4
 A Few Good Men,primaryTitle,254521,Q4
 Fantastic Beasts: The Crimes of Grindelwald,primaryTitle,254490,Q4
 Call Me by Your Name,primaryTitle,253987,Q4
@@ -521,9 +596,12 @@ GoldenEye,primaryTitle,252911,Q4
 Lethal Weapon,primaryTitle,252731,Q4
 True Lies,primaryTitle,252585,Q4
 Noah,primaryTitle,252195,Q4
+Changeling,primaryTitle,251585,Q4
 American Pie 2,primaryTitle,251441,Q4
+Dog Day Afternoon,primaryTitle,251171,Q4
 RoboCop,primaryTitle,250986,Q4
 Dawn of the Dead,primaryTitle,250842,Q4
+For a Few Dollars More,primaryTitle,250155,Q4
 The Grey,primaryTitle,249935,Q4
 Hook,primaryTitle,249016,Q4
 Paul,primaryTitle,248433,Q4
@@ -546,13 +624,17 @@ First Blood,primaryTitle,244769,Q4
 The Twilight Saga: Breaking Dawn - Part 2,primaryTitle,244299,Q4
 Dodgeball: A True Underdog Story,primaryTitle,243349,Q4
 End of Watch,primaryTitle,242546,Q4
+Alien: Resurrection,primaryTitle,242388,Q4
+Maze Runner: The Scorch Trials,primaryTitle,242045,Q4
 The Bucket List,primaryTitle,241978,Q4
+Sinister,primaryTitle,241807,Q4
 Star Trek Beyond,primaryTitle,241649,Q4
 Spy,primaryTitle,241346,Q4
 Identity,primaryTitle,241329,Q4
 The Twilight Saga: Eclipse,primaryTitle,241297,Q4
 Wind River,primaryTitle,240708,Q4
 The Reader,primaryTitle,240582,Q4
+Me Before You,primaryTitle,240273,Q4
 Focus,primaryTitle,239969,Q4
 Enemy of the State,primaryTitle,239778,Q4
 Bridget Jones's Diary,primaryTitle,239612,Q4
@@ -562,6 +644,7 @@ How the Grinch Stole Christmas,primaryTitle,239216,Q4
 Lawless,primaryTitle,239116,Q4
 Escape Plan,primaryTitle,239102,Q4
 The Artist,primaryTitle,238991,Q4
+Eastern Promises,primaryTitle,238968,Q4
 Murder on the Orient Express,primaryTitle,238725,Q4
 The Tourist,primaryTitle,237587,Q4
 Philadelphia,primaryTitle,237168,Q4
@@ -569,6 +652,7 @@ The Boondock Saints,primaryTitle,236486,Q4
 Ender's Game,primaryTitle,236269,Q4
 The Twilight Saga: Breaking Dawn - Part 1,primaryTitle,236208,Q4
 Mamma Mia!,primaryTitle,235971,Q4
+Modern Times,primaryTitle,235828,Q4
 The Elephant Man,primaryTitle,235728,Q4
 Pitch Black,primaryTitle,235704,Q4
 I Am Number Four,primaryTitle,235670,Q4
@@ -583,9 +667,11 @@ Ben-Hur,primaryTitle,233946,Q4
 Glass,primaryTitle,232969,Q4
 Meet Joe Black,primaryTitle,232677,Q4
 Disturbia,primaryTitle,232489,Q4
+The Divergent Series: Insurgent,primaryTitle,232170,Q4
 Southpaw,primaryTitle,231910,Q4
 National Treasure: Book of Secrets,primaryTitle,231771,Q4
 What's Eating Gilbert Grape,primaryTitle,230847,Q4
+How to Lose a Guy in 10 Days,primaryTitle,230633,Q4
 The Lone Ranger,primaryTitle,230591,Q4
 The Lincoln Lawyer,primaryTitle,230552,Q4
 Natural Born Killers,primaryTitle,229584,Q4
@@ -594,6 +680,7 @@ Austin Powers: The Spy Who Shagged Me,primaryTitle,228725,Q4
 Warm Bodies,primaryTitle,228659,Q4
 Role Models,primaryTitle,228562,Q4
 Game Night,primaryTitle,227521,Q4
+Gandhi,primaryTitle,226804,Q4
 Old School,primaryTitle,226753,Q4
 Chicago,primaryTitle,226607,Q4
 Stranger Than Fiction,primaryTitle,226418,Q4
@@ -602,11 +689,13 @@ Body of Lies,primaryTitle,225669,Q4
 Transcendence,primaryTitle,225556,Q4
 The Fate of the Furious,primaryTitle,225482,Q4
 Ad Astra,primaryTitle,225126,Q4
+The Chronicles of Riddick,primaryTitle,224515,Q4
 Kiss Kiss Bang Bang,primaryTitle,224269,Q4
 Munich,primaryTitle,223771,Q4
 Romeo + Juliet,primaryTitle,223571,Q4
 Hell or High Water,primaryTitle,223450,Q4
 Mars Attacks!,primaryTitle,223314,Q4
+Dirty Dancing,primaryTitle,223128,Q4
 Life,primaryTitle,223045,Q4
 The Hitman's Bodyguard,primaryTitle,222982,Q4
 Jason Bourne,primaryTitle,222524,Q4
@@ -614,9 +703,13 @@ Shakespeare in Love,primaryTitle,222462,Q4
 Predators,primaryTitle,222085,Q4
 True Romance,primaryTitle,221991,Q4
 The Ides of March,primaryTitle,221108,Q4
+Ip Man,primaryTitle,220646,Q4
 The Girl Next Door,primaryTitle,220213,Q4
 Safe House,primaryTitle,219717,Q4
+El Camino: A Breaking Bad Movie,primaryTitle,219543,Q4
+Thank You for Smoking,primaryTitle,219415,Q4
 The Impossible,primaryTitle,218563,Q4
+The Karate Kid,primaryTitle,218215,Q4
 Cowboys & Aliens,primaryTitle,217927,Q4
 White House Down,primaryTitle,217696,Q4
 Planet of the Apes,primaryTitle,217449,Q4
@@ -624,6 +717,7 @@ Daredevil,primaryTitle,216951,Q4
 Master and Commander: The Far Side of the World,primaryTitle,216538,Q4
 The Bridge on the River Kwai,primaryTitle,216052,Q4
 Happy Gilmore,primaryTitle,216051,Q4
+Nobody,primaryTitle,215869,Q4
 Mother!,primaryTitle,215376,Q4
 Sleepers,primaryTitle,215312,Q4
 Match Point,primaryTitle,215296,Q4
@@ -632,28 +726,36 @@ Closer,primaryTitle,214690,Q4
 Big,primaryTitle,214584,Q4
 Get Smart,primaryTitle,214583,Q4
 Garden State,primaryTitle,214417,Q4
+Everest,primaryTitle,213865,Q4
 Rush Hour 2,primaryTitle,213862,Q4
 Carlito's Way,primaryTitle,213444,Q4
 Pain & Gain,primaryTitle,213268,Q4
 Gangster Squad,primaryTitle,213238,Q4
+Ace Ventura: When Nature Calls,primaryTitle,213228,Q4
 Rocky Balboa,primaryTitle,213210,Q4
 Blade II,primaryTitle,212874,Q4
 Anger Management,primaryTitle,212486,Q4
 Captain Fantastic,primaryTitle,212430,Q4
 Butch Cassidy and the Sundance Kid,primaryTitle,212416,Q4
+A Fistful of Dollars,primaryTitle,212185,Q4
 When Harry Met Sally...,primaryTitle,211924,Q4
 Ghost,primaryTitle,211602,Q4
 American Reunion,primaryTitle,211555,Q4
 King Arthur: Legend of the Sword,primaryTitle,211211,Q4
 Chef,primaryTitle,211100,Q4
 Bram Stoker's Dracula,primaryTitle,210854,Q4
+Ghost in the Shell,primaryTitle,210828,Q4
 The Boy in the Striped Pajamas,primaryTitle,210824,Q4
 Remember the Titans,primaryTitle,210418,Q4
+Legally Blonde,primaryTitle,208857,Q4
 You've Got Mail,primaryTitle,208509,Q4
 Teenage Mutant Ninja Turtles,primaryTitle,208364,Q4
 2 Guns,primaryTitle,208348,Q4
+Planet Terror,primaryTitle,208029,Q4
+P.S. I Love You,primaryTitle,207603,Q4
 Primal Fear,primaryTitle,207051,Q4
 G.I. Joe: The Rise of Cobra,primaryTitle,207033,Q4
+Lara Croft: Tomb Raider,primaryTitle,206950,Q4
 The Magnificent Seven,primaryTitle,206774,Q4
 Death Race,primaryTitle,206355,Q4
 Austin Powers in Goldmember,primaryTitle,206067,Q4
@@ -667,11 +769,13 @@ Rocky II,primaryTitle,204335,Q4
 Hansel & Gretel: Witch Hunters,primaryTitle,203842,Q4
 Fast & Furious Presents: Hobbs & Shaw,primaryTitle,203781,Q4
 Miss Congeniality,primaryTitle,203664,Q4
+Project X,primaryTitle,203637,Q4
 The Talented Mr. Ripley,primaryTitle,203603,Q4
 American Wedding,primaryTitle,203311,Q4
 "I Love You, Man",primaryTitle,203165,Q4
 A Quiet Place Part II,primaryTitle,202088,Q4
 Ghostbusters II,primaryTitle,202059,Q4
+Ted 2,primaryTitle,202002,Q4
 Fracture,primaryTitle,201461,Q4
 The Internship,primaryTitle,201343,Q4
 Bad Teacher,primaryTitle,201163,Q4
@@ -679,6 +783,7 @@ The Number 23,primaryTitle,200310,Q4
 Rocky IV,primaryTitle,200309,Q4
 Blue Jasmine,primaryTitle,200201,Q4
 You Don't Mess with the Zohan,primaryTitle,199061,Q4
+After Earth,primaryTitle,199016,Q4
 Tinker Tailor Soldier Spy,primaryTitle,198709,Q4
 Love & Other Drugs,primaryTitle,198361,Q4
 The World Is Not Enough,primaryTitle,198038,Q4
@@ -687,6 +792,7 @@ Underworld: Evolution,primaryTitle,197568,Q4
 Dark City,primaryTitle,197143,Q4
 Assassin's Creed,primaryTitle,196117,Q4
 Machete,primaryTitle,196006,Q4
+Straight Outta Compton,primaryTitle,195932,Q4
 17 Again,primaryTitle,195674,Q4
 The Hitchhiker's Guide to the Galaxy,primaryTitle,195349,Q4
 The Darjeeling Limited,primaryTitle,195245,Q4
@@ -694,13 +800,18 @@ The Next Three Days,primaryTitle,194818,Q4
 The Blues Brothers,primaryTitle,194746,Q4
 The Taking of Pelham 1 2 3,primaryTitle,194743,Q4
 Darkest Hour,primaryTitle,194648,Q4
+Basic Instinct,primaryTitle,194596,Q4
 Unstoppable,primaryTitle,194553,Q4
 The Hunt for Red October,primaryTitle,194154,Q4
+Alien vs. Predator,primaryTitle,194034,Q4
 The Lighthouse,primaryTitle,193933,Q4
+Blue Velvet,primaryTitle,193889,Q4
 The Life Aquatic with Steve Zissou,primaryTitle,193564,Q4
 Shame,primaryTitle,192713,Q4
 Waterworld,primaryTitle,192631,Q4
 The Tomorrow War,primaryTitle,192512,Q4
+Harold & Kumar Go to White Castle,primaryTitle,192427,Q4
+Paths of Glory,primaryTitle,192152,Q4
 Air Force One,primaryTitle,192142,Q4
 Secret Window,primaryTitle,192130,Q4
 The Vow,primaryTitle,191845,Q4
@@ -723,6 +834,7 @@ Wrath of the Titans,primaryTitle,187485,Q4
 Stargate,primaryTitle,186943,Q4
 Side Effects,primaryTitle,186849,Q4
 Jupiter Ascending,primaryTitle,186785,Q4
+A Million Ways to Die in the West,primaryTitle,186740,Q4
 Rocky III,primaryTitle,186180,Q4
 Percy Jackson & the Olympians: The Lightning Thief,primaryTitle,185873,Q4
 Jarhead,primaryTitle,185797,Q4
@@ -740,6 +852,7 @@ The Last King of Scotland,primaryTitle,183853,Q4
 First Man,primaryTitle,183540,Q4
 A Knight's Tale,primaryTitle,183209,Q4
 Grindhouse,primaryTitle,183177,Q4
+Desperado,primaryTitle,182906,Q4
 Central Intelligence,primaryTitle,182048,Q4
 Rushmore,primaryTitle,181977,Q4
 About a Boy,primaryTitle,181943,Q4
@@ -747,6 +860,7 @@ K-PAX,primaryTitle,181793,Q4
 Red Sparrow,primaryTitle,181554,Q4
 Ronin,primaryTitle,181270,Q4
 The Woman in Black,primaryTitle,181126,Q4
+The Seventh Seal,primaryTitle,180763,Q4
 Baywatch,primaryTitle,180706,Q4
 The Mask of Zorro,primaryTitle,180517,Q4
 Doctor Sleep,primaryTitle,180403,Q4
@@ -754,12 +868,15 @@ Talladega Nights: The Ballad of Ricky Bobby,primaryTitle,180259,Q4
 Tomorrowland,primaryTitle,180246,Q4
 G.I. Joe: Retaliation,primaryTitle,180129,Q4
 The Danish Girl,primaryTitle,179774,Q4
+The Bank Job,primaryTitle,179672,Q4
 Hero,primaryTitle,179625,Q4
 The Change-Up,primaryTitle,179483,Q4
 The Expendables 3,primaryTitle,179200,Q4
 Beverly Hills Cop,primaryTitle,178963,Q4
 Melancholia,primaryTitle,178810,Q4
 X-Men: Dark Phoenix,primaryTitle,178663,Q4
+Dazed and Confused,primaryTitle,178625,Q4
+The Crow,primaryTitle,178516,Q4
 xXx,primaryTitle,178442,Q4
 Anchorman 2: The Legend Continues,primaryTitle,178276,Q4
 PK,primaryTitle,178230,Q4
@@ -772,13 +889,17 @@ The Apartment,primaryTitle,177156,Q4
 Black Mass,primaryTitle,177066,Q4
 Valerian and the City of a Thousand Planets,primaryTitle,176935,Q4
 25th Hour,primaryTitle,176879,Q4
+The Road Warrior,primaryTitle,176651,Q4
 Zack and Miri Make a Porno,primaryTitle,176600,Q4
+Get Him to the Greek,primaryTitle,176461,Q4
 Independence Day: Resurgence,primaryTitle,176308,Q4
 Point Break,primaryTitle,176204,Q4
 Radhe,primaryTitle,176156,Q4
+Tucker and Dale vs Evil,primaryTitle,175412,Q4
 Deep Impact,primaryTitle,175366,Q4
 The Promise,primaryTitle,175348,Q4
 The Longest Yard,primaryTitle,175306,Q4
+The Fly,primaryTitle,175020,Q4
 The Tree of Life,primaryTitle,174896,Q4
 Godzilla: King of the Monsters,primaryTitle,174407,Q4
 The League of Extraordinary Gentlemen,primaryTitle,174399,Q4
@@ -800,17 +921,25 @@ Hot Tub Time Machine,primaryTitle,171673,Q4
 Demolition Man,primaryTitle,171452,Q4
 Superman,primaryTitle,171061,Q4
 Milk,primaryTitle,171050,Q4
+The Age of Adaline,primaryTitle,170591,Q4
 In the Name of the Father,primaryTitle,170467,Q4
 Zombieland: Double Tap,primaryTitle,170257,Q4
 The Master,primaryTitle,169790,Q4
+The Trial of the Chicago 7,primaryTitle,169229,Q4
+The Day the Earth Stood Still,primaryTitle,169097,Q4
 Three Kings,primaryTitle,168960,Q4
 Horrible Bosses 2,primaryTitle,168930,Q4
 Need for Speed,primaryTitle,168836,Q4
+The Third Man,primaryTitle,168787,Q4
 The Insider,primaryTitle,168657,Q4
 RED 2,primaryTitle,168638,Q4
 Alexander,primaryTitle,168238,Q4
+The Hills Have Eyes,primaryTitle,167941,Q4
+Hitman,primaryTitle,167896,Q4
 Miss Peregrine's Home for Peculiar Children,primaryTitle,167711,Q4
 Rocketman,primaryTitle,167631,Q4
+Road Trip,primaryTitle,167121,Q4
+Evil Dead,primaryTitle,167000,Q4
 Blades of Glory,primaryTitle,166786,Q4
 Immortals,primaryTitle,166700,Q4
 Exodus: Gods and Kings,primaryTitle,166545,Q4
@@ -818,17 +947,22 @@ Steve Jobs,primaryTitle,166396,Q4
 The Bone Collector,primaryTitle,166068,Q4
 King Arthur,primaryTitle,166016,Q4
 The Meg,primaryTitle,165935,Q4
+6 Underground,primaryTitle,165718,Q4
 Lethal Weapon 3,primaryTitle,165640,Q4
 Rambo: First Blood Part II,primaryTitle,165176,Q4
+Transporter 3,primaryTitle,165135,Q4
 The Perfect Storm,primaryTitle,165042,Q4
 The Man in the Iron Mask,primaryTitle,164992,Q4
 Deepwater Horizon,primaryTitle,164907,Q4
+The Naked Gun: From the Files of Police Squad!,primaryTitle,164829,Q4
 Rashomon,primaryTitle,164582,Q4
+Army of the Dead,primaryTitle,164550,Q4
 Rush Hour 3,primaryTitle,163905,Q4
 Molly's Game,primaryTitle,163503,Q4
 Riddick,primaryTitle,163338,Q4
 Unbroken,primaryTitle,163308,Q4
 Michael Clayton,primaryTitle,163072,Q4
+Barry Lyndon,primaryTitle,163019,Q4
 The Cable Guy,primaryTitle,162550,Q4
 The Ghost Writer,primaryTitle,161965,Q4
 Rampage,primaryTitle,161282,Q4
@@ -838,6 +972,7 @@ Lethal Weapon 4,primaryTitle,160842,Q4
 Punch-Drunk Love,primaryTitle,160758,Q4
 Date Night,primaryTitle,160603,Q4
 Flightplan,primaryTitle,160259,Q4
+The Waterboy,primaryTitle,160111,Q4
 The Sorcerer's Apprentice,primaryTitle,160047,Q4
 Once Upon a Time in Mexico,primaryTitle,159957,Q4
 Sin City: A Dame to Kill For,primaryTitle,159717,Q4
@@ -845,31 +980,43 @@ Saving Mr. Banks,primaryTitle,159589,Q4
 The Green Hornet,primaryTitle,159543,Q4
 Hard Candy,primaryTitle,159467,Q4
 Wild Wild West,primaryTitle,159314,Q4
+Enola Holmes,primaryTitle,159295,Q4
+Wonder,primaryTitle,158962,Q4
 Adventureland,primaryTitle,158793,Q4
 The Mechanic,primaryTitle,158749,Q4
+Buried,primaryTitle,158489,Q4
 The Mummy: Tomb of the Dragon Emperor,primaryTitle,158250,Q4
 Underworld: Rise of the Lycans,primaryTitle,158091,Q4
 Idiocracy,primaryTitle,158084,Q4
 The Punisher,primaryTitle,157974,Q4
 Predator 2,primaryTitle,157837,Q4
+47 Ronin,primaryTitle,157516,Q4
 Invictus,primaryTitle,157429,Q4
 Poltergeist,primaryTitle,157421,Q4
 Johnny English,primaryTitle,157243,Q4
 Commando,primaryTitle,157092,Q4
 Next,primaryTitle,156504,Q4
 Network,primaryTitle,156141,Q4
-Pokémon Detective Pikachu,primaryTitle,155723,Q4
+The Maltese Falcon,primaryTitle,156117,Q4
+She's the Man,primaryTitle,155834,Q4
+Pokemon Detective Pikachu,primaryTitle,155723,Q4
+The Old Guard,primaryTitle,155382,Q4
 London Has Fallen,primaryTitle,155253,Q4
 War Horse,primaryTitle,155019,Q4
 Wrath of Man,primaryTitle,154993,Q4
 Spy Game,primaryTitle,154839,Q4
 Young Frankenstein,primaryTitle,154823,Q4
 Abraham Lincoln: Vampire Hunter,primaryTitle,154612,Q4
+Wayne's World,primaryTitle,154005,Q4
 Bad Boys for Life,primaryTitle,153961,Q4
 Hercules,primaryTitle,153881,Q4
+Double Indemnity,primaryTitle,153528,Q4
+Jack Reacher: Never Go Back,primaryTitle,153133,Q4
 A Time to Kill,primaryTitle,153069,Q4
 Bridge to Terabithia,primaryTitle,152992,Q4
 From Hell,primaryTitle,152912,Q4
+Allied,primaryTitle,152833,Q4
+Dirty Harry,primaryTitle,152818,Q4
 Wall Street,primaryTitle,152662,Q4
 JFK,primaryTitle,152633,Q4
 Underworld: Awakening,primaryTitle,152500,Q4
@@ -877,13 +1024,16 @@ The Virgin Suicides,primaryTitle,152053,Q4
 The Gift,primaryTitle,151914,Q4
 Analyze This,primaryTitle,151857,Q4
 On the Waterfront,primaryTitle,151851,Q4
+The Chronicles of Narnia: The Voyage of the Dawn Treader,primaryTitle,151217,Q4
 The Spectacular Now,primaryTitle,150875,Q4
 Inside Llewyn Davis,primaryTitle,150681,Q4
 State of Play,primaryTitle,150566,Q4
 Man on a Ledge,primaryTitle,150535,Q4
 Grown Ups 2,primaryTitle,150474,Q4
 The Drop,primaryTitle,150284,Q4
+The Running Man,primaryTitle,150243,Q4
 The Addams Family,primaryTitle,150141,Q4
+We Need to Talk About Kevin,primaryTitle,150064,Q4
 Thelma & Louise,primaryTitle,149806,Q4
 The Disaster Artist,primaryTitle,149735,Q4
 Pandorum,primaryTitle,149527,Q4
@@ -892,115 +1042,150 @@ Snowden,primaryTitle,149313,Q4
 Rounders,primaryTitle,149300,Q4
 Vantage Point,primaryTitle,149253,Q4
 Shoot 'Em Up,primaryTitle,149212,Q4
-Green Street Hooligans,primaryTitle,148933,Q3
-Trading Places,primaryTitle,148667,Q3
-The Imaginarium of Doctor Parnassus,primaryTitle,148301,Q3
-The Time Traveler's Wife,primaryTitle,148190,Q3
-Crank: High Voltage,primaryTitle,147921,Q3
-The Lake House,primaryTitle,147552,Q3
-Transformers: The Last Knight,primaryTitle,147253,Q3
-Dear John,primaryTitle,146655,Q3
-Palm Springs,primaryTitle,146577,Q3
-I Now Pronounce You Chuck & Larry,primaryTitle,146098,Q3
-Conan the Barbarian,primaryTitle,145944,Q3
-Defiance,primaryTitle,145898,Q3
-Logan Lucky,primaryTitle,145782,Q3
-Evan Almighty,primaryTitle,145714,Q3
-S.W.A.T.,primaryTitle,145555,Q3
-Starsky & Hutch,primaryTitle,145463,Q3
-Crimson Peak,primaryTitle,144042,Q3
-Bad Times at the El Royale,primaryTitle,143939,Q3
-Smokin' Aces,primaryTitle,143766,Q3
-Fun with Dick and Jane,primaryTitle,143406,Q3
-Four Brothers,primaryTitle,143235,Q3
-Devil,primaryTitle,143017,Q3
-Tombstone,primaryTitle,142663,Q3
-Bad Santa,primaryTitle,142622,Q3
-Mr. Deeds,primaryTitle,142569,Q3
-Coach Carter,primaryTitle,142560,Q3
-Sicario: Day of the Soldado,primaryTitle,142178,Q3
-The Power of the Dog,primaryTitle,141846,Q3
-We Bought a Zoo,primaryTitle,141812,Q3
-Winter's Bone,primaryTitle,141693,Q3
-Killing Them Softly,primaryTitle,141378,Q3
-Billy Madison,primaryTitle,141162,Q3
-Tower Heist,primaryTitle,141140,Q3
-Foxcatcher,primaryTitle,140968,Q3
-The Ballad of Buster Scruggs,primaryTitle,140664,Q3
-Pixels,primaryTitle,140639,Q3
-Seven Years in Tibet,primaryTitle,140563,Q3
-Vice,primaryTitle,140560,Q3
-A Fish Called Wanda,primaryTitle,140116,Q3
-The Negotiator,primaryTitle,139714,Q3
-My Best Friend's Wedding,primaryTitle,139531,Q3
-Brooklyn,primaryTitle,139482,Q3
-The Constant Gardener,primaryTitle,139426,Q3
-Scream 3,primaryTitle,139344,Q3
-We Were Soldiers,primaryTitle,139233,Q3
-"Dude, Where's My Car?",primaryTitle,138780,Q3
-Escape from New York,primaryTitle,138360,Q3
-"Planes, Trains & Automobiles",primaryTitle,137979,Q3
-The Last Stand,primaryTitle,137932,Q3
-A Bronx Tale,primaryTitle,137714,Q3
-"Good Morning, Vietnam",primaryTitle,137104,Q3
-Boyz n the Hood,primaryTitle,137073,Q3
-Jack the Giant Slayer,primaryTitle,136950,Q3
-Lara Croft Tomb Raider: The Cradle of Life,primaryTitle,136927,Q3
-Awakenings,primaryTitle,136919,Q3
-Magic Mike,primaryTitle,136770,Q3
-The Scorpion King,primaryTitle,136592,Q3
-The Dark Tower,primaryTitle,136545,Q3
-13 Hours,primaryTitle,136539,Q3
-Green Zone,primaryTitle,136126,Q3
-Raising Arizona,primaryTitle,135976,Q3
-The Count of Monte Cristo,primaryTitle,135886,Q3
-Dumb and Dumber To,primaryTitle,135495,Q3
-In the Heart of the Sea,primaryTitle,135176,Q3
-Joy,primaryTitle,134934,Q3
-Rocky V,primaryTitle,134828,Q3
-The Recruit,primaryTitle,134540,Q3
-Rebecca,primaryTitle,134369,Q3
-Tremors,primaryTitle,134086,Q3
-Along Came Polly,primaryTitle,133971,Q3
-Reign of Fire,primaryTitle,133963,Q3
-Gamer,primaryTitle,133897,Q3
-Miller's Crossing,primaryTitle,133391,Q3
-Get Hard,primaryTitle,133069,Q3
-An Education,primaryTitle,132812,Q3
-Glory,primaryTitle,132667,Q3
-Highlander,primaryTitle,132635,Q3
-Spartacus,primaryTitle,132578,Q3
-Stuart Little,primaryTitle,132293,Q3
-"Hail, Caesar!",primaryTitle,132092,Q3
-The Great Wall,primaryTitle,132011,Q3
-Last Vegas,primaryTitle,131826,Q3
-Deep Blue Sea,primaryTitle,131704,Q3
-John Q,primaryTitle,131517,Q3
-Capote,primaryTitle,131378,Q3
-The Men Who Stare at Goats,primaryTitle,131329,Q3
-8MM,primaryTitle,131303,Q3
-The Firm,primaryTitle,131149,Q3
-The Break-Up,primaryTitle,131075,Q3
-The Last Duel,primaryTitle,130927,Q3
-Casper,primaryTitle,130904,Q3
-From Russia with Love,primaryTitle,130889,Q3
-Accepted,primaryTitle,130868,Q3
+Green Street Hooligans,primaryTitle,148933,Q4
+Trading Places,primaryTitle,148667,Q4
+Last Action Hero,primaryTitle,148541,Q4
+Saw IV,primaryTitle,148357,Q4
+The Imaginarium of Doctor Parnassus,primaryTitle,148301,Q4
+The Time Traveler's Wife,primaryTitle,148190,Q4
+Crank: High Voltage,primaryTitle,147921,Q4
+The Post,primaryTitle,147644,Q4
+The Lake House,primaryTitle,147552,Q4
+Transformers: The Last Knight,primaryTitle,147253,Q4
+The Wedding Singer,primaryTitle,146978,Q4
+Locke,primaryTitle,146770,Q4
+Dear John,primaryTitle,146655,Q4
+Palm Springs,primaryTitle,146577,Q4
+I Now Pronounce You Chuck & Larry,primaryTitle,146098,Q4
+Conan the Barbarian,primaryTitle,145944,Q4
+Defiance,primaryTitle,145898,Q4
+Logan Lucky,primaryTitle,145782,Q4
+Evan Almighty,primaryTitle,145714,Q4
+S.W.A.T.,primaryTitle,145555,Q4
+Starsky & Hutch,primaryTitle,145463,Q4
+Good Bye Lenin!,primaryTitle,144319,Q4
+The Founder,primaryTitle,144081,Q4
+Crimson Peak,primaryTitle,144042,Q4
+Bad Times at the El Royale,primaryTitle,143939,Q4
+Smokin' Aces,primaryTitle,143766,Q4
+Lars and the Real Girl,primaryTitle,143635,Q4
+Fun with Dick and Jane,primaryTitle,143406,Q4
+Four Brothers,primaryTitle,143235,Q4
+Devil,primaryTitle,143017,Q4
+Mulan,primaryTitle,142866,Q4
+Tombstone,primaryTitle,142663,Q4
+Bad Santa,primaryTitle,142622,Q4
+Mr. Deeds,primaryTitle,142569,Q4
+Coach Carter,primaryTitle,142560,Q4
+Sicario: Day of the Soldado,primaryTitle,142178,Q4
+The Power of the Dog,primaryTitle,141846,Q4
+We Bought a Zoo,primaryTitle,141812,Q4
+Winter's Bone,primaryTitle,141693,Q4
+White Chicks,primaryTitle,141379,Q4
+Killing Them Softly,primaryTitle,141378,Q4
+Billy Madison,primaryTitle,141162,Q4
+Tower Heist,primaryTitle,141140,Q4
+Foxcatcher,primaryTitle,140968,Q4
+The Ballad of Buster Scruggs,primaryTitle,140664,Q4
+Pixels,primaryTitle,140639,Q4
+Seven Years in Tibet,primaryTitle,140563,Q4
+Vice,primaryTitle,140560,Q4
+A Fish Called Wanda,primaryTitle,140116,Q4
+The Negotiator,primaryTitle,139714,Q4
+My Best Friend's Wedding,primaryTitle,139531,Q4
+Brooklyn,primaryTitle,139482,Q4
+The Constant Gardener,primaryTitle,139426,Q4
+Scream 3,primaryTitle,139344,Q4
+We Were Soldiers,primaryTitle,139233,Q4
+Another Round,primaryTitle,138799,Q4
+"Dude, Where's My Car?",primaryTitle,138780,Q4
+Ready or Not,primaryTitle,138724,Q4
+The Invention of Lying,primaryTitle,138516,Q4
+Escape from New York,primaryTitle,138360,Q4
+The Other Woman,primaryTitle,138111,Q4
+"Planes, Trains & Automobiles",primaryTitle,137979,Q4
+The Last Stand,primaryTitle,137932,Q4
+The Lost Boys,primaryTitle,137749,Q4
+A Bronx Tale,primaryTitle,137714,Q4
+This Is Spinal Tap,primaryTitle,137451,Q4
+"Good Morning, Vietnam",primaryTitle,137104,Q4
+Boyz n the Hood,primaryTitle,137073,Q4
+Jack the Giant Slayer,primaryTitle,136950,Q4
+Lara Croft Tomb Raider: The Cradle of Life,primaryTitle,136927,Q4
+Awakenings,primaryTitle,136919,Q4
+Magic Mike,primaryTitle,136770,Q4
+The Scorpion King,primaryTitle,136592,Q4
+The Dark Tower,primaryTitle,136545,Q4
+13 Hours,primaryTitle,136539,Q4
+Green Zone,primaryTitle,136126,Q4
+Roman Holiday,primaryTitle,136018,Q4
+Raising Arizona,primaryTitle,135976,Q4
+The Count of Monte Cristo,primaryTitle,135886,Q4
+Harold & Kumar Escape from Guantanamo Bay,primaryTitle,135861,Q4
+Blazing Saddles,primaryTitle,135678,Q4
+She's Out of My League,primaryTitle,135643,Q4
+Dumb and Dumber To,primaryTitle,135495,Q4
+In the Heart of the Sea,primaryTitle,135176,Q4
+Freaky Friday,primaryTitle,134977,Q4
+Joy,primaryTitle,134934,Q4
+Rocky V,primaryTitle,134828,Q4
+The Recruit,primaryTitle,134540,Q4
+Rebecca,primaryTitle,134369,Q4
+Mad Max Beyond Thunderdome,primaryTitle,134296,Q4
+Tremors,primaryTitle,134086,Q4
+Along Came Polly,primaryTitle,133971,Q4
+Reign of Fire,primaryTitle,133963,Q4
+Gamer,primaryTitle,133897,Q4
+Miller's Crossing,primaryTitle,133391,Q4
+Get Hard,primaryTitle,133069,Q4
+An Education,primaryTitle,132812,Q4
+The Parent Trap,primaryTitle,132768,Q4
+Shallow Hal,primaryTitle,132738,Q4
+Glory,primaryTitle,132667,Q4
+Highlander,primaryTitle,132635,Q4
+Let's Be Cops,primaryTitle,132612,Q4
+Spartacus,primaryTitle,132578,Q4
+Stuart Little,primaryTitle,132293,Q4
+Maze Runner: The Death Cure,primaryTitle,132152,Q4
+"Hail, Caesar!",primaryTitle,132092,Q4
+The Big Sick,primaryTitle,132067,Q4
+The Great Wall,primaryTitle,132011,Q4
+Last Vegas,primaryTitle,131826,Q4
+Identity Thief,primaryTitle,131782,Q4
+Deep Blue Sea,primaryTitle,131704,Q4
+John Q,primaryTitle,131517,Q4
+Capote,primaryTitle,131378,Q4
+The Men Who Stare at Goats,primaryTitle,131329,Q4
+8MM,primaryTitle,131303,Q4
+The Firm,primaryTitle,131149,Q4
+The Break-Up,primaryTitle,131075,Q4
+The Last Duel,primaryTitle,130927,Q4
+The Bodyguard,primaryTitle,130904,Q4
+Casper,primaryTitle,130904,Q4
+From Russia with Love,primaryTitle,130889,Q4
+Accepted,primaryTitle,130868,Q4
+Escape from Alcatraz,primaryTitle,130555,Q4
+Jennifer's Body,primaryTitle,130471,Q3
 The Monuments Men,primaryTitle,130460,Q3
 The Campaign,primaryTitle,130341,Q3
 Life as We Know It,primaryTitle,130148,Q3
 16 Blocks,primaryTitle,129971,Q3
 Jack Ryan: Shadow Recruit,primaryTitle,129906,Q3
 R.I.P.D.,primaryTitle,129899,Q3
+"10,000 BC",primaryTitle,129777,Q3
 Hollow Man,primaryTitle,129704,Q3
 Matchstick Men,primaryTitle,129598,Q3
+Me and Earl and the Dying Girl,primaryTitle,129572,Q3
 Syriana,primaryTitle,129500,Q3
 Man on the Moon,primaryTitle,129488,Q3
 Tag,primaryTitle,129323,Q3
 Rambo III,primaryTitle,129068,Q3
+Men in Black: International,primaryTitle,129018,Q3
 Savages,primaryTitle,128953,Q3
 Killer Elite,primaryTitle,128609,Q3
 Papillon,primaryTitle,128560,Q3
 Johnny English Reborn,primaryTitle,128284,Q3
+Bill & Ted's Excellent Adventure,primaryTitle,127959,Q3
 About Schmidt,primaryTitle,127762,Q3
 Cliffhanger,primaryTitle,127704,Q3
 Outbreak,primaryTitle,127623,Q3
@@ -1013,66 +1198,99 @@ The Score,primaryTitle,126703,Q3
 Margin Call,primaryTitle,126151,Q3
 The Watch,primaryTitle,126072,Q3
 Ransom,primaryTitle,125988,Q3
+The Predator,primaryTitle,125947,Q3
+Hunt for the Wilderpeople,primaryTitle,125859,Q3
+Oculus,primaryTitle,125662,Q3
 Eragon,primaryTitle,125600,Q3
 Shanghai Noon,primaryTitle,125527,Q3
 Carnage,primaryTitle,125519,Q3
 Max Payne,primaryTitle,125383,Q3
+Safety Not Guaranteed,primaryTitle,124974,Q3
+The Devil All the Time,primaryTitle,124755,Q3
 Hall Pass,primaryTitle,124716,Q3
 The Kingdom,primaryTitle,124544,Q3
+The Kid,primaryTitle,123844,Q3
+Star Trek: First Contact,primaryTitle,123606,Q3
 The Time Machine,primaryTitle,123483,Q3
 Empire of the Sun,primaryTitle,123340,Q3
 Mr. Bean's Holiday,primaryTitle,123235,Q3
 Police Academy,primaryTitle,123124,Q3
 Infernal Affairs,primaryTitle,123088,Q3
 Triple Frontier,primaryTitle,123008,Q3
+Saw V,primaryTitle,122714,Q3
 Brothers,primaryTitle,122495,Q3
+The Treasure of the Sierra Madre,primaryTitle,122459,Q3
 Flags of Our Fathers,primaryTitle,122318,Q3
+House of Wax,primaryTitle,122308,Q3
 Twins,primaryTitle,122253,Q3
+Mortal Engines,primaryTitle,122224,Q3
 Nymphomaniac: Vol. I,primaryTitle,122219,Q3
 T2 Trainspotting,primaryTitle,121806,Q3
 Leaving Las Vegas,primaryTitle,121697,Q3
+One Hour Photo,primaryTitle,121631,Q3
 Dirty Grandpa,primaryTitle,121446,Q3
 Contraband,primaryTitle,121392,Q3
 Parker,primaryTitle,121369,Q3
+Y tu mama tambien,primaryTitle,121262,Q3
 The Phantom of the Opera,primaryTitle,121207,Q3
+Witness for the Prosecution,primaryTitle,121180,Q3
 The 6th Day,primaryTitle,121124,Q3
 Neighbors 2: Sorority Rising,primaryTitle,120801,Q3
 Journey to the Center of the Earth,primaryTitle,120693,Q3
 Murder Mystery,primaryTitle,120689,Q3
+My Cousin Vinny,primaryTitle,120621,Q3
 Tears of the Sun,primaryTitle,120500,Q3
+Yojimbo,primaryTitle,120206,Q3
 The Two Popes,primaryTitle,120201,Q3
 The Brothers Grimm,primaryTitle,120061,Q3
+Serpico,primaryTitle,120009,Q3
 The French Connection,primaryTitle,119891,Q3
 Creed II,primaryTitle,119858,Q3
+Let Me In,primaryTitle,119771,Q3
 Scary Movie 4,primaryTitle,119677,Q3
 Something's Gotta Give,primaryTitle,119637,Q3
+Ghost World,primaryTitle,119454,Q3
 Barton Fink,primaryTitle,119410,Q3
+A Walk Among the Tombstones,primaryTitle,119400,Q3
 The Whole Nine Yards,primaryTitle,119385,Q3
 TRON,primaryTitle,119312,Q3
+What Happened to Monday,primaryTitle,119275,Q3
 The Crazies,primaryTitle,119121,Q3
 F9: The Fast Saga,primaryTitle,119114,Q3
+City of Angels,primaryTitle,119067,Q3
 Priest,primaryTitle,119045,Q3
+National Lampoon's Animal House,primaryTitle,119023,Q3
 Star Trek II: The Wrath of Khan,primaryTitle,119022,Q3
+Love and Monsters,primaryTitle,118915,Q3
 Red Eye,primaryTitle,118819,Q3
+Allegiant,primaryTitle,118766,Q3
 The Meaning of Life,primaryTitle,118528,Q3
 Green Room,primaryTitle,118526,Q3
 Night at the Museum: Secret of the Tomb,primaryTitle,118384,Q3
 Funny People,primaryTitle,118283,Q3
 Wild Things,primaryTitle,118201,Q3
 Homefront,primaryTitle,118183,Q3
+The Host,primaryTitle,118152,Q3
 Pay It Forward,primaryTitle,117991,Q3
 Any Given Sunday,primaryTitle,117945,Q3
+Color It Yellow,primaryTitle,117928,Q3
+Wrong Turn,primaryTitle,117664,Q3
 Wild Hogs,primaryTitle,117660,Q3
+Catwoman,primaryTitle,117588,Q3
 Daddy's Home,primaryTitle,117581,Q3
+The Giver,primaryTitle,117553,Q3
 Ghost Rider: Spirit of Vengeance,primaryTitle,117397,Q3
 Beverly Hills Cop II,primaryTitle,117183,Q3
 Okja,primaryTitle,117122,Q3
+Nebraska,primaryTitle,116884,Q3
 Charlie Wilson's War,primaryTitle,116834,Q3
 Sonic the Hedgehog,primaryTitle,116805,Q3
 Julie & Julia,primaryTitle,116768,Q3
 Field of Dreams,primaryTitle,116659,Q3
+Mortal Kombat,primaryTitle,116628,Q3
 Judge Dredd,primaryTitle,116536,Q3
 The Best Offer,primaryTitle,116481,Q3
+Percy Jackson: Sea of Monsters,primaryTitle,116357,Q3
 From Paris with Love,primaryTitle,116352,Q3
 Just Friends,primaryTitle,116008,Q3
 The Omen,primaryTitle,115944,Q3
@@ -1082,21 +1300,27 @@ Miami Vice,primaryTitle,115603,Q3
 Water for Elephants,primaryTitle,115375,Q3
 Caddyshack,primaryTitle,115260,Q3
 The Way Back,primaryTitle,115201,Q3
+Escape Room,primaryTitle,115194,Q3
 Spy Kids,primaryTitle,115166,Q3
 Men of Honor,primaryTitle,114972,Q3
 The Jackal,primaryTitle,114950,Q3
 Death at a Funeral,primaryTitle,114683,Q3
 Swiss Army Man,primaryTitle,114596,Q3
+Pacific Rim: Uprising,primaryTitle,114567,Q3
 Burnt,primaryTitle,114550,Q3
 Gods of Egypt,primaryTitle,114297,Q3
+Rat Race,primaryTitle,114226,Q3
 Entrapment,primaryTitle,114148,Q3
 Out of the Furnace,primaryTitle,114068,Q3
 The Sum of All Fears,primaryTitle,113985,Q3
+Mr. Smith Goes to Washington,primaryTitle,113862,Q3
+Baahubali: The Beginning,primaryTitle,113858,Q3
 Lee Daniels' The Butler,primaryTitle,113688,Q3
 The Santa Clause,primaryTitle,113365,Q3
 Trance,primaryTitle,113252,Q3
 Premium Rush,primaryTitle,113217,Q3
 The Commuter,primaryTitle,113102,Q3
+Seeking a Friend for the End of the World,primaryTitle,112946,Q3
 Bridget Jones: The Edge of Reason,primaryTitle,112840,Q3
 All the President's Men,primaryTitle,112601,Q3
 Doom,primaryTitle,112421,Q3
@@ -1107,25 +1331,31 @@ Patch Adams,primaryTitle,111873,Q3
 Ride Along,primaryTitle,111803,Q3
 Gothika,primaryTitle,111742,Q3
 Sex Tape,primaryTitle,111647,Q3
-The Naked Gun 2½: The Smell of Fear,primaryTitle,111617,Q3
+The Naked Gun 212: The Smell of Fear,primaryTitle,111617,Q3
+Lagaan: Once Upon a Time in India,primaryTitle,111598,Q3
 Serendipity,primaryTitle,111595,Q3
+Only God Forgives,primaryTitle,111513,Q3
 Little Fockers,primaryTitle,111421,Q3
 Red Riding Hood,primaryTitle,111317,Q3
 The Other Boleyn Girl,primaryTitle,111192,Q3
 House of Flying Daggers,primaryTitle,111170,Q3
 The Amityville Horror,primaryTitle,111087,Q3
 A Single Man,primaryTitle,111075,Q3
+Sweet Home Alabama,primaryTitle,110855,Q3
 The Boat That Rocked,primaryTitle,110542,Q3
 Bonnie and Clyde,primaryTitle,110520,Q3
 Little Children,primaryTitle,110513,Q3
 Crimson Tide,primaryTitle,110475,Q3
 Paddington,primaryTitle,110469,Q3
+Pompeii,primaryTitle,110339,Q3
 Patriot Games,primaryTitle,110327,Q3
 Gemini Man,primaryTitle,110102,Q3
 Why Him?,primaryTitle,110019,Q3
 Friday,primaryTitle,109997,Q3
 Silence,primaryTitle,109919,Q3
 The Guilty,primaryTitle,109918,Q3
+Hostage,primaryTitle,109863,Q3
+Saw VI,primaryTitle,109764,Q3
 Maverick,primaryTitle,109688,Q3
 The Manchurian Candidate,primaryTitle,109686,Q3
 End of Days,primaryTitle,109661,Q3
@@ -1135,16 +1365,23 @@ Eraser,primaryTitle,109271,Q3
 The Family Man,primaryTitle,109243,Q3
 Scooby-Doo,primaryTitle,109199,Q3
 The Queen,primaryTitle,109175,Q3
+The Gold Rush,primaryTitle,109171,Q3
 Bend It Like Beckham,primaryTitle,109160,Q3
+The Conversation,primaryTitle,109074,Q3
+Hannibal Rising,primaryTitle,109050,Q3
 Marie Antoinette,primaryTitle,109009,Q3
 Midnight Cowboy,primaryTitle,108996,Q3
+Soorarai Pottru,primaryTitle,108962,Q3
 Greenland,primaryTitle,108953,Q3
+Paul Blart: Mall Cop,primaryTitle,108779,Q3
+Van Wilder,primaryTitle,108687,Q3
 The Man Who Wasn't There,primaryTitle,108387,Q3
 Easy Rider,primaryTitle,108151,Q3
 Dancer in the Dark,primaryTitle,108093,Q3
 The Iron Lady,primaryTitle,108090,Q3
 Run All Night,primaryTitle,108019,Q3
 Driving Miss Daisy,primaryTitle,107787,Q3
+Long Shot,primaryTitle,107705,Q3
 Stoker,primaryTitle,107645,Q3
 Paycheck,primaryTitle,107618,Q3
 The Mexican,primaryTitle,107534,Q3
@@ -1152,6 +1389,7 @@ What Dreams May Come,primaryTitle,107491,Q3
 Downsizing,primaryTitle,107463,Q3
 Filth,primaryTitle,107381,Q3
 Mean Streets,primaryTitle,107276,Q3
+Get the Gringo,primaryTitle,107181,Q3
 Couples Retreat,primaryTitle,107156,Q3
 The Three Musketeers,primaryTitle,107135,Q3
 The Name of the Rose,primaryTitle,107130,Q3
@@ -1159,6 +1397,7 @@ Frost/Nixon,primaryTitle,107086,Q3
 Frequency,primaryTitle,106721,Q3
 August Rush,primaryTitle,106695,Q3
 Den of Thieves,primaryTitle,106639,Q3
+The Spy Who Loved Me,primaryTitle,106395,Q3
 National Lampoon's Vacation,primaryTitle,106263,Q3
 Faster,primaryTitle,106253,Q3
 A Streetcar Named Desire,primaryTitle,106209,Q3
@@ -1173,25 +1412,34 @@ Dinner for Schmucks,primaryTitle,105560,Q3
 Sphere,primaryTitle,105498,Q3
 Repo Men,primaryTitle,105439,Q3
 Rescue Dawn,primaryTitle,105177,Q3
+Live and Let Die,primaryTitle,105168,Q3
+Brick,primaryTitle,105101,Q3
 Shanghai Knights,primaryTitle,104996,Q3
 The Forbidden Kingdom,primaryTitle,104941,Q3
 Geostorm,primaryTitle,104897,Q3
 The Full Monty,primaryTitle,104889,Q3
+Epic Movie,primaryTitle,104888,Q3
+The Invitation,primaryTitle,104678,Q3
 Fright Night,primaryTitle,104582,Q3
+Tootsie,primaryTitle,104468,Q3
 Movie 43,primaryTitle,104448,Q3
+Born on the Fourth of July,primaryTitle,104401,Q3
 Behind Enemy Lines,primaryTitle,104382,Q3
+Not Another Teen Movie,primaryTitle,104213,Q3
 Legion,primaryTitle,103960,Q3
 Little Nicky,primaryTitle,103845,Q3
 The Switch,primaryTitle,103745,Q3
 The Ladykillers,primaryTitle,103705,Q3
 Tango & Cash,primaryTitle,103654,Q3
 The King's Man,primaryTitle,103486,Q3
+Ip Man 2,primaryTitle,103479,Q3
 Four Rooms,primaryTitle,103451,Q3
 The Man with the Golden Gun,primaryTitle,103303,Q3
 Poseidon,primaryTitle,103233,Q3
 Super Troopers,primaryTitle,103191,Q3
 Glengarry Glen Ross,primaryTitle,103180,Q3
 Touch of Evil,primaryTitle,103145,Q3
+Bean,primaryTitle,103126,Q3
 Anaconda,primaryTitle,103020,Q3
 The Cloverfield Paradox,primaryTitle,102837,Q3
 Naked Gun 33 1/3: The Final Insult,primaryTitle,102793,Q3
@@ -1208,13 +1456,17 @@ The Good Shepherd,primaryTitle,102324,Q3
 Journey 2: The Mysterious Island,primaryTitle,102248,Q3
 Unleashed,primaryTitle,102063,Q3
 That Awkward Moment,primaryTitle,101981,Q3
+Cool Runnings,primaryTitle,101968,Q3
 Wall Street: Money Never Sleeps,primaryTitle,101937,Q3
 Dan in Real Life,primaryTitle,101926,Q3
 Zathura: A Space Adventure,primaryTitle,101874,Q3
 The Rum Diary,primaryTitle,101775,Q3
+St. Vincent,primaryTitle,101717,Q3
 The Cell,primaryTitle,101477,Q3
 In the Line of Fire,primaryTitle,101467,Q3
+Paper Towns,primaryTitle,101354,Q3
 The Last Emperor,primaryTitle,101097,Q3
+Headhunters,primaryTitle,101089,Q3
 Extremely Loud & Incredibly Close,primaryTitle,101074,Q3
 Patton,primaryTitle,100621,Q3
 The Last Boy Scout,primaryTitle,100599,Q3
@@ -1223,33 +1475,44 @@ Your Highness,primaryTitle,100467,Q3
 While You Were Sleeping,primaryTitle,100452,Q3
 Patriots Day,primaryTitle,100258,Q3
 Never Back Down,primaryTitle,100250,Q3
+Colombiana,primaryTitle,100197,Q3
 The Counselor,primaryTitle,100167,Q3
+The King of Comedy,primaryTitle,99973,Q3
+The Brothers Grimsby,primaryTitle,99947,Q3
 Ruby Sparks,primaryTitle,99727,Q3
 The Losers,primaryTitle,99652,Q3
 Running Scared,primaryTitle,99627,Q3
+Do the Right Thing,primaryTitle,99552,Q3
 Cellular,primaryTitle,99489,Q3
+Ghost Ship,primaryTitle,99474,Q3
 Notorious,primaryTitle,99434,Q3
 The Death of Stalin,primaryTitle,99400,Q3
 Conspiracy Theory,primaryTitle,99273,Q3
+Take Shelter,primaryTitle,99249,Q3
 Lolita,primaryTitle,99231,Q3
 30 Minutes or Less,primaryTitle,99175,Q3
 Vacancy,primaryTitle,99148,Q3
 Lady in the Water,primaryTitle,98998,Q3
 Money Monster,primaryTitle,98917,Q3
+The Purge: Election Year,primaryTitle,98882,Q3
 The Unforgivable,primaryTitle,98834,Q3
 Child's Play,primaryTitle,98765,Q3
 eXistenZ,primaryTitle,98736,Q3
 Only Lovers Left Alive,primaryTitle,98678,Q3
 Collateral Beauty,primaryTitle,98650,Q3
+Scrooged,primaryTitle,98460,Q3
+The Devil's Rejects,primaryTitle,98387,Q3
 Anna Karenina,primaryTitle,98381,Q3
 Ali,primaryTitle,98271,Q3
 Mississippi Burning,primaryTitle,98149,Q3
 The Core,primaryTitle,98111,Q3
+That's My Boy,primaryTitle,98105,Q3
+WarGames,primaryTitle,98029,Q3
 The Five-Year Engagement,primaryTitle,97981,Q3
 Drive Angry,primaryTitle,97892,Q3
 Nightmare Alley,primaryTitle,97879,Q3
-Lockout,primaryTitle,97778,Q3
 Self/less,primaryTitle,97778,Q3
+Lockout,primaryTitle,97778,Q3
 Demolition,primaryTitle,97624,Q3
 Runaway Bride,primaryTitle,97601,Q3
 The Cider House Rules,primaryTitle,97593,Q3
@@ -1259,18 +1522,22 @@ Bone Tomahawk,primaryTitle,97255,Q3
 "Good Night, and Good Luck.",primaryTitle,97238,Q3
 Broken Arrow,primaryTitle,97167,Q3
 Sahara,primaryTitle,97114,Q3
+Saw: The Final Chapter,primaryTitle,97066,Q3
 Year One,primaryTitle,96975,Q3
 The Rite,primaryTitle,96505,Q3
 Waiting...,primaryTitle,96493,Q3
 The French Dispatch,primaryTitle,96463,Q3
+The Living Daylights,primaryTitle,96451,Q3
 DragonHeart,primaryTitle,96381,Q3
 Intolerable Cruelty,primaryTitle,96343,Q3
 Doctor Dolittle,primaryTitle,96206,Q3
 Runaway Jury,primaryTitle,96158,Q3
+Overlord,primaryTitle,96060,Q3
 The Hurricane,primaryTitle,96024,Q3
 A View to a Kill,primaryTitle,95776,Q3
 Election,primaryTitle,95767,Q3
 Land of the Dead,primaryTitle,95764,Q3
+Funny Games,primaryTitle,95657,Q3
 Reign Over Me,primaryTitle,95536,Q3
 Eat Pray Love,primaryTitle,95431,Q3
 Dead Man,primaryTitle,95324,Q3
@@ -1278,12 +1545,14 @@ Babylon A.D.,primaryTitle,95274,Q3
 I Love You Phillip Morris,primaryTitle,94995,Q3
 A Cure for Wellness,primaryTitle,94957,Q3
 The International,primaryTitle,94919,Q3
+Blood Simple,primaryTitle,94917,Q3
 Revolver,primaryTitle,94477,Q3
 A Good Year,primaryTitle,94332,Q3
 The Best Exotic Marigold Hotel,primaryTitle,94273,Q3
 The Spiderwick Chronicles,primaryTitle,94259,Q3
 She's All That,primaryTitle,94207,Q3
 Clue,primaryTitle,93868,Q3
+My Fair Lady,primaryTitle,93738,Q3
 Edge of Darkness,primaryTitle,93674,Q3
 Dead Man Walking,primaryTitle,93660,Q3
 Bedtime Stories,primaryTitle,93625,Q3
@@ -1293,8 +1562,11 @@ Angel Has Fallen,primaryTitle,93520,Q3
 Hardcore Henry,primaryTitle,93492,Q3
 Season of the Witch,primaryTitle,93455,Q3
 Gangs of Wasseypur,primaryTitle,93289,Q3
+The Experiment,primaryTitle,93263,Q3
 Grosse Pointe Blank,primaryTitle,93247,Q3
 Concussion,primaryTitle,93115,Q3
+The Pacifier,primaryTitle,93051,Q3
+Witness,primaryTitle,93010,Q3
 42,primaryTitle,92864,Q3
 House of Gucci,primaryTitle,92843,Q3
 Malcolm X,primaryTitle,92825,Q3
@@ -1307,9 +1579,10 @@ Dreamcatcher,primaryTitle,91873,Q3
 Sing Street,primaryTitle,91709,Q3
 Eddie the Eagle,primaryTitle,91706,Q3
 The Quick and the Dead,primaryTitle,91611,Q3
+Nick and Norah's Infinite Playlist,primaryTitle,91610,Q3
 The Guardian,primaryTitle,91516,Q3
-It's Complicated,primaryTitle,91425,Q3
 The Muppets,primaryTitle,91425,Q3
+It's Complicated,primaryTitle,91425,Q3
 Romancing the Stone,primaryTitle,91395,Q3
 The Box,primaryTitle,91352,Q3
 The One,primaryTitle,91328,Q3
@@ -1317,26 +1590,34 @@ Beginners,primaryTitle,91308,Q3
 Teenage Mutant Ninja Turtles: Out of the Shadows,primaryTitle,91297,Q3
 Big Eyes,primaryTitle,91291,Q3
 Wild at Heart,primaryTitle,91283,Q3
+It Comes at Night,primaryTitle,91250,Q3
 Out of Sight,primaryTitle,91177,Q3
 The Last House on the Left,primaryTitle,91088,Q3
 Nymphomaniac: Vol. II,primaryTitle,91085,Q3
+The Grapes of Wrath,primaryTitle,91019,Q3
 The X Files: I Want to Believe,primaryTitle,90953,Q3
 Killers,primaryTitle,90928,Q3
 The Circle,primaryTitle,90864,Q3
 Be Kind Rewind,primaryTitle,90830,Q3
 The Doors,primaryTitle,90773,Q3
+xXx: Return of Xander Cage,primaryTitle,90745,Q3
 Selma,primaryTitle,90727,Q3
 Addams Family Values,primaryTitle,90648,Q3
 Old,primaryTitle,90645,Q3
+Here Comes the Boom,primaryTitle,90520,Q3
 Pet Sematary,primaryTitle,90471,Q3
+Eurovision Song Contest: The Story of Fire Saga,primaryTitle,90458,Q3
 American Ultra,primaryTitle,90250,Q3
 War,primaryTitle,90069,Q3
+Secretary,primaryTitle,89879,Q3
 Trick 'r Treat,primaryTitle,89877,Q3
 Hitman: Agent 47,primaryTitle,89833,Q3
+Submarine,primaryTitle,89618,Q3
 Sweet November,primaryTitle,89594,Q3
 Hot Shots! Part Deux,primaryTitle,89567,Q3
 Good Luck Chuck,primaryTitle,89537,Q3
 Piranha 3D,primaryTitle,89471,Q3
+Never Been Kissed,primaryTitle,89314,Q3
 Around the World in 80 Days,primaryTitle,89036,Q3
 October Sky,primaryTitle,89010,Q3
 Ghosts of Girlfriends Past,primaryTitle,88969,Q3
@@ -1345,21 +1626,32 @@ Taking Lives,primaryTitle,88625,Q3
 Flubber,primaryTitle,88506,Q3
 Maid in Manhattan,primaryTitle,88506,Q3
 Frida,primaryTitle,88434,Q3
+Say Anything,primaryTitle,88270,Q3
 Universal Soldier,primaryTitle,88162,Q3
 We Own the Night,primaryTitle,88132,Q3
 The Lost City of Z,primaryTitle,88130,Q3
 Star Trek: The Motion Picture,primaryTitle,88091,Q3
+Mike and Dave Need Wedding Dates,primaryTitle,88071,Q3
 The Highwaymen,primaryTitle,87953,Q3
+American Graffiti,primaryTitle,87945,Q3
 Righteous Kill,primaryTitle,87695,Q3
+The Karate Kid Part II,primaryTitle,87669,Q3
+Unfaithful,primaryTitle,87620,Q3
 Confessions of a Dangerous Mind,primaryTitle,87585,Q3
+Cop Out,primaryTitle,87516,Q3
 Risky Business,primaryTitle,87485,Q3
+The Searchers,primaryTitle,87466,Q3
 The Birdcage,primaryTitle,87464,Q3
 Unthinkable,primaryTitle,87462,Q3
 Snitch,primaryTitle,87449,Q3
 To Rome with Love,primaryTitle,87427,Q3
+Baahubali 2: The Conclusion,primaryTitle,87313,Q3
 Mirror Mirror,primaryTitle,87192,Q3
+Stuck in Love.,primaryTitle,87186,Q3
 Sex Drive,primaryTitle,87127,Q3
+The Frighteners,primaryTitle,87076,Q3
 Halloween II,primaryTitle,87027,Q3
+Goosebumps,primaryTitle,87006,Q3
 Half Nelson,primaryTitle,86731,Q3
 Jane Eyre,primaryTitle,86642,Q3
 Goon,primaryTitle,86641,Q3
@@ -1372,6 +1664,7 @@ Blitz,primaryTitle,86253,Q3
 The Green Knight,primaryTitle,86235,Q3
 Gosford Park,primaryTitle,86177,Q3
 Thir13en Ghosts,primaryTitle,86058,Q3
+A Cinderella Story,primaryTitle,85970,Q3
 The New World,primaryTitle,85767,Q3
 Holes,primaryTitle,85748,Q3
 Finding Forrester,primaryTitle,85726,Q3
@@ -1380,6 +1673,8 @@ Days of Thunder,primaryTitle,85590,Q3
 The Guard,primaryTitle,85580,Q3
 The Pink Panther,primaryTitle,85566,Q3
 Flatliners,primaryTitle,85486,Q3
+RoboCop 2,primaryTitle,85485,Q3
+The Celebration,primaryTitle,85467,Q3
 Sky High,primaryTitle,85407,Q3
 Tommy Boy,primaryTitle,85173,Q3
 The Pelican Brief,primaryTitle,85139,Q3
@@ -1393,21 +1688,27 @@ No Escape,primaryTitle,84654,Q3
 The Raven,primaryTitle,84630,Q3
 Midnight Run,primaryTitle,84432,Q3
 Case 39,primaryTitle,84416,Q3
+Hot Rod,primaryTitle,84376,Q3
 Sky Captain and the World of Tomorrow,primaryTitle,84356,Q3
 Bajrangi Bhaijaan,primaryTitle,84319,Q3
 A Perfect Murder,primaryTitle,84297,Q3
+The BFG,primaryTitle,84270,Q3
 The Fisher King,primaryTitle,84164,Q3
 Project Power,primaryTitle,84121,Q3
+House of 1000 Corpses,primaryTitle,84101,Q3
 Along Came a Spider,primaryTitle,84023,Q3
 White Men Can't Jump,primaryTitle,83957,Q3
 Star Trek IV: The Voyage Home,primaryTitle,83876,Q3
 Cocktail,primaryTitle,83831,Q3
 Going in Style,primaryTitle,83704,Q3
 The Outsiders,primaryTitle,83613,Q3
+Young Adult,primaryTitle,83593,Q3
 All the Money in the World,primaryTitle,83402,Q3
 Kate & Leopold,primaryTitle,83336,Q3
+Shot Caller,primaryTitle,83301,Q3
 The Wild Bunch,primaryTitle,83246,Q3
 The Tuxedo,primaryTitle,83137,Q3
+Death Note,primaryTitle,83108,Q3
 Mechanic: Resurrection,primaryTitle,83069,Q3
 Eden Lake,primaryTitle,83065,Q3
 Wag the Dog,primaryTitle,83005,Q3
@@ -1419,9 +1720,12 @@ Frailty,primaryTitle,82680,Q3
 Dark Waters,primaryTitle,82525,Q3
 Horns,primaryTitle,82511,Q3
 The Duchess,primaryTitle,82166,Q3
+Taxi,primaryTitle,82164,Q3
+Solaris,primaryTitle,82111,Q3
 Assassins,primaryTitle,82017,Q3
 Centurion,primaryTitle,81995,Q3
 U-571,primaryTitle,81740,Q3
+Look Who's Talking,primaryTitle,81713,Q3
 Blue Streak,primaryTitle,81706,Q3
 Wayne's World 2,primaryTitle,81697,Q3
 Semi-Pro,primaryTitle,81641,Q3
@@ -1433,9 +1737,14 @@ The Color of Money,primaryTitle,81231,Q3
 The Midnight Sky,primaryTitle,81145,Q3
 Midway,primaryTitle,81008,Q3
 "You, Me and Dupree",primaryTitle,80841,Q3
+The Kissing Booth,primaryTitle,80768,Q3
 Star Trek: Generations,primaryTitle,80757,Q3
 The Hustler,primaryTitle,80725,Q3
+Beverly Hills Cop III,primaryTitle,80706,Q3
+Slither,primaryTitle,80668,Q3
 "I, Frankenstein",primaryTitle,80521,Q3
+Trumbo,primaryTitle,80512,Q3
+Barfi!,primaryTitle,80420,Q3
 Snake Eyes,primaryTitle,80374,Q3
 The Flintstones,primaryTitle,80365,Q3
 The Hudsucker Proxy,primaryTitle,80318,Q3
@@ -1450,12 +1759,16 @@ Munna Bhai M.B.B.S.,primaryTitle,79903,Q3
 Abduction,primaryTitle,79862,Q3
 The Weather Man,primaryTitle,79738,Q3
 Battlefield Earth,primaryTitle,79649,Q3
+The Uninvited,primaryTitle,79588,Q3
 Broken City,primaryTitle,79572,Q3
+Entourage,primaryTitle,79401,Q3
 My Girl,primaryTitle,79371,Q3
 Star Trek III: The Search for Spock,primaryTitle,79277,Q3
 A Perfect World,primaryTitle,79224,Q3
 Species,primaryTitle,79184,Q3
+Drishyam,primaryTitle,79146,Q3
 Super,primaryTitle,79144,Q3
+Office Christmas Party,primaryTitle,79036,Q3
 Phenomenon,primaryTitle,78815,Q3
 The Wicker Man,primaryTitle,78763,Q3
 The Long Kiss Goodnight,primaryTitle,78751,Q3
@@ -1464,13 +1777,19 @@ Stay,primaryTitle,78596,Q3
 Fool's Gold,primaryTitle,78560,Q3
 Backdraft,primaryTitle,78552,Q3
 Jackie,primaryTitle,78361,Q3
+Out of Africa,primaryTitle,78291,Q3
 Delivery Man,primaryTitle,78216,Q3
 Frank,primaryTitle,78203,Q3
 The Dukes of Hazzard,primaryTitle,78191,Q3
+Saturday Night Fever,primaryTitle,78175,Q3
+Star Trek: Nemesis,primaryTitle,78073,Q3
 The Last Castle,primaryTitle,78011,Q3
 Machete Kills,primaryTitle,77963,Q3
+Blockers,primaryTitle,77954,Q3
+Underwater,primaryTitle,77918,Q3
 Footloose,primaryTitle,77792,Q3
 A Wednesday,primaryTitle,77756,Q3
+The Invasion,primaryTitle,77755,Q3
 Anna,primaryTitle,77749,Q3
 Assault on Precinct 13,primaryTitle,77632,Q3
 Before I Go to Sleep,primaryTitle,77629,Q3
@@ -1479,6 +1798,7 @@ Girl with a Pearl Earring,primaryTitle,77375,Q3
 The Fourth Kind,primaryTitle,77289,Q3
 12 Strong,primaryTitle,77271,Q3
 Mile 22,primaryTitle,77259,Q3
+Freedom Writers,primaryTitle,77259,Q3
 Youth,primaryTitle,77158,Q3
 Inkheart,primaryTitle,76946,Q3
 Rock of Ages,primaryTitle,76910,Q3
@@ -1488,10 +1808,13 @@ Shaft,primaryTitle,76540,Q3
 Chungking Express,primaryTitle,76418,Q3
 What If,primaryTitle,76412,Q3
 Red Dawn,primaryTitle,76399,Q3
+Six Days Seven Nights,primaryTitle,76353,Q3
 George of the Jungle,primaryTitle,76352,Q3
 48 Hrs.,primaryTitle,76278,Q3
 Wanderlust,primaryTitle,76026,Q3
-Café Society,primaryTitle,75939,Q3
+Into the Blue,primaryTitle,75978,Q3
+Cafe Society,primaryTitle,75939,Q3
+Seventh Son,primaryTitle,75938,Q3
 A Beautiful Day in the Neighborhood,primaryTitle,75894,Q3
 Judgment at Nuremberg,primaryTitle,75800,Q3
 A Most Wanted Man,primaryTitle,75754,Q3
@@ -1510,6 +1833,8 @@ Walking Tall,primaryTitle,75175,Q3
 Outlander,primaryTitle,75103,Q3
 Bloodshot,primaryTitle,75032,Q3
 The Wedding Ringer,primaryTitle,74887,Q3
+Dark Skies,primaryTitle,74881,Q3
+Free Willy,primaryTitle,74855,Q3
 Bill & Ted's Bogus Journey,primaryTitle,74741,Q3
 Oldboy,primaryTitle,74684,Q3
 Sooryavanshi,primaryTitle,74639,Q3
@@ -1518,47 +1843,64 @@ The Water Diviner,primaryTitle,74621,Q3
 Star Trek VI: The Undiscovered Country,primaryTitle,74563,Q3
 The Dead Don't Die,primaryTitle,74560,Q3
 The Man Who Shot Liberty Valance,primaryTitle,74520,Q3
+Sorry to Bother You,primaryTitle,74515,Q3
 Collateral Damage,primaryTitle,74503,Q3
 Father of the Bride,primaryTitle,74488,Q3
+Mandy,primaryTitle,74455,Q3
+Deuce Bigalow: Male Gigolo,primaryTitle,74381,Q3
+Star Trek: Insurrection,primaryTitle,74241,Q3
 The Iceman,primaryTitle,74179,Q3
 Youth in Revolt,primaryTitle,74066,Q3
+Who's Afraid of Virginia Woolf?,primaryTitle,74045,Q3
 The 'Burbs,primaryTitle,73990,Q3
 Three Amigos!,primaryTitle,73811,Q3
 Escape from L.A.,primaryTitle,73809,Q3
 The Mountain Between Us,primaryTitle,73766,Q3
 The Black Dahlia,primaryTitle,73746,Q3
+Little Shop of Horrors,primaryTitle,73669,Q3
 The Night Before,primaryTitle,73525,Q3
 Dumbo,primaryTitle,73439,Q3
+Norbit,primaryTitle,73385,Q3
+A Very Long Engagement,primaryTitle,73338,Q3
 Derailed,primaryTitle,73203,Q3
 Mercury Rising,primaryTitle,73166,Q3
+40 Days and 40 Nights,primaryTitle,73137,Q3
 Coolie No. 1,primaryTitle,73133,Q3
 Finch,primaryTitle,73095,Q3
 Dreamgirls,primaryTitle,73048,Q3
 The Incredible Burt Wonderstone,primaryTitle,73045,Q3
 I Still Know What You Did Last Summer,primaryTitle,73042,Q3
 The Postman,primaryTitle,73007,Q3
+Ghost Town,primaryTitle,72993,Q3
+Quarantine,primaryTitle,72955,Q3
 The Infiltrator,primaryTitle,72941,Q3
 Solomon Kane,primaryTitle,72934,Q3
 Mission to Mars,primaryTitle,72876,Q3
 Speed Racer,primaryTitle,72816,Q3
+Chloe,primaryTitle,72691,Q3
 The Edge,primaryTitle,72636,Q3
 Miss Sloane,primaryTitle,72596,Q3
 First Knight,primaryTitle,72562,Q3
 Stripes,primaryTitle,72535,Q3
 Blindness,primaryTitle,72533,Q3
 The Remains of the Day,primaryTitle,72428,Q3
+Frozen,primaryTitle,72380,Q3
 The Siege,primaryTitle,72326,Q3
 Paddington 2,primaryTitle,72312,Q3
 Kiss the Girls,primaryTitle,72308,Q3
 Daylight,primaryTitle,72190,Q3
 In the Valley of Elah,primaryTitle,72158,Q3
+Manhunter,primaryTitle,72058,Q3
 Lost in Space,primaryTitle,72035,Q3
 Seabiscuit,primaryTitle,72002,Q3
+Judas and the Black Messiah,primaryTitle,71931,Q3
+Cobra,primaryTitle,71907,Q3
 MASH,primaryTitle,71872,Q3
 Bewitched,primaryTitle,71826,Q3
 Krampus,primaryTitle,71823,Q3
 Open Range,primaryTitle,71742,Q3
 The Dirty Dozen,primaryTitle,71615,Q3
+Badlands,primaryTitle,71589,Q3
 A Perfect Getaway,primaryTitle,71561,Q3
 Four Christmases,primaryTitle,71533,Q3
 The Rainmaker,primaryTitle,71520,Q3
@@ -1569,12 +1911,15 @@ Mortdecai,primaryTitle,71419,Q3
 Triple 9,primaryTitle,71384,Q3
 Being There,primaryTitle,71350,Q3
 Changing Lanes,primaryTitle,71242,Q3
+The Christmas Chronicles,primaryTitle,71204,Q3
+Redemption,primaryTitle,71195,Q3
 1984,primaryTitle,71146,Q3
 Daddy's Home 2,primaryTitle,71103,Q3
 A Most Violent Year,primaryTitle,71068,Q3
 The Woman in the Window,primaryTitle,71039,Q3
 Death Wish,primaryTitle,70994,Q3
 The Thirteenth Floor,primaryTitle,70984,Q3
+Made of Honor,primaryTitle,70968,Q3
 Dil Chahta Hai,primaryTitle,70950,Q3
 Strange Days,primaryTitle,70941,Q3
 King Richard,primaryTitle,70936,Q3
@@ -1582,16 +1927,19 @@ Go,primaryTitle,70895,Q3
 Johnny Mnemonic,primaryTitle,70855,Q3
 A Dog's Purpose,primaryTitle,70812,Q3
 Elizabeth: The Golden Age,primaryTitle,70783,Q3
+The Best of Me,primaryTitle,70782,Q3
 Street Fighter,primaryTitle,70649,Q3
 Road House,primaryTitle,70628,Q3
 Europa Report,primaryTitle,70523,Q3
 Dirty Rotten Scoundrels,primaryTitle,70422,Q3
 Child 44,primaryTitle,70246,Q3
+The First Time,primaryTitle,70155,Q3
 Bowfinger,primaryTitle,70131,Q3
 Invincible,primaryTitle,70006,Q3
 xXx: State of the Union,primaryTitle,69998,Q3
 The Station Agent,primaryTitle,69936,Q3
 Turner & Hooch,primaryTitle,69855,Q3
+Arsenic and Old Lace,primaryTitle,69853,Q3
 Romeo Must Die,primaryTitle,69832,Q3
 Indecent Proposal,primaryTitle,69817,Q3
 Elizabethtown,primaryTitle,69807,Q3
@@ -1603,24 +1951,34 @@ Superman III,primaryTitle,69388,Q3
 Be Cool,primaryTitle,69297,Q3
 The Eagle,primaryTitle,69276,Q3
 Outlaw King,primaryTitle,69234,Q3
+A Very Harold & Kumar Christmas,primaryTitle,69121,Q3
 Agora,primaryTitle,69089,Q3
 The Debt,primaryTitle,68991,Q3
 Hackers,primaryTitle,68930,Q3
 Gulliver's Travels,primaryTitle,68847,Q3
+Master,primaryTitle,68717,Q3
 Arachnophobia,primaryTitle,68715,Q3
+Mysterious Skin,primaryTitle,68697,Q3
 The Ten Commandments,primaryTitle,68680,Q3
 A Simple Plan,primaryTitle,68609,Q3
 Quiz Show,primaryTitle,68526,Q3
+Open Your Eyes,primaryTitle,68477,Q3
+The Blue Lagoon,primaryTitle,68466,Q3
 Zoolander 2,primaryTitle,68441,Q3
 Windtalkers,primaryTitle,68421,Q3
+Isn't It Romantic,primaryTitle,68344,Q3
 Joy Ride,primaryTitle,68335,Q3
 Junior,primaryTitle,68311,Q3
 The Dead Zone,primaryTitle,68234,Q3
+Richie Rich,primaryTitle,68233,Q3
 What About Bob?,primaryTitle,68087,Q3
+House of Sand and Fog,primaryTitle,68084,Q3
 The Philadelphia Story,primaryTitle,68062,Q3
 Bringing Out the Dead,primaryTitle,67985,Q3
 Dilwale Dulhania Le Jayenge,primaryTitle,67974,Q3
 Stigmata,primaryTitle,67896,Q3
+The City of Lost Children,primaryTitle,67842,Q3
+That Thing You Do!,primaryTitle,67820,Q3
 Superhero Movie,primaryTitle,67803,Q3
 True Story,primaryTitle,67800,Q3
 Kal Ho Naa Ho,primaryTitle,67791,Q3
@@ -1628,33 +1986,53 @@ Bandits,primaryTitle,67765,Q3
 Major League,primaryTitle,67711,Q3
 Daddy Day Care,primaryTitle,67624,Q3
 In the Mouth of Madness,primaryTitle,67584,Q3
+Bullitt,primaryTitle,67569,Q3
 Spawn,primaryTitle,67527,Q3
 Dead Man Down,primaryTitle,67430,Q3
 Beerfest,primaryTitle,67370,Q3
+The November Man,primaryTitle,67274,Q3
+The Saint,primaryTitle,67271,Q3
 Run Fatboy Run,primaryTitle,67172,Q3
 Ella Enchanted,primaryTitle,67101,Q3
 Never Say Never Again,primaryTitle,66762,Q3
+Licorice Pizza,primaryTitle,66707,Q3
 Domino,primaryTitle,66645,Q3
 Mystery Men,primaryTitle,66590,Q3
+Bhaag Milkha Bhaag,primaryTitle,66503,Q3
 Spy Kids 2: Island of Lost Dreams,primaryTitle,66338,Q3
 Dream House,primaryTitle,66228,Q3
+Sisters,primaryTitle,66049,Q3
 Aloha,primaryTitle,66028,Q3
 Only the Brave,primaryTitle,65987,Q3
+Brotherhood of the Wolf,primaryTitle,65944,Q3
+Breaking the Waves,primaryTitle,65883,Q3
+The Net,primaryTitle,65814,Q3
 The Finest Hours,primaryTitle,65718,Q3
+The Dark Crystal,primaryTitle,65648,Q3
 Machine Gun Preacher,primaryTitle,65609,Q3
+The Signal,primaryTitle,65490,Q3
 The Specialist,primaryTitle,65435,Q3
+Harsh Times,primaryTitle,65398,Q3
 City of Ember,primaryTitle,65223,Q3
 Criminal,primaryTitle,65184,Q3
+The Client,primaryTitle,65175,Q3
+The Mighty Ducks,primaryTitle,65168,Q3
+The Devil's Backbone,primaryTitle,65148,Q3
 Top Secret!,primaryTitle,65142,Q3
 Anatomy of a Murder,primaryTitle,65101,Q3
+The Informant!,primaryTitle,65026,Q3
 Charlie Bartlett,primaryTitle,64873,Q3
 Brawl in Cell Block 99,primaryTitle,64796,Q3
 Hera Pheri,primaryTitle,64713,Q3
+Shadow of a Doubt,primaryTitle,64255,Q3
 The Devil's Own,primaryTitle,64182,Q3
 Eight Below,primaryTitle,64152,Q3
 Red State,primaryTitle,64102,Q3
+The Midnight Meat Train,primaryTitle,64059,Q3
+Mr. Holmes,primaryTitle,64007,Q3
 I Heart Huckabees,primaryTitle,63992,Q3
 My Super Ex-Girlfriend,primaryTitle,63980,Q3
+Dorian Gray,primaryTitle,63933,Q3
 The Boondock Saints II: All Saints Day,primaryTitle,63908,Q3
 Blast from the Past,primaryTitle,63889,Q3
 Wonder Boys,primaryTitle,63877,Q3
@@ -1668,33 +2046,44 @@ Colossal,primaryTitle,63565,Q3
 Blood Father,primaryTitle,63499,Q3
 Soylent Green,primaryTitle,63409,Q3
 Trouble with the Curve,primaryTitle,63406,Q3
+The Man Who Knew Too Much,primaryTitle,63369,Q3
 Pan,primaryTitle,63361,Q3
 Black Snake Moan,primaryTitle,63261,Q3
 Brooklyn's Finest,primaryTitle,63260,Q3
+Kiss of the Dragon,primaryTitle,63214,Q3
 Sabotage,primaryTitle,63046,Q3
 21 Bridges,primaryTitle,63042,Q3
 Runner Runner,primaryTitle,63035,Q3
 The Sisters Brothers,primaryTitle,63029,Q3
 Observe and Report,primaryTitle,62992,Q3
+Silent Hill: Revelation,primaryTitle,62881,Q3
+Coffee and Cigarettes,primaryTitle,62755,Q3
 Timeline,primaryTitle,62731,Q3
 Punisher: War Zone,primaryTitle,62716,Q3
 Gold,primaryTitle,62686,Q3
 Penelope,primaryTitle,62685,Q3
 Far and Away,primaryTitle,62577,Q3
+The Best Years of Our Lives,primaryTitle,62576,Q3
 Showtime,primaryTitle,62575,Q3
 Time Bandits,primaryTitle,62570,Q3
 Basic,primaryTitle,62426,Q3
 Friday Night Lights,primaryTitle,62402,Q3
 Marathon Man,primaryTitle,62396,Q3
+The Man with the Iron Fists,primaryTitle,62264,Q3
 The Frozen Ground,primaryTitle,62217,Q3
 Keeping Up with the Joneses,primaryTitle,62213,Q3
+Cocoon,primaryTitle,62210,Q3
 Rudy,primaryTitle,62179,Q3
 When in Rome,primaryTitle,61989,Q3
 Dark Water,primaryTitle,61932,Q3
 Takers,primaryTitle,61858,Q3
 The Haunting in Connecticut,primaryTitle,61674,Q3
+Charlie St. Cloud,primaryTitle,61565,Q3
+G.O.R.A.,primaryTitle,61509,Q3
 Hunter Killer,primaryTitle,61483,Q3
+The Karate Kid Part III,primaryTitle,61409,Q3
 Dolittle,primaryTitle,61310,Q3
+BASEketball,primaryTitle,61239,Q3
 Vertical Limit,primaryTitle,61226,Q3
 Boss Level,primaryTitle,61206,Q3
 The Young Victoria,primaryTitle,61143,Q3
@@ -1702,6 +2091,8 @@ Hotel Mumbai,primaryTitle,61142,Q3
 Rio Bravo,primaryTitle,61126,Q3
 Becoming Jane,primaryTitle,61078,Q3
 The Crimson Rivers,primaryTitle,61074,Q3
+Best in Show,primaryTitle,61070,Q3
+The Chorus,primaryTitle,61028,Q3
 Everybody's Fine,primaryTitle,61022,Q3
 Red Lights,primaryTitle,60997,Q3
 The Spirit,primaryTitle,60982,Q3
@@ -1712,20 +2103,30 @@ Solace,primaryTitle,60861,Q3
 Appaloosa,primaryTitle,60834,Q3
 The Darkest Hour,primaryTitle,60826,Q3
 The Ghost and the Darkness,primaryTitle,60711,Q3
+Zookeeper,primaryTitle,60667,Q3
+The Brave One,primaryTitle,60627,Q3
 Dennis the Menace,primaryTitle,60590,Q3
 Magnum Force,primaryTitle,60561,Q3
+Bringing Up Baby,primaryTitle,60519,Q3
 Mindhunters,primaryTitle,60511,Q3
 The Right Stuff,primaryTitle,60486,Q3
 The Mission,primaryTitle,60432,Q3
+Shallow Grave,primaryTitle,60361,Q3
 We Are Marshall,primaryTitle,60358,Q3
 Lake Placid,primaryTitle,60321,Q3
 Young Guns,primaryTitle,60212,Q3
+A Night at the Roxbury,primaryTitle,60143,Q3
+Pig,primaryTitle,60101,Q3
 Sexy Beast,primaryTitle,60094,Q3
 Grudge Match,primaryTitle,60058,Q3
+Drillbit Taylor,primaryTitle,60051,Q3
+Popstar: Never Stop Never Stopping,primaryTitle,59921,Q3
+Ghajini,primaryTitle,59783,Q3
 Bernie,primaryTitle,59750,Q3
 The Animal,primaryTitle,59749,Q3
 Dolemite Is My Name,primaryTitle,59573,Q3
 Breach,primaryTitle,59548,Q3
+Velvet Buzzsaw,primaryTitle,59546,Q3
 Duck Soup,primaryTitle,59525,Q3
 The Dressmaker,primaryTitle,59478,Q3
 Terms of Endearment,primaryTitle,59404,Q3
@@ -1735,8 +2136,12 @@ Star Trek V: The Final Frontier,primaryTitle,59196,Q3
 Draft Day,primaryTitle,59104,Q3
 The Player,primaryTitle,59104,Q3
 Race to Witch Mountain,primaryTitle,59074,Q3
+Timecop,primaryTitle,59072,Q3
 Bad Education,primaryTitle,59072,Q3
+Dog Soldiers,primaryTitle,59046,Q3
 Cats & Dogs,primaryTitle,59030,Q3
+Gunday,primaryTitle,58898,Q3
+Blackhat,primaryTitle,58817,Q3
 Innerspace,primaryTitle,58808,Q3
 A River Runs Through It,primaryTitle,58796,Q3
 Invasion of the Body Snatchers,primaryTitle,58656,Q3
@@ -1748,187 +2153,251 @@ The Lookout,primaryTitle,58463,Q3
 I'm Not There,primaryTitle,58458,Q3
 The General's Daughter,primaryTitle,58404,Q3
 The Great Debaters,primaryTitle,58320,Q3
+Overboard,primaryTitle,58249,Q3
+Pale Rider,primaryTitle,58202,Q3
 Thirteen Days,primaryTitle,58184,Q3
 Going the Distance,primaryTitle,58168,Q3
 Sneakers,primaryTitle,58132,Q3
 Cheaper by the Dozen 2,primaryTitle,58048,Q3
 Spectral,primaryTitle,58041,Q3
+Drinking Buddies,primaryTitle,58025,Q3
 Session 9,primaryTitle,57947,Q3
 Uncharted,primaryTitle,57894,Q3
 Moonstruck,primaryTitle,57867,Q3
 Ride Along 2,primaryTitle,57722,Q3
 Woman in Gold,primaryTitle,57686,Q3
+Uri: The Surgical Strike,primaryTitle,57656,Q3
 Firewall,primaryTitle,57643,Q3
+Vampires,primaryTitle,57635,Q3
+His Girl Friday,primaryTitle,57621,Q3
 Rumor Has It...,primaryTitle,57589,Q3
 America's Sweethearts,primaryTitle,57584,Q3
+Pete's Dragon,primaryTitle,57579,Q3
 Ladder 49,primaryTitle,57575,Q3
 Last Man Standing,primaryTitle,57512,Q3
 Traitor,primaryTitle,57449,Q3
 Crimes and Misdemeanors,primaryTitle,57411,Q3
 Benny & Joon,primaryTitle,57354,Q3
 Red Planet,primaryTitle,57336,Q3
+The Muppet Christmas Carol,primaryTitle,57324,Q3
+How High,primaryTitle,57321,Q3
+In the Loop,primaryTitle,57315,Q3
 The Pledge,primaryTitle,57294,Q3
 Where Eagles Dare,primaryTitle,57202,Q3
 OMG: Oh My God!,primaryTitle,57137,Q3
+Free State of Jones,primaryTitle,57133,Q3
 Animal Kingdom,primaryTitle,57096,Q3
 Days of Heaven,primaryTitle,57076,Q3
 Secondhand Lions,primaryTitle,56915,Q3
 Proof of Life,primaryTitle,56894,Q3
+The Rocketeer,primaryTitle,56829,Q3
+Westworld,primaryTitle,56776,Q3
+Baby,primaryTitle,56774,Q3
+Murder by Numbers,primaryTitle,56748,Q3
 The Beguiled,primaryTitle,56660,Q3
 The American President,primaryTitle,56637,Q3
+Laxmii,primaryTitle,56581,Q3
 Automata,primaryTitle,56512,Q3
 Live by Night,primaryTitle,56468,Q3
 The Legend of Bagger Vance,primaryTitle,56425,Q3
+The Santa Clause 2,primaryTitle,56330,Q3
+Pain and Glory,primaryTitle,56296,Q3
+Kate,primaryTitle,56264,Q3
 The Last Temptation of Christ,primaryTitle,56239,Q3
+Airlift,primaryTitle,56237,Q3
+Joe Dirt,primaryTitle,56236,Q3
 Original Sin,primaryTitle,56218,Q3
 House on Haunted Hill,primaryTitle,56189,Q3
 Working Girl,primaryTitle,56171,Q3
 Victor Frankenstein,primaryTitle,56142,Q3
-The Man Who Knew Infinity,primaryTitle,56102,Q2
-Executive Decision,primaryTitle,56072,Q2
-Soldier,primaryTitle,56072,Q2
-Those Who Wish Me Dead,primaryTitle,55995,Q2
-Mousehunt,primaryTitle,55965,Q2
-The Whole Ten Yards,primaryTitle,55952,Q2
-A Bridge Too Far,primaryTitle,55882,Q2
-Hudson Hawk,primaryTitle,55813,Q2
-Wicker Park,primaryTitle,55785,Q2
-The Jewel of the Nile,primaryTitle,55759,Q2
-Wolf,primaryTitle,55725,Q2
-Rendition,primaryTitle,55661,Q2
-Stonehearst Asylum,primaryTitle,55645,Q2
-The Loft,primaryTitle,55586,Q2
-All Good Things,primaryTitle,55582,Q2
-Wristcutters: A Love Story,primaryTitle,55581,Q2
-Logan's Run,primaryTitle,55560,Q2
-Scooby-Doo 2: Monsters Unleashed,primaryTitle,55558,Q2
-The Cobbler,primaryTitle,55492,Q2
-Pride,primaryTitle,55466,Q2
-An Officer and a Gentleman,primaryTitle,55388,Q2
-City Slickers,primaryTitle,55387,Q2
-Pride and Prejudice and Zombies,primaryTitle,55357,Q2
-Special 26,primaryTitle,55265,Q2
-The Producers,primaryTitle,55175,Q2
-Stand Up Guys,primaryTitle,55166,Q2
-Mr. Right,primaryTitle,55161,Q2
-Jungle,primaryTitle,55140,Q2
-Motherless Brooklyn,primaryTitle,55079,Q2
-The Longest Day,primaryTitle,54989,Q2
-The Lunchbox,primaryTitle,54940,Q2
-In Good Company,primaryTitle,54910,Q2
-The Killing Fields,primaryTitle,54873,Q2
-The Upside,primaryTitle,54818,Q2
-Masterminds,primaryTitle,54767,Q2
-The Crying Game,primaryTitle,54708,Q2
-First Reformed,primaryTitle,54680,Q2
-Without Remorse,primaryTitle,54666,Q2
-Lords of Dogtown,primaryTitle,54649,Q2
-Mary Shelley's Frankenstein,primaryTitle,54583,Q2
-The Experiment,primaryTitle,54547,Q2
-Police Academy 2: Their First Assignment,primaryTitle,54546,Q2
-Wild Card,primaryTitle,54534,Q2
-Chaos,primaryTitle,54450,Q2
-The Majestic,primaryTitle,54374,Q2
-Winter's Tale,primaryTitle,54308,Q2
-"Sex, Lies, and Videotape",primaryTitle,54207,Q2
-Three Days of the Condor,primaryTitle,54141,Q2
-Flight of the Phoenix,primaryTitle,54118,Q2
-Absolute Power,primaryTitle,54100,Q2
-Ghosts of Mars,primaryTitle,54100,Q2
-Jab Tak Hai Jaan,primaryTitle,54064,Q2
-Heartbreakers,primaryTitle,53968,Q2
-Courage Under Fire,primaryTitle,53958,Q2
-Casanova,primaryTitle,53948,Q2
-Breakdown,primaryTitle,53933,Q2
-Black Rain,primaryTitle,53813,Q2
-The Dilemma,primaryTitle,53809,Q2
-Quills,primaryTitle,53780,Q2
-Win Win,primaryTitle,53756,Q2
-Over the Top,primaryTitle,53746,Q2
-"See No Evil, Hear No Evil",primaryTitle,53700,Q2
-Stealth,primaryTitle,53577,Q2
-Miracle,primaryTitle,53535,Q2
-Great Expectations,primaryTitle,53385,Q2
-Super Mario Bros.,primaryTitle,53381,Q2
-The Soloist,primaryTitle,53260,Q2
-Take Me Home Tonight,primaryTitle,53139,Q2
-Chennai Express,primaryTitle,53088,Q2
-Bull Durham,primaryTitle,53077,Q2
-The Adventures of Baron Munchausen,primaryTitle,52990,Q2
-Dave,primaryTitle,52968,Q2
-Stuck on You,primaryTitle,52894,Q2
-Dead Man's Shoes,primaryTitle,52881,Q2
-Buffalo '66,primaryTitle,52860,Q2
-Hart's War,primaryTitle,52736,Q2
-Transsiberian,primaryTitle,52683,Q2
-Andaz Apna Apna,primaryTitle,52679,Q2
-2010: The Year We Make Contact,primaryTitle,52669,Q2
-Colonia,primaryTitle,52613,Q2
-Three Men and a Baby,primaryTitle,52604,Q2
-M.S. Dhoni: The Untold Story,primaryTitle,52496,Q2
-Boiler Room,primaryTitle,52471,Q2
-The Courier,primaryTitle,52436,Q2
-Alfie,primaryTitle,52382,Q2
-Detroit,primaryTitle,52362,Q2
-Whiskey Tango Foxtrot,primaryTitle,52327,Q2
-Don 2,primaryTitle,52219,Q2
-The War of the Roses,primaryTitle,52208,Q2
-The Proposition,primaryTitle,52186,Q2
-Tristan + Isolde,primaryTitle,52132,Q2
-Asterix & Obelix: Mission Cleopatra,primaryTitle,52095,Q2
-This Boy's Life,primaryTitle,52071,Q2
-Hesher,primaryTitle,52059,Q2
-The Space Between Us,primaryTitle,52021,Q2
-Arbitrage,primaryTitle,51943,Q2
-Lakeview Terrace,primaryTitle,51933,Q2
-Chain Reaction,primaryTitle,51911,Q2
-Cassandra's Dream,primaryTitle,51884,Q2
-Don't Say a Word,primaryTitle,51878,Q2
-Extinction,primaryTitle,51837,Q2
-U Turn,primaryTitle,51713,Q2
-Keeping the Faith,primaryTitle,51652,Q2
-Tusk,primaryTitle,51335,Q2
-I Spy,primaryTitle,51190,Q2
-Throne of Blood,primaryTitle,51135,Q2
-Ordinary People,primaryTitle,51092,Q2
-The Unborn,primaryTitle,51078,Q2
-The Purple Rose of Cairo,primaryTitle,50959,Q2
-THX 1138,primaryTitle,50889,Q2
-Blow Out,primaryTitle,50888,Q2
-Naked Lunch,primaryTitle,50760,Q2
-The Benchwarmers,primaryTitle,50553,Q2
-Deuce Bigalow: European Gigolo,primaryTitle,50503,Q2
-The Brothers Bloom,primaryTitle,50492,Q2
-National Security,primaryTitle,50359,Q2
-Everything Must Go,primaryTitle,50347,Q2
-Don Juan DeMarco,primaryTitle,50266,Q2
-Airheads,primaryTitle,50249,Q2
-Bulletproof Monk,primaryTitle,50196,Q2
-Hard Target,primaryTitle,50187,Q2
-The East,primaryTitle,50180,Q2
-15 Minutes,primaryTitle,50101,Q2
-Duplicity,primaryTitle,50090,Q2
-In the Shadow of the Moon,primaryTitle,49993,Q2
-Wyatt Earp,primaryTitle,49987,Q2
-Baby's Day Out,primaryTitle,49956,Q2
-Adam's Apples,primaryTitle,49882,Q2
-The Double,primaryTitle,49859,Q2
-The Guns of Navarone,primaryTitle,49846,Q2
-While We're Young,primaryTitle,49837,Q2
-The Laundromat,primaryTitle,49754,Q2
-Hard Boiled,primaryTitle,49682,Q2
-Bullet to the Head,primaryTitle,49638,Q2
-Orange County,primaryTitle,49581,Q2
-French Kiss,primaryTitle,49570,Q2
-Lions for Lambs,primaryTitle,49553,Q2
-Disclosure,primaryTitle,49548,Q2
-Untraceable,primaryTitle,49543,Q2
-The Belko Experiment,primaryTitle,49518,Q2
+The Man Who Knew Infinity,primaryTitle,56102,Q3
+Executive Decision,primaryTitle,56072,Q3
+Soldier,primaryTitle,56072,Q3
+Those Who Wish Me Dead,primaryTitle,55995,Q3
+Mousehunt,primaryTitle,55965,Q3
+The Whole Ten Yards,primaryTitle,55952,Q3
+A Bridge Too Far,primaryTitle,55882,Q3
+Hudson Hawk,primaryTitle,55813,Q3
+The Ice Storm,primaryTitle,55793,Q3
+Wicker Park,primaryTitle,55785,Q3
+The Jewel of the Nile,primaryTitle,55759,Q3
+Wolf,primaryTitle,55725,Q3
+Rendition,primaryTitle,55661,Q3
+Stonehearst Asylum,primaryTitle,55645,Q3
+The Golden Child,primaryTitle,55624,Q3
+The Loft,primaryTitle,55586,Q3
+All Good Things,primaryTitle,55582,Q3
+Wristcutters: A Love Story,primaryTitle,55581,Q3
+Logan's Run,primaryTitle,55560,Q3
+Scooby-Doo 2: Monsters Unleashed,primaryTitle,55558,Q3
+The Cobbler,primaryTitle,55492,Q3
+Pride,primaryTitle,55466,Q3
+Queen of the Damned,primaryTitle,55392,Q3
+'71,primaryTitle,55388,Q3
+An Officer and a Gentleman,primaryTitle,55388,Q3
+City Slickers,primaryTitle,55387,Q3
+Pride and Prejudice and Zombies,primaryTitle,55357,Q3
+Special 26,primaryTitle,55265,Q3
+My Own Private Idaho,primaryTitle,55199,Q3
+Magic Mike XXL,primaryTitle,55186,Q3
+The Producers,primaryTitle,55175,Q3
+Stand Up Guys,primaryTitle,55166,Q3
+Mr. Right,primaryTitle,55161,Q3
+Jungle,primaryTitle,55140,Q3
+Stalag 17,primaryTitle,55101,Q3
+Motherless Brooklyn,primaryTitle,55079,Q3
+Alive,primaryTitle,55071,Q3
+The Longest Day,primaryTitle,54989,Q3
+Taxi 2,primaryTitle,54987,Q3
+The Lunchbox,primaryTitle,54940,Q3
+In Good Company,primaryTitle,54910,Q3
+The Killing Fields,primaryTitle,54873,Q3
+The Astronaut's Wife,primaryTitle,54868,Q3
+Sholay,primaryTitle,54821,Q3
+The Upside,primaryTitle,54818,Q3
+Masterminds,primaryTitle,54767,Q3
+The Crying Game,primaryTitle,54708,Q3
+First Reformed,primaryTitle,54680,Q3
+Without Remorse,primaryTitle,54666,Q3
+Lords of Dogtown,primaryTitle,54649,Q3
+Mary Shelley's Frankenstein,primaryTitle,54583,Q3
+Police Academy 2: Their First Assignment,primaryTitle,54546,Q3
+Wild Card,primaryTitle,54534,Q3
+Chaos,primaryTitle,54450,Q3
+Empire Records,primaryTitle,54436,Q3
+The Majestic,primaryTitle,54374,Q3
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,primaryTitle,54374,Q3
+Winter's Tale,primaryTitle,54308,Q3
+The Legend of Hercules,primaryTitle,54250,Q3
+"Sex, Lies, and Videotape",primaryTitle,54207,Q3
+Little Man,primaryTitle,54203,Q3
+Ip Man 3,primaryTitle,54171,Q3
+Three Days of the Condor,primaryTitle,54141,Q3
+Haider,primaryTitle,54139,Q3
+High Plains Drifter,primaryTitle,54125,Q3
+Flight of the Phoenix,primaryTitle,54118,Q3
+Ghosts of Mars,primaryTitle,54100,Q3
+Absolute Power,primaryTitle,54100,Q3
+Jab Tak Hai Jaan,primaryTitle,54064,Q3
+Mortal Kombat: Annihilation,primaryTitle,54043,Q3
+Tell No One,primaryTitle,54008,Q3
+Heartbreakers,primaryTitle,53968,Q3
+Courage Under Fire,primaryTitle,53958,Q3
+Casanova,primaryTitle,53948,Q3
+Breakdown,primaryTitle,53933,Q3
+Black Rain,primaryTitle,53813,Q3
+The Dilemma,primaryTitle,53809,Q3
+Quills,primaryTitle,53780,Q3
+Shine,primaryTitle,53769,Q3
+Win Win,primaryTitle,53756,Q3
+Over the Top,primaryTitle,53746,Q3
+"See No Evil, Hear No Evil",primaryTitle,53700,Q3
+Stealth,primaryTitle,53577,Q3
+Miracle,primaryTitle,53535,Q3
+Great Expectations,primaryTitle,53385,Q3
+Super Mario Bros.,primaryTitle,53381,Q3
+The Soloist,primaryTitle,53260,Q3
+The Eye,primaryTitle,53248,Q3
+Take Me Home Tonight,primaryTitle,53139,Q3
+Chennai Express,primaryTitle,53088,Q3
+Bull Durham,primaryTitle,53077,Q3
+The Adventures of Baron Munchausen,primaryTitle,52990,Q3
+Dave,primaryTitle,52968,Q3
+Stuck on You,primaryTitle,52894,Q3
+Dead Man's Shoes,primaryTitle,52881,Q3
+Buffalo '66,primaryTitle,52860,Q3
+Revenge of the Nerds,primaryTitle,52815,Q3
+Hart's War,primaryTitle,52736,Q3
+Sanju,primaryTitle,52689,Q3
+Transsiberian,primaryTitle,52683,Q3
+Andaz Apna Apna,primaryTitle,52679,Q3
+2010: The Year We Make Contact,primaryTitle,52669,Q3
+Colonia,primaryTitle,52613,Q3
+Three Men and a Baby,primaryTitle,52604,Q3
+M.S. Dhoni: The Untold Story,primaryTitle,52496,Q3
+Boiler Room,primaryTitle,52471,Q3
+The Courier,primaryTitle,52436,Q3
+Ava,primaryTitle,52421,Q3
+Alfie,primaryTitle,52382,Q3
+The Love Guru,primaryTitle,52380,Q3
+Detroit,primaryTitle,52362,Q3
+Whiskey Tango Foxtrot,primaryTitle,52327,Q3
+Don 2,primaryTitle,52219,Q3
+The War of the Roses,primaryTitle,52208,Q3
+The Proposition,primaryTitle,52186,Q3
+Tristan + Isolde,primaryTitle,52132,Q3
+Asterix & Obelix: Mission Cleopatra,primaryTitle,52095,Q3
+This Boy's Life,primaryTitle,52071,Q3
+Hesher,primaryTitle,52059,Q3
+The Space Between Us,primaryTitle,52021,Q3
+Martha Marcy May Marlene,primaryTitle,52019,Q3
+Dangerous Minds,primaryTitle,51996,Q3
+Arbitrage,primaryTitle,51943,Q3
+Lakeview Terrace,primaryTitle,51933,Q3
+Chain Reaction,primaryTitle,51911,Q3
+Cassandra's Dream,primaryTitle,51884,Q3
+Don't Say a Word,primaryTitle,51878,Q3
+Extinction,primaryTitle,51837,Q3
+Arthur,primaryTitle,51754,Q3
+U Turn,primaryTitle,51713,Q3
+Keeping the Faith,primaryTitle,51652,Q3
+The Wedding Date,primaryTitle,51602,Q3
+Creep,primaryTitle,51494,Q3
+Fletch,primaryTitle,51399,Q3
+Tusk,primaryTitle,51335,Q3
+I Spy,primaryTitle,51190,Q3
+Throne of Blood,primaryTitle,51135,Q3
+Dracula,primaryTitle,51093,Q3
+Ordinary People,primaryTitle,51092,Q3
+The Unborn,primaryTitle,51078,Q3
+The Purple Rose of Cairo,primaryTitle,50959,Q3
+The Big Blue,primaryTitle,50949,Q3
+Down by Law,primaryTitle,50903,Q3
+THX 1138,primaryTitle,50889,Q3
+Blow Out,primaryTitle,50888,Q3
+Naked Lunch,primaryTitle,50760,Q3
+The House with a Clock in Its Walls,primaryTitle,50636,Q3
+Nutty Professor II: The Klumps,primaryTitle,50591,Q3
+The Benchwarmers,primaryTitle,50553,Q3
+Deuce Bigalow: European Gigolo,primaryTitle,50503,Q3
+The Brothers Bloom,primaryTitle,50492,Q3
+The Adventures of Robin Hood,primaryTitle,50361,Q3
+National Security,primaryTitle,50359,Q3
+Everything Must Go,primaryTitle,50347,Q3
+Don Juan DeMarco,primaryTitle,50266,Q3
+Airheads,primaryTitle,50249,Q3
+Bulletproof Monk,primaryTitle,50196,Q3
+Hard Target,primaryTitle,50187,Q3
+The East,primaryTitle,50180,Q3
+15 Minutes,primaryTitle,50101,Q3
+Duplicity,primaryTitle,50090,Q3
+Scouts Guide to the Zombie Apocalypse,primaryTitle,50036,Q3
+In the Shadow of the Moon,primaryTitle,49993,Q3
+Wyatt Earp,primaryTitle,49987,Q3
+Mimic,primaryTitle,49986,Q3
+Baby's Day Out,primaryTitle,49956,Q3
+Adam's Apples,primaryTitle,49882,Q3
+The Double,primaryTitle,49859,Q3
+The Guns of Navarone,primaryTitle,49846,Q3
+While We're Young,primaryTitle,49837,Q3
+The Laundromat,primaryTitle,49754,Q3
+The Wind that Shakes the Barley,primaryTitle,49730,Q3
+Hard Boiled,primaryTitle,49682,Q3
+Bullet to the Head,primaryTitle,49638,Q3
+Orange County,primaryTitle,49581,Q3
+French Kiss,primaryTitle,49570,Q3
+Lions for Lambs,primaryTitle,49553,Q3
+Disclosure,primaryTitle,49548,Q3
+Untraceable,primaryTitle,49543,Q3
+Can't Hardly Wait,primaryTitle,49531,Q3
+The Belko Experiment,primaryTitle,49518,Q3
 "The Adventures of Priscilla, Queen of the Desert",primaryTitle,49513,Q2
+Cats,primaryTitle,49506,Q2
 Tin Cup,primaryTitle,49492,Q2
 How Do You Know,primaryTitle,49472,Q2
 The Sentinel,primaryTitle,49442,Q2
 Hard Eight,primaryTitle,49292,Q2
+The Blind Swordsman: Zatoichi,primaryTitle,49208,Q2
 Formula 51,primaryTitle,49161,Q2
 Rabbit Hole,primaryTitle,49081,Q2
 Reminiscence,primaryTitle,49073,Q2
@@ -1941,29 +2410,39 @@ Spies Like Us,primaryTitle,48900,Q2
 The Beaver,primaryTitle,48886,Q2
 The Witches,primaryTitle,48812,Q2
 Parenthood,primaryTitle,48780,Q2
+White Noise,primaryTitle,48743,Q2
 In the Name of the King: A Dungeon Siege Tale,primaryTitle,48734,Q2
 Fair Game,primaryTitle,48718,Q2
 Far from the Madding Crowd,primaryTitle,48687,Q2
+Kelly's Heroes,primaryTitle,48666,Q2
 28 Days,primaryTitle,48635,Q2
 Vegas Vacation,primaryTitle,48629,Q2
 Kabhi Khushi Kabhie Gham...,primaryTitle,48623,Q2
 Gigli,primaryTitle,48606,Q2
+Cat on a Hot Tin Roof,primaryTitle,48590,Q2
+Last Night,primaryTitle,48402,Q2
+Diary of a Wimpy Kid,primaryTitle,48295,Q2
+Forbidden Planet,primaryTitle,48232,Q2
 The Ridiculous 6,primaryTitle,48208,Q2
 The Man Who Would Be King,primaryTitle,48204,Q2
 Kill the Irishman,primaryTitle,48176,Q2
 The Fan,primaryTitle,48169,Q2
+Keanu,primaryTitle,48160,Q2
 Loaded Weapon 1,primaryTitle,48136,Q2
 The Natural,primaryTitle,48121,Q2
 Grumpy Old Men,primaryTitle,48040,Q2
 Joe,primaryTitle,48030,Q2
+Mudbound,primaryTitle,47966,Q2
+Bubba Ho-Tep,primaryTitle,47950,Q2
 The Haunted Mansion,primaryTitle,47936,Q2
 Superman IV: The Quest for Peace,primaryTitle,47915,Q2
-Psycho,primaryTitle,47856,Q2
 London Boulevard,primaryTitle,47854,Q2
+Stagecoach,primaryTitle,47845,Q2
 Inspector Gadget,primaryTitle,47805,Q2
 W.,primaryTitle,47787,Q2
 Hector and the Search for Happiness,primaryTitle,47752,Q2
 Extract,primaryTitle,47735,Q2
+Secret in Their Eyes,primaryTitle,47721,Q2
 Much Ado About Nothing,primaryTitle,47689,Q2
 Bad Company,primaryTitle,47665,Q2
 The Meyerowitz Stories,primaryTitle,47663,Q2
@@ -1972,39 +2451,56 @@ Passenger 57,primaryTitle,47600,Q2
 Black Death,primaryTitle,47544,Q2
 Perfect Stranger,primaryTitle,47510,Q2
 The Rover,primaryTitle,47477,Q2
+Anthropoid,primaryTitle,47442,Q2
 To Die For,primaryTitle,47426,Q2
 Employee of the Month,primaryTitle,47408,Q2
 11:14,primaryTitle,47356,Q2
+Herbie Fully Loaded,primaryTitle,47345,Q2
 Hubie Halloween,primaryTitle,47303,Q2
+Sophie's Choice,primaryTitle,47232,Q2
+Miracle on 34th Street,primaryTitle,47228,Q2
 The Zero Theorem,primaryTitle,47219,Q2
 Rules of Engagement,primaryTitle,47188,Q2
 Sleuth,primaryTitle,47176,Q2
 The Last Picture Show,primaryTitle,47153,Q2
 A Man Apart,primaryTitle,47145,Q2
+Enemy Mine,primaryTitle,47084,Q2
 Forever Young,primaryTitle,47044,Q2
 After the Sunset,primaryTitle,47016,Q2
+Fear,primaryTitle,47007,Q2
 The Hunted,primaryTitle,46896,Q2
+The Call of the Wild,primaryTitle,46856,Q2
 The Hitcher,primaryTitle,46849,Q2
 Very Bad Things,primaryTitle,46842,Q2
+Cosmopolis,primaryTitle,46808,Q2
 The Many Saints of Newark,primaryTitle,46800,Q2
 Spiral,primaryTitle,46708,Q2
+Get Rich or Die Tryin',primaryTitle,46703,Q2
 Think Like a Man,primaryTitle,46653,Q2
 Shall We Dance,primaryTitle,46606,Q2
 Ladyhawke,primaryTitle,46562,Q2
+Laura,primaryTitle,46538,Q2
 Hoosiers,primaryTitle,46536,Q2
 Kill the Messenger,primaryTitle,46522,Q2
 Creepshow,primaryTitle,46482,Q2
+Starman,primaryTitle,46468,Q2
+I See You,primaryTitle,46423,Q2
 Howard the Duck,primaryTitle,46411,Q2
+Waitress,primaryTitle,46395,Q2
 Look Who's Talking Too,primaryTitle,46383,Q2
 Without a Paddle,primaryTitle,46356,Q2
+Under Siege 2: Dark Territory,primaryTitle,46293,Q2
 CHIPS,primaryTitle,46281,Q2
+From Here to Eternity,primaryTitle,46275,Q2
 A Haunted House,primaryTitle,46259,Q2
 "Carry On, Munna Bhai",primaryTitle,46248,Q2
 Saved!,primaryTitle,46191,Q2
 Far from Heaven,primaryTitle,46181,Q2
 "New York, I Love You",primaryTitle,46171,Q2
+Stuber,primaryTitle,46166,Q2
 Free Fire,primaryTitle,46141,Q2
 Nothing to Lose,primaryTitle,46120,Q2
+Carriers,primaryTitle,46103,Q2
 Seeking Justice,primaryTitle,46080,Q2
 3000 Miles to Graceland,primaryTitle,46054,Q2
 Che: Part One,primaryTitle,45892,Q2
@@ -2013,29 +2509,42 @@ Starred Up,primaryTitle,45808,Q2
 Red Cliff,primaryTitle,45802,Q2
 War Machine,primaryTitle,45769,Q2
 The Great Outdoors,primaryTitle,45694,Q2
+Tooth Fairy,primaryTitle,45683,Q2
 Two for the Money,primaryTitle,45677,Q2
 The River Wild,primaryTitle,45629,Q2
 Million Dollar Arm,primaryTitle,45609,Q2
+Highlander II: The Quickening,primaryTitle,45602,Q2
 Glory Road,primaryTitle,45545,Q2
+The Final Girls,primaryTitle,45527,Q2
 You Will Meet a Tall Dark Stranger,primaryTitle,45433,Q2
 The Company Men,primaryTitle,45428,Q2
+Imperium,primaryTitle,45408,Q2
 Alone in the Dark,primaryTitle,45397,Q2
+The Legend of Drunken Master,primaryTitle,45384,Q2
 Dhoom 3,primaryTitle,45367,Q2
 Varsity Blues,primaryTitle,45327,Q2
+Labor Day,primaryTitle,45326,Q2
 Candy,primaryTitle,45286,Q2
+Before I Wake,primaryTitle,45280,Q2
 Official Secrets,primaryTitle,45271,Q2
 Rising Sun,primaryTitle,45251,Q2
 Striptease,primaryTitle,45230,Q2
 Mr. Magorium's Wonder Emporium,primaryTitle,45206,Q2
 The Do-Over,primaryTitle,45204,Q2
+Congo,primaryTitle,45191,Q2
 The Dead Pool,primaryTitle,45144,Q2
 MacGruber,primaryTitle,45107,Q2
 The Colony,primaryTitle,45107,Q2
+The Good Girl,primaryTitle,45017,Q2
 Sultan,primaryTitle,45005,Q2
 Police Academy 3: Back in Training,primaryTitle,44967,Q2
 The Matador,primaryTitle,44931,Q2
+Time Lapse,primaryTitle,44906,Q2
+1: Nenokkadine,primaryTitle,44891,Q2
 Dr. Dolittle 2,primaryTitle,44875,Q2
 The Old Man & the Gun,primaryTitle,44862,Q2
+The Enforcer,primaryTitle,44856,Q2
+Fever Pitch,primaryTitle,44827,Q2
 Cirque du Freak: The Vampire's Assistant,primaryTitle,44823,Q2
 Stolen,primaryTitle,44762,Q2
 The Big Year,primaryTitle,44653,Q2
@@ -2047,32 +2556,49 @@ Proof,primaryTitle,44573,Q2
 Pawn Sacrifice,primaryTitle,44525,Q2
 Guess Who's Coming to Dinner,primaryTitle,44509,Q2
 Dragged Across Concrete,primaryTitle,44475,Q2
+Short Cuts,primaryTitle,44407,Q2
 The Poseidon Adventure,primaryTitle,44353,Q2
 Sudden Impact,primaryTitle,44262,Q2
+Seed of Chucky,primaryTitle,44234,Q2
 Pathfinder,primaryTitle,44150,Q2
 My Best Friend's Girl,primaryTitle,44099,Q2
 Buffy the Vampire Slayer,primaryTitle,44097,Q2
 Big Stan,primaryTitle,44076,Q2
 A Hologram for the King,primaryTitle,44051,Q2
 The Professor and the Madman,primaryTitle,44039,Q2
+Bill & Ted Face the Music,primaryTitle,44026,Q2
 Endless Love,primaryTitle,44015,Q2
 Life as a House,primaryTitle,43976,Q2
 Infinite,primaryTitle,43932,Q2
 Bird on a Wire,primaryTitle,43912,Q2
 Casualties of War,primaryTitle,43861,Q2
+The Lodge,primaryTitle,43851,Q2
+Laggies,primaryTitle,43708,Q2
 Silverado,primaryTitle,43681,Q2
 Fred Claus,primaryTitle,43639,Q2
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",primaryTitle,43630,Q2
 Suburbicon,primaryTitle,43608,Q2
+Rockstar,primaryTitle,43406,Q2
 Byzantium,primaryTitle,43325,Q2
+Withnail & I,primaryTitle,43275,Q2
+Jaws 3-D,primaryTitle,43226,Q2
+Arizona Dream,primaryTitle,43186,Q2
 Of Mice and Men,primaryTitle,43177,Q2
 Trespass,primaryTitle,43133,Q2
+Big Momma's House 2,primaryTitle,43115,Q2
+Heartbreak Ridge,primaryTitle,43104,Q2
+The Reaping,primaryTitle,43079,Q2
 Rock Star,primaryTitle,42991,Q2
+A Room with a View,primaryTitle,42988,Q2
+Yeh Jawaani Hai Deewani,primaryTitle,42957,Q2
 The Towering Inferno,primaryTitle,42956,Q2
 Michael,primaryTitle,42910,Q2
 Behind The Candelabra,primaryTitle,42853,Q2
 In America,primaryTitle,42846,Q2
 Riders of Justice,primaryTitle,42800,Q2
+Idle Hands,primaryTitle,42783,Q2
 Last Knights,primaryTitle,42717,Q2
+Vicky Donor,primaryTitle,42612,Q2
 Flyboys,primaryTitle,42577,Q2
 Rob Roy,primaryTitle,42528,Q2
 Lock Up,primaryTitle,42499,Q2
@@ -2082,41 +2608,60 @@ The Sessions,primaryTitle,42479,Q2
 Police Academy 4: Citizens on Patrol,primaryTitle,42466,Q2
 Hope Springs,primaryTitle,42414,Q2
 Om Shanti Om,primaryTitle,42414,Q2
+Guess Who,primaryTitle,42393,Q2
+Absolutely Anything,primaryTitle,42355,Q2
 Balls of Fury,primaryTitle,42321,Q2
 A Thousand Words,primaryTitle,42296,Q2
 Trust,primaryTitle,42246,Q2
+Taxi 3,primaryTitle,42244,Q2
+High and Low,primaryTitle,42218,Q2
 Fist Fight,primaryTitle,42176,Q2
 Friends with Kids,primaryTitle,42164,Q2
 The Skeleton Twins,primaryTitle,42160,Q2
 Striking Distance,primaryTitle,42106,Q2
+Brick Mansions,primaryTitle,42003,Q2
 Ironclad,primaryTitle,41840,Q2
 13,primaryTitle,41835,Q2
 The Stanford Prison Experiment,primaryTitle,41833,Q2
 High-Rise,primaryTitle,41788,Q2
 Talaash,primaryTitle,41777,Q2
 All About Steve,primaryTitle,41765,Q2
+Rumble in the Bronx,primaryTitle,41749,Q2
 The Transporter Refueled,primaryTitle,41684,Q2
 Asterix and Obelix vs. Caesar,primaryTitle,41638,Q2
 Nick of Time,primaryTitle,41621,Q2
 Shadow of the Vampire,primaryTitle,41614,Q2
+Welcome to the Sticks,primaryTitle,41592,Q2
+The Last Kiss,primaryTitle,41562,Q2
+A Rainy Day in New York,primaryTitle,41494,Q2
 On the Road,primaryTitle,41446,Q2
 Stone,primaryTitle,41439,Q2
+Devdas,primaryTitle,41429,Q2
+A.R.O.G,primaryTitle,41296,Q2
+Down with Love,primaryTitle,41294,Q2
 The Report,primaryTitle,41285,Q2
 Presumed Innocent,primaryTitle,41279,Q2
 Dracula: Dead and Loving It,primaryTitle,41275,Q2
 In & Out,primaryTitle,41254,Q2
 The Medallion,primaryTitle,41163,Q2
+Beverly Hills Ninja,primaryTitle,41140,Q2
 Another 48 Hrs.,primaryTitle,41138,Q2
+St. Elmo's Fire,primaryTitle,41126,Q2
+It's a Mad Mad Mad Mad World,primaryTitle,41064,Q2
 The Horse Whisperer,primaryTitle,40931,Q2
 Driven,primaryTitle,40921,Q2
 Operation Finale,primaryTitle,40910,Q2
+"Lust, Caution",primaryTitle,40880,Q2
 The Gunman,primaryTitle,40817,Q2
 Tigerland,primaryTitle,40806,Q2
+Ingrid Goes West,primaryTitle,40802,Q2
 The Fifth Estate,primaryTitle,40741,Q2
 Money Train,primaryTitle,40728,Q2
 Ra.One,primaryTitle,40648,Q2
 The Good Son,primaryTitle,40638,Q2
+Meet Dave,primaryTitle,40625,Q2
 Anonymous,primaryTitle,40612,Q2
+Dressed to Kill,primaryTitle,40509,Q2
 Double Impact,primaryTitle,40490,Q2
 Narc,primaryTitle,40463,Q2
 Saving Silverman,primaryTitle,40371,Q2
@@ -2125,31 +2670,51 @@ Sea of Love,primaryTitle,40329,Q2
 The Party,primaryTitle,40326,Q2
 Thunder Force,primaryTitle,40325,Q2
 The Three Burials of Melquiades Estrada,primaryTitle,40309,Q2
+The Loved Ones,primaryTitle,40307,Q2
+Coco Before Chanel,primaryTitle,40302,Q2
 Hustle & Flow,primaryTitle,40285,Q2
 Black Knight,primaryTitle,40247,Q2
 Maps to the Stars,primaryTitle,40243,Q2
 Masters of the Universe,primaryTitle,40219,Q2
 Death to Smoochy,primaryTitle,40217,Q2
 Did You Hear About the Morgans?,primaryTitle,40170,Q2
+Key Largo,primaryTitle,40134,Q2
 Radio,primaryTitle,40127,Q2
+In the Bedroom,primaryTitle,40117,Q2
+Black Sheep,primaryTitle,40094,Q2
 Next Friday,primaryTitle,39945,Q2
+The Chaos Class,primaryTitle,39903,Q2
+Night School,primaryTitle,39861,Q2
 Searching for Bobby Fischer,primaryTitle,39843,Q2
 Spread,primaryTitle,39823,Q2
+Encino Man,primaryTitle,39796,Q2
 Dead Calm,primaryTitle,39772,Q2
 The Railway Man,primaryTitle,39760,Q2
 Reindeer Games,primaryTitle,39671,Q2
 No Way Out,primaryTitle,39626,Q2
 Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,primaryTitle,39578,Q2
 The Verdict,primaryTitle,39504,Q2
+Drunken Master,primaryTitle,39497,Q2
+Dumb and Dumberer: When Harry Met Lloyd,primaryTitle,39429,Q2
+Left Behind,primaryTitle,39408,Q2
 Regression,primaryTitle,39402,Q2
+Chasing Liberty,primaryTitle,39392,Q2
+Brief Encounter,primaryTitle,39386,Q2
+The Good Liar,primaryTitle,39301,Q2
 Cleaner,primaryTitle,39280,Q2
 Ravenous,primaryTitle,39278,Q2
+Basic Instinct 2,primaryTitle,39275,Q2
 The Wife,primaryTitle,39257,Q2
 Deadfall,primaryTitle,39250,Q2
 License to Wed,primaryTitle,39204,Q2
+Mean Machine,primaryTitle,39173,Q2
+The To Do List,primaryTitle,39154,Q2
+The One I Love,primaryTitle,39039,Q2
 Deception,primaryTitle,39035,Q2
+The Physician,primaryTitle,39022,Q2
 Tolkien,primaryTitle,38959,Q2
 Midnight in the Garden of Good and Evil,primaryTitle,38904,Q2
+Detroit Rock City,primaryTitle,38857,Q2
 Love & Mercy,primaryTitle,38825,Q2
 Hot Tub Time Machine 2,primaryTitle,38801,Q2
 The Salvation,primaryTitle,38785,Q2
@@ -2165,32 +2730,46 @@ Small Time Crooks,primaryTitle,38566,Q2
 Whiteout,primaryTitle,38563,Q2
 Hang 'Em High,primaryTitle,38512,Q2
 Naked,primaryTitle,38473,Q2
+Because I Said So,primaryTitle,38465,Q2
 Spider,primaryTitle,38420,Q2
 The Rocker,primaryTitle,38371,Q2
 After.Life,primaryTitle,38367,Q2
+Dragonfly,primaryTitle,38286,Q2
 Bitter Moon,primaryTitle,38272,Q2
 The Cave,primaryTitle,38263,Q2
+Thesis,primaryTitle,38262,Q2
 We Are Your Friends,primaryTitle,38249,Q2
 Summer of Sam,primaryTitle,38248,Q2
 The Believer,primaryTitle,38238,Q2
+Apt Pupil,primaryTitle,38141,Q2
+The Wrong Missy,primaryTitle,38135,Q2
 Near Dark,primaryTitle,38116,Q2
+Up in Smoke,primaryTitle,38114,Q2
 Bulletproof,primaryTitle,38076,Q2
+The Quiet Man,primaryTitle,38038,Q2
 Message in a Bottle,primaryTitle,38005,Q2
 John Dies at the End,primaryTitle,37991,Q2
 Kicking & Screaming,primaryTitle,37954,Q2
 Ludo,primaryTitle,37894,Q2
 Promised Land,primaryTitle,37883,Q2
 Wild Target,primaryTitle,37871,Q2
+Gully Boy,primaryTitle,37828,Q2
 Hamlet,primaryTitle,37764,Q2
 So I Married an Axe Murderer,primaryTitle,37752,Q2
+The Trouble with Harry,primaryTitle,37747,Q2
+Bully,primaryTitle,37734,Q2
+The Baader Meinhof Complex,primaryTitle,37723,Q2
 Spy Hard,primaryTitle,37723,Q2
 The 33,primaryTitle,37711,Q2
 Old Dogs,primaryTitle,37709,Q2
 Kill Your Darlings,primaryTitle,37697,Q2
 Boy Erased,primaryTitle,37658,Q2
+Suspicion,primaryTitle,37630,Q2
+Replicas,primaryTitle,37590,Q2
 Black Sea,primaryTitle,37575,Q2
 Boy A,primaryTitle,37571,Q2
 Cedar Rapids,primaryTitle,37538,Q2
+Sanjuro,primaryTitle,37526,Q2
 The Paperboy,primaryTitle,37480,Q2
 Middle Men,primaryTitle,37467,Q2
 Greenberg,primaryTitle,37441,Q2
@@ -2202,35 +2781,53 @@ Race,primaryTitle,37273,Q2
 Hair,primaryTitle,37198,Q2
 Hollywood Homicide,primaryTitle,37192,Q2
 Killing Season,primaryTitle,37190,Q2
+The Savages,primaryTitle,37125,Q2
 Murder by Death,primaryTitle,37114,Q2
 Anna and the King,primaryTitle,37098,Q2
 102 Dalmatians,primaryTitle,37079,Q2
+I Give It a Year,primaryTitle,37061,Q2
 Big Fat Liar,primaryTitle,36982,Q2
 The Santa Clause 3: The Escape Clause,primaryTitle,36973,Q2
 Everyone Says I Love You,primaryTitle,36934,Q2
+Slap Shot,primaryTitle,36933,Q2
 The Last Days on Mars,primaryTitle,36864,Q2
+Repo Man,primaryTitle,36859,Q2
+The Adventures of Sharkboy and Lavagirl 3-D,primaryTitle,36812,Q2
+Peggy Sue Got Married,primaryTitle,36812,Q2
+Splinter,primaryTitle,36784,Q2
 Paranoia,primaryTitle,36782,Q2
 Bringing Down the House,primaryTitle,36777,Q2
 Don,primaryTitle,36717,Q2
 Joe Versus the Volcano,primaryTitle,36700,Q2
+Nine Months,primaryTitle,36693,Q2
 The Divide,primaryTitle,36676,Q2
+Mother's Day,primaryTitle,36658,Q2
 King of New York,primaryTitle,36616,Q2
 The Ringer,primaryTitle,36612,Q2
 Exorcist: The Beginning,primaryTitle,36585,Q2
+Drugstore Cowboy,primaryTitle,36580,Q2
 The Big Chill,primaryTitle,36579,Q2
 Defendor,primaryTitle,36577,Q2
 Stan & Ollie,primaryTitle,36546,Q2
 Happy New Year,primaryTitle,36532,Q2
 Hold the Dark,primaryTitle,36529,Q2
+The Blob,primaryTitle,36494,Q2
+Vikram Vedha,primaryTitle,36478,Q2
+Orgazmo,primaryTitle,36472,Q2
 Throw Momma from the Train,primaryTitle,36458,Q2
-Miracle on 34th Street,primaryTitle,36436,Q2
 The Glass House,primaryTitle,36425,Q2
 Mickey Blue Eyes,primaryTitle,36409,Q2
 Jack Frost,primaryTitle,36393,Q2
+Kai Po Che,primaryTitle,36382,Q2
 The Merchant of Venice,primaryTitle,36376,Q2
 Doc Hollywood,primaryTitle,36348,Q2
 The Art of Self-Defense,primaryTitle,36341,Q2
+Out of the Past,primaryTitle,36315,Q2
+Single White Female,primaryTitle,36300,Q2
 Late Night,primaryTitle,36250,Q2
+Birth,primaryTitle,36242,Q2
+Vizontele,primaryTitle,36151,Q2
+Death on the Nile,primaryTitle,36093,Q2
 Heist,primaryTitle,36070,Q2
 Being the Ricardos,primaryTitle,36061,Q2
 Smoke,primaryTitle,36057,Q2
@@ -2238,17 +2835,24 @@ The Libertine,primaryTitle,36007,Q2
 Hit and Run,primaryTitle,35955,Q2
 Mr. Woodcock,primaryTitle,35938,Q2
 The Cannonball Run,primaryTitle,35871,Q2
+Arif V 216,primaryTitle,35832,Q2
+The Lawnmower Man,primaryTitle,35828,Q2
 Halloween: The Curse of Michael Myers,primaryTitle,35795,Q2
 Police Academy 5: Assignment: Miami Beach,primaryTitle,35696,Q2
 Holmes & Watson,primaryTitle,35660,Q2
+To Be or Not to Be,primaryTitle,35640,Q2
+Honey Boy,primaryTitle,35638,Q2
 Cold in July,primaryTitle,35625,Q2
 The Last Legion,primaryTitle,35551,Q2
 Femme Fatale,primaryTitle,35533,Q2
+The Muppet Movie,primaryTitle,35527,Q2
 True Crime,primaryTitle,35523,Q2
 A Life Less Ordinary,primaryTitle,35484,Q2
 Evita,primaryTitle,35473,Q2
 Young Guns II,primaryTitle,35465,Q2
+The Good the Bad the Weird,primaryTitle,35424,Q2
 BloodRayne,primaryTitle,35417,Q2
+Fools Rush In,primaryTitle,35393,Q2
 Caligula,primaryTitle,35389,Q2
 Antwone Fisher,primaryTitle,35384,Q2
 Velvet Goldmine,primaryTitle,35357,Q2
@@ -2257,44 +2861,66 @@ Red Tails,primaryTitle,35295,Q2
 Braven,primaryTitle,35280,Q2
 The Ice Road,primaryTitle,35182,Q2
 Shattered Glass,primaryTitle,35133,Q2
+Kagemusha,primaryTitle,35131,Q2
+*batteries not included,primaryTitle,35125,Q2
 Cyrus,primaryTitle,35107,Q2
+Fatherhood,primaryTitle,35105,Q2
 The Messenger,primaryTitle,35097,Q2
 Hard Rain,primaryTitle,35072,Q2
 Nurse Betty,primaryTitle,35062,Q2
+Major Payne,primaryTitle,35056,Q2
+This Must Be the Place,primaryTitle,35016,Q2
+Yahsi Bati,primaryTitle,34996,Q2
 Main Hoon Na,primaryTitle,34985,Q2
 Exit Wounds,primaryTitle,34980,Q2
 The Tournament,primaryTitle,34966,Q2
+Bug,primaryTitle,34878,Q2
 Little Big Man,primaryTitle,34874,Q2
 Sweet and Lowdown,primaryTitle,34864,Q2
 Body Heat,primaryTitle,34783,Q2
 Altered States,primaryTitle,34759,Q2
+Undercover Brother,primaryTitle,34750,Q2
 New Jack City,primaryTitle,34722,Q2
+Escape from the Planet of the Apes,primaryTitle,34716,Q2
+Admission,primaryTitle,34637,Q2
 For Love of the Game,primaryTitle,34507,Q2
+Talvar,primaryTitle,34492,Q2
 Stalingrad,primaryTitle,34488,Q2
 Keeping Mum,primaryTitle,34463,Q2
 Mute,primaryTitle,34463,Q2
 Les visiteurs,primaryTitle,34450,Q2
 Adam,primaryTitle,34421,Q2
 The Rookie,primaryTitle,34409,Q2
+22 Bullets,primaryTitle,34405,Q2
 The Odd Couple,primaryTitle,34379,Q2
+6 Souls,primaryTitle,34360,Q2
 Toofaan,primaryTitle,34354,Q2
 Find Me Guilty,primaryTitle,34313,Q2
 Get Carter,primaryTitle,34288,Q2
 Unlocked,primaryTitle,34170,Q2
+Sudden Death,primaryTitle,34160,Q2
+The Stepfather,primaryTitle,34152,Q2
 Confidence,primaryTitle,34142,Q2
+The Invisible Man,primaryTitle,34138,Q2
 Dragnet,primaryTitle,34133,Q2
 High Life,primaryTitle,34131,Q2
 Captain Corelli's Mandolin,primaryTitle,34114,Q2
+Adore,primaryTitle,34105,Q2
 Hollywoodland,primaryTitle,34102,Q2
 Dilwale,primaryTitle,34096,Q2
 The Killer Inside Me,primaryTitle,34096,Q2
 The Air I Breathe,primaryTitle,34089,Q2
 Now Is Good,primaryTitle,34080,Q2
+Hunting Season,primaryTitle,34069,Q2
 A Man for All Seasons,primaryTitle,34066,Q2
+Muppets Most Wanted,primaryTitle,34056,Q2
+To Have and Have Not,primaryTitle,34016,Q2
+Escape from Pretoria,primaryTitle,34010,Q2
 "Duck, You Sucker!",primaryTitle,34006,Q2
 Forces of Nature,primaryTitle,33989,Q2
 Double Team,primaryTitle,33984,Q2
 Rumble Fish,primaryTitle,33982,Q2
+Ek Tha Tiger,primaryTitle,33902,Q2
 The Four Feathers,primaryTitle,33892,Q2
 The Cooler,primaryTitle,33891,Q2
 Tora! Tora! Tora!,primaryTitle,33876,Q2
@@ -2306,11 +2932,14 @@ The Changeling,primaryTitle,33814,Q2
 The Phantom,primaryTitle,33811,Q2
 A Walk in the Clouds,primaryTitle,33809,Q2
 At Eternity's Gate,primaryTitle,33788,Q2
+Everybody Knows,primaryTitle,33780,Q2
 IO,primaryTitle,33745,Q2
+Coming Soon,primaryTitle,33731,Q2
 The Discovery,primaryTitle,33636,Q2
 Police Academy: Mission to Moscow,primaryTitle,33619,Q2
 Dracula 2000,primaryTitle,33600,Q2
 Survivor,primaryTitle,33584,Q2
+Love Story,primaryTitle,33574,Q2
 Freaks,primaryTitle,33553,Q2
 Real Genius,primaryTitle,33524,Q2
 Che: Part Two,primaryTitle,33518,Q2
@@ -2318,50 +2947,74 @@ The Second Best Exotic Marigold Hotel,primaryTitle,33472,Q2
 Mesrine: Killer Instinct,primaryTitle,33464,Q2
 K-9,primaryTitle,33463,Q2
 The Secret of My Success,primaryTitle,33447,Q2
+The Informer,primaryTitle,33411,Q2
 Unfinished Business,primaryTitle,33406,Q2
 On the Basis of Sex,primaryTitle,33394,Q2
+Igby Goes Down,primaryTitle,33319,Q2
 The Woodsman,primaryTitle,33310,Q2
 99 Homes,primaryTitle,33271,Q2
 1941,primaryTitle,33254,Q2
 The Way of the Gun,primaryTitle,33249,Q2
+Dungeons & Dragons,primaryTitle,33224,Q2
 Man of the Year,primaryTitle,33201,Q2
 Blood and Bone,primaryTitle,33183,Q2
+Babe: Pig in the City,primaryTitle,33181,Q2
 The Island of Dr. Moreau,primaryTitle,33172,Q2
 Welcome to the Punch,primaryTitle,33162,Q2
 "20,000 Leagues Under the Sea",primaryTitle,33151,Q2
+The Circus,primaryTitle,33150,Q2
 The Company You Keep,primaryTitle,33086,Q2
 Blues Brothers 2000,primaryTitle,33085,Q2
+Magic Carpet Ride,primaryTitle,33070,Q2
 A Long Way Down,primaryTitle,33066,Q2
 Bubble Boy,primaryTitle,33042,Q2
 Instinct,primaryTitle,33012,Q2
 Fighting,primaryTitle,33004,Q2
 54,primaryTitle,32989,Q2
+Teenage Mutant Ninja Turtles III,primaryTitle,32986,Q2
 The Captive,primaryTitle,32944,Q2
+To Live and Die in L.A.,primaryTitle,32935,Q2
 Stree,primaryTitle,32860,Q2
 Beautiful Girls,primaryTitle,32844,Q2
+Don't Tell Mom the Babysitter's Dead,primaryTitle,32809,Q2
 Big Game,primaryTitle,32792,Q2
 The Final Cut,primaryTitle,32779,Q2
 Love Happens,primaryTitle,32776,Q2
+Cop Car,primaryTitle,32718,Q2
 Flypaper,primaryTitle,32695,Q2
 Goal II: Living the Dream,primaryTitle,32597,Q2
 Oliver Twist,primaryTitle,32536,Q2
 Fanaa,primaryTitle,32528,Q2
+Chaos Theory,primaryTitle,32523,Q2
 A Night at the Opera,primaryTitle,32518,Q2
+Chasing Mavericks,primaryTitle,32506,Q2
 L.A. Story,primaryTitle,32466,Q2
+Cleopatra,primaryTitle,32458,Q2
 The Way,primaryTitle,32418,Q2
 The Limey,primaryTitle,32368,Q2
+White Heat,primaryTitle,32257,Q2
 The Man Who Knew Too Little,primaryTitle,32250,Q2
 Leatherheads,primaryTitle,32242,Q2
+Pathology,primaryTitle,32220,Q2
+The Aeronauts,primaryTitle,32197,Q2
 Maximum Overdrive,primaryTitle,32156,Q2
 Melinda and Melinda,primaryTitle,32143,Q2
+Raanjhanaa,primaryTitle,32139,Q2
 Interstate 60: Episodes of the Road,primaryTitle,32133,Q2
+One Missed Call,primaryTitle,32120,Q2
+The Brand New Testament,primaryTitle,32104,Q2
+The Texas Chainsaw Massacre 2,primaryTitle,32091,Q2
+Dabangg,primaryTitle,32088,Q2
+Jodhaa Akbar,primaryTitle,32083,Q2
 Coriolanus,primaryTitle,32049,Q2
+Stay Alive,primaryTitle,32049,Q2
 Undisputed,primaryTitle,32041,Q2
 Sleepless,primaryTitle,31984,Q2
 Obsessed,primaryTitle,31948,Q2
 Shattered,primaryTitle,31843,Q2
 Toys,primaryTitle,31816,Q2
 Must Love Dogs,primaryTitle,31797,Q2
+Back to School,primaryTitle,31752,Q2
 Hysteria,primaryTitle,31706,Q2
 Oscar,primaryTitle,31700,Q2
 The Getaway,primaryTitle,31663,Q2
@@ -2369,22 +3022,30 @@ Angels in the Outfield,primaryTitle,31598,Q2
 Spartan,primaryTitle,31597,Q2
 The Immigrant,primaryTitle,31590,Q2
 "To Wong Foo, Thanks for Everything! Julie Newmar",primaryTitle,31586,Q2
+Popeye,primaryTitle,31577,Q2
+City Island,primaryTitle,31528,Q2
+The Diary of a Teenage Girl,primaryTitle,31525,Q2
+Mannequin,primaryTitle,31516,Q2
 Seraphim Falls,primaryTitle,31474,Q2
 Last Holiday,primaryTitle,31436,Q2
 Kangaroo Jack,primaryTitle,31374,Q2
 Danny Collins,primaryTitle,31366,Q2
-Tequila Sunrise,primaryTitle,31322,Q2
+Village of the Damned,primaryTitle,31340,Q2
 The Outpost,primaryTitle,31322,Q2
+Tequila Sunrise,primaryTitle,31322,Q2
 Piku,primaryTitle,31313,Q2
 Alan Partridge,primaryTitle,31281,Q2
-Frankie and Johnny,primaryTitle,31261,Q2
 Michael Collins,primaryTitle,31261,Q2
+Frankie and Johnny,primaryTitle,31261,Q2
+Celeste & Jesse Forever,primaryTitle,31248,Q2
 The Two Faces of January,primaryTitle,31202,Q2
 Escape Plan 2: Hades,primaryTitle,31184,Q2
 The Tashkent Files,primaryTitle,31180,Q2
 Sweet Smell of Success,primaryTitle,31160,Q2
+Two Days in Paris,primaryTitle,31110,Q2
 Barbershop,primaryTitle,31105,Q2
 The Lion in Winter,primaryTitle,31103,Q2
+Padmaavat,primaryTitle,31076,Q2
 Hardball,primaryTitle,31045,Q2
 The Exorcist III,primaryTitle,31037,Q2
 Envy,primaryTitle,31004,Q2
@@ -2394,28 +3055,43 @@ Police Academy 6: City Under Siege,primaryTitle,30931,Q2
 Sliver,primaryTitle,30927,Q2
 Stretch,primaryTitle,30926,Q2
 An Unfinished Life,primaryTitle,30923,Q2
+Dragon: The Bruce Lee Story,primaryTitle,30846,Q2
 Borg vs. McEnroe,primaryTitle,30839,Q2
 The Titan,primaryTitle,30831,Q2
 No Sudden Move,primaryTitle,30829,Q2
 Blown Away,primaryTitle,30798,Q2
+Some Kind of Wonderful,primaryTitle,30777,Q2
 The Human Stain,primaryTitle,30765,Q2
+Ip Man 4: The Finale,primaryTitle,30762,Q2
 On the Rocks,primaryTitle,30735,Q2
 The Salton Sea,primaryTitle,30733,Q2
+Wake Up Sid,primaryTitle,30731,Q2
 Red River,primaryTitle,30706,Q2
 Gods and Monsters,primaryTitle,30698,Q2
 Z for Zachariah,primaryTitle,30670,Q2
 Tau,primaryTitle,30644,Q2
 Armored,primaryTitle,30638,Q2
+Murder at 1600,primaryTitle,30598,Q2
 Nixon,primaryTitle,30588,Q2
 The Bad Batch,primaryTitle,30561,Q2
+The Wackness,primaryTitle,30547,Q2
+Big Nothing,primaryTitle,30521,Q2
 Goya's Ghosts,primaryTitle,30516,Q2
 One Night at McCool's,primaryTitle,30473,Q2
 Broadcast News,primaryTitle,30421,Q2
+The Football Factory,primaryTitle,30397,Q2
 Possession,primaryTitle,30379,Q2
+Queen & Slim,primaryTitle,30366,Q2
+The Long Goodbye,primaryTitle,30356,Q2
 Problem Child,primaryTitle,30337,Q2
 The End of the Tour,primaryTitle,30330,Q2
+Thalaivi,primaryTitle,30330,Q2
+Thinner,primaryTitle,30323,Q2
+Diary of a Wimpy Kid: Rodrick Rules,primaryTitle,30265,Q2
 The Greatest Game Ever Played,primaryTitle,30232,Q2
 The Professor,primaryTitle,30109,Q2
+Micmacs,primaryTitle,30097,Q2
+And Now for Something Completely Different,primaryTitle,30090,Q2
 Wait Until Dark,primaryTitle,30089,Q2
 Playing for Keeps,primaryTitle,30055,Q2
 Powder,primaryTitle,30052,Q2
@@ -2424,54 +3100,91 @@ Thief,primaryTitle,30024,Q2
 The Taking of Pelham One Two Three,primaryTitle,30009,Q2
 1492: Conquest of Paradise,primaryTitle,29990,Q2
 Virtuosity,primaryTitle,29974,Q2
+Article 15,primaryTitle,29966,Q2
+The Next Karate Kid,primaryTitle,29956,Q2
 Antlers,primaryTitle,29931,Q2
 Cherry,primaryTitle,29896,Q2
+Rogue,primaryTitle,29878,Q2
 Victory,primaryTitle,29876,Q2
 The Big Hit,primaryTitle,29855,Q2
+Cronos,primaryTitle,29814,Q2
+Knockin' on Heaven's Door,primaryTitle,29812,Q2
 The Art of Racing in the Rain,primaryTitle,29808,Q2
+The Kissing Booth 2,primaryTitle,29807,Q2
 The Art of War,primaryTitle,29782,Q2
 Always,primaryTitle,29774,Q2
+The Lords of Salem,primaryTitle,29741,Q2
 Open Grave,primaryTitle,29718,Q2
+Inherit the Wind,primaryTitle,29710,Q2
 The China Syndrome,primaryTitle,29688,Q2
+Henry V,primaryTitle,29674,Q2
+Mesrine: Public Enemy No. 1,primaryTitle,29648,Q2
 Hard to Kill,primaryTitle,29634,Q2
 Club Dread,primaryTitle,29602,Q2
 Gringo,primaryTitle,29580,Q2
+Joyeux Noel,primaryTitle,29573,Q2
 The Pink Panther Strikes Again,primaryTitle,29560,Q2
+Asterix at the Olympic Games,primaryTitle,29536,Q2
 A Bigger Splash,primaryTitle,29513,Q2
 School for Scoundrels,primaryTitle,29485,Q2
 Mohabbatein,primaryTitle,29409,Q2
 Outland,primaryTitle,29405,Q2
 Pushing Tin,primaryTitle,29359,Q2
+Joint Security Area,primaryTitle,29340,Q2
 The Tailor of Panama,primaryTitle,29297,Q2
 Money Talks,primaryTitle,29273,Q2
+The Man Without a Face,primaryTitle,29263,Q2
 Antitrust,primaryTitle,29254,Q2
+Serial Mom,primaryTitle,29215,Q2
 Universal Soldier: The Return,primaryTitle,29178,Q2
+The Christmas Chronicles: Part Two,primaryTitle,29144,Q2
+Boomerang,primaryTitle,29115,Q2
+Runaway Train,primaryTitle,29067,Q2
+Species II,primaryTitle,29063,Q2
+The Lady in the Van,primaryTitle,29026,Q2
 The Oxford Murders,primaryTitle,28930,Q2
+Mighty Joe Young,primaryTitle,28924,Q2
+A Brilliant Young Mind,primaryTitle,28888,Q2
 Gettysburg,primaryTitle,28855,Q2
 Somewhere in Time,primaryTitle,28841,Q2
 Kick,primaryTitle,28832,Q2
 Destroyer,primaryTitle,28767,Q2
+Silent Running,primaryTitle,28751,Q2
+The Mosquito Coast,primaryTitle,28725,Q2
+Fortress,primaryTitle,28710,Q2
 A Civil Action,primaryTitle,28709,Q2
 To the Wonder,primaryTitle,28696,Q2
 The Replacement Killers,primaryTitle,28687,Q2
 The Conspirator,primaryTitle,28683,Q2
 12 Rounds,primaryTitle,28670,Q2
 Bugsy,primaryTitle,28640,Q2
-Testament of Youth,primaryTitle,28625,Q2
 Things We Lost in the Fire,primaryTitle,28625,Q2
+Testament of Youth,primaryTitle,28625,Q2
+Waiting for Guffman,primaryTitle,28623,Q2
 A Little Bit of Heaven,primaryTitle,28597,Q2
 Serena,primaryTitle,28595,Q2
 Ruby & Quentin,primaryTitle,28580,Q2
+Mask,primaryTitle,28533,Q2
 Jolt,primaryTitle,28522,Q2
+Tanu Weds Manu Returns,primaryTitle,28497,Q2
 Air America,primaryTitle,28492,Q2
 Little Giants,primaryTitle,28370,Q2
 Charlie Countryman,primaryTitle,28358,Q2
 Tiger Zinda Hai,primaryTitle,28347,Q2
+Dil Se..,primaryTitle,28330,Q2
+Vanishing Point,primaryTitle,28325,Q2
+Table 19,primaryTitle,28266,Q2
+Beyond Borders,primaryTitle,28250,Q2
 "Yours, Mine & Ours",primaryTitle,28243,Q2
+Mr. Church,primaryTitle,28242,Q2
 The Quiet American,primaryTitle,28198,Q2
 Murder in the First,primaryTitle,28174,Q2
+Memphis Belle,primaryTitle,28170,Q2
 Tale of Tales,primaryTitle,28160,Q2
+Torque,primaryTitle,28129,Q2
 Playing It Cool,primaryTitle,28112,Q2
+Taxi 4,primaryTitle,28106,Q2
+Synchronic,primaryTitle,28101,Q2
 Thanks for Sharing,primaryTitle,28084,Q2
 Rollerball,primaryTitle,28077,Q2
 Freeway,primaryTitle,28064,Q2
@@ -2479,43 +3192,68 @@ Tanhaji: The Unsung Warrior,primaryTitle,28057,Q2
 Ruthless People,primaryTitle,28047,Q2
 Third Person,primaryTitle,27975,Q2
 Virus,primaryTitle,27958,Q2
+Farewell My Concubine,primaryTitle,27929,Q2
 A Shot in the Dark,primaryTitle,27928,Q2
 Bachchhan Paandey,primaryTitle,27911,Q2
 Cutthroat Island,primaryTitle,27843,Q2
 Dead Again,primaryTitle,27808,Q2
 Win a Date with Tad Hamilton!,primaryTitle,27802,Q2
 Stir Crazy,primaryTitle,27788,Q2
+Son of a Gun,primaryTitle,27761,Q2
 Happy Together,primaryTitle,27751,Q2
+A Mighty Wind,primaryTitle,27750,Q2
 Marvin's Room,primaryTitle,27749,Q2
+Rookie of the Year,primaryTitle,27746,Q2
 The Resident,primaryTitle,27737,Q2
 Deck the Halls,primaryTitle,27724,Q2
+Baazigar,primaryTitle,27718,Q2
+Hindi Medium,primaryTitle,27699,Q2
 Cell,primaryTitle,27648,Q2
 What Maisie Knew,primaryTitle,27639,Q2
+The Truth About Cats & Dogs,primaryTitle,27638,Q2
 Risen,primaryTitle,27619,Q2
 The Boys from Brazil,primaryTitle,27592,Q2
 Point of No Return,primaryTitle,27588,Q2
 Things to Do in Denver When You're Dead,primaryTitle,27508,Q2
 Death Race 2000,primaryTitle,27502,Q2
 Suicide Kings,primaryTitle,27490,Q2
+Bio-Dome,primaryTitle,27476,Q2
 Friday After Next,primaryTitle,27431,Q2
 What Just Happened,primaryTitle,27400,Q2
+Metro,primaryTitle,27356,Q2
+Your Sister's Sister,primaryTitle,27314,Q2
+Masaan,primaryTitle,27270,Q2
+The Caine Mutiny,primaryTitle,27262,Q2
+"Big Mommas: Like Father, Like Son",primaryTitle,27188,Q2
+Domestic Disturbance,primaryTitle,27179,Q2
+Bright Star,primaryTitle,27159,Q2
+The Relic,primaryTitle,27088,Q2
+Zero,primaryTitle,27061,Q2
+How to Steal a Million,primaryTitle,27023,Q2
 The Watcher,primaryTitle,27022,Q2
 The Return of the Pink Panther,primaryTitle,27021,Q2
+Silver Bullet,primaryTitle,26984,Q2
 Badla,primaryTitle,26960,Q2
 Heaven Is for Real,primaryTitle,26946,Q2
 Grumpier Old Men,primaryTitle,26930,Q2
+Enthiran,primaryTitle,26928,Q2
 Every Which Way but Loose,primaryTitle,26905,Q2
+The Book of Henry,primaryTitle,26899,Q2
 "Mystery, Alaska",primaryTitle,26882,Q2
 Ned Kelly,primaryTitle,26878,Q2
 A Walk in the Woods,primaryTitle,26870,Q2
 Knight of Cups,primaryTitle,26827,Q2
+Psycho II,primaryTitle,26813,Q2
 Just Cause,primaryTitle,26810,Q2
 Bleed for This,primaryTitle,26804,Q2
 Snow Dogs,primaryTitle,26782,Q2
 The Bounty,primaryTitle,26761,Q2
+Chehre,primaryTitle,26754,Q2
 Celebrity,primaryTitle,26740,Q2
+The Perfect Host,primaryTitle,26717,Q2
 In Order of Disappearance,primaryTitle,26698,Q2
 The Warlords,primaryTitle,26698,Q2
+Juice,primaryTitle,26653,Q2
 My Name Is Nobody,primaryTitle,26626,Q2
 Top Five,primaryTitle,26610,Q2
 El Dorado,primaryTitle,26585,Q2
@@ -2523,124 +3261,180 @@ Dom Hemingway,primaryTitle,26571,Q2
 The Wall,primaryTitle,26544,Q2
 The World According to Garp,primaryTitle,26538,Q2
 Cross of Iron,primaryTitle,26480,Q2
-The Protégé,primaryTitle,26463,Q2
+The Protege,primaryTitle,26463,Q2
 Fire with Fire,primaryTitle,26459,Q2
+Heartbreaker,primaryTitle,26401,Q2
+The Wolf Man,primaryTitle,26396,Q2
 The Banker,primaryTitle,26382,Q2
 Eye See You,primaryTitle,26380,Q2
 Kaabil,primaryTitle,26378,Q2
-Colors,primaryTitle,26341,Q2
+Baby Geniuses,primaryTitle,26374,Q2
+Waking Ned Devine,primaryTitle,26357,Q2
 Major League II,primaryTitle,26341,Q2
+Colors,primaryTitle,26341,Q2
+The Asphalt Jungle,primaryTitle,26325,Q2
 Mutant Chronicles,primaryTitle,26324,Q2
 Autumn in New York,primaryTitle,26287,Q2
 My Stepmother Is an Alien,primaryTitle,26275,Q2
 Fathers & Daughters,primaryTitle,26256,Q2
 The Warrior's Way,primaryTitle,26243,Q2
+The Clovehitch Killer,primaryTitle,26201,Q2
 The Stranger,primaryTitle,26194,Q2
+"Play It Again, Sam",primaryTitle,26193,Q2
 Super Troopers 2,primaryTitle,26185,Q2
 Rustom,primaryTitle,26083,Q2
-A Love Song for Bobby Long,primaryTitle,26059,Q2
 Someone Like You,primaryTitle,26059,Q2
+A Love Song for Bobby Long,primaryTitle,26059,Q2
 Dhoom 2,primaryTitle,26054,Q2
 Vanishing on 7th Street,primaryTitle,26024,Q2
 The Adventures of Buckaroo Banzai Across the 8th Dimension,primaryTitle,26014,Q2
 The Quest,primaryTitle,25935,Q2
 Bhoot Police,primaryTitle,25930,Q2
+Private Benjamin,primaryTitle,25901,Q2
 "Don't Worry, He Won't Get Far on Foot",primaryTitle,25836,Q2
+Asuran,primaryTitle,25811,Q2
+Parental Guidance,primaryTitle,25789,Q2
 Stakeout,primaryTitle,25773,Q2
+Kaththi,primaryTitle,25720,Q2
 A Guide to Recognizing Your Saints,primaryTitle,25719,Q2
 The Man with Two Brains,primaryTitle,25709,Q2
 Life or Something Like It,primaryTitle,25687,Q2
 The Adventures of Pluto Nash,primaryTitle,25686,Q2
 The Man,primaryTitle,25658,Q2
 The Assassination of Richard Nixon,primaryTitle,25653,Q2
+Kapoor & Sons,primaryTitle,25645,Q2
 Cooties,primaryTitle,25628,Q2
+Monsoon Wedding,primaryTitle,25598,Q2
 Take the Lead,primaryTitle,25592,Q2
 Godsend,primaryTitle,25590,Q2
 An American Haunting,primaryTitle,25580,Q2
 The Ottoman Lieutenant,primaryTitle,25510,Q2
 10 Years,primaryTitle,25492,Q2
+Jean de Florette,primaryTitle,25478,Q2
 Universal Soldier: Regeneration,primaryTitle,25437,Q2
 Klute,primaryTitle,25430,Q2
+Birthday Girl,primaryTitle,25408,Q2
+The Leopard,primaryTitle,25389,Q2
 Sarfarosh,primaryTitle,25382,Q2
 The Hunting Party,primaryTitle,25361,Q2
+You Can't Take It with You,primaryTitle,25360,Q2
 A Midsummer Night's Dream,primaryTitle,25349,Q2
 Wrongfully Accused,primaryTitle,25281,Q2
 Under Suspicion,primaryTitle,25247,Q2
+Diary of a Wimpy Kid: Dog Days,primaryTitle,25237,Q2
+The Black Hole,primaryTitle,25234,Q2
 The Shadow,primaryTitle,25229,Q2
 1900,primaryTitle,25175,Q2
 I.Q.,primaryTitle,25119,Q2
 Last Flag Flying,primaryTitle,25116,Q2
 City by the Sea,primaryTitle,25092,Q2
+Little White Lies,primaryTitle,25033,Q2
 Malice,primaryTitle,25031,Q2
 American Gigolo,primaryTitle,25027,Q2
 Before Night Falls,primaryTitle,25022,Q2
 The Vanishing,primaryTitle,25022,Q2
 The Good German,primaryTitle,25013,Q2
 Remember,primaryTitle,25012,Q2
+The Master of Disguise,primaryTitle,24915,Q2
 My Life Without Me,primaryTitle,24892,Q2
 Copshop,primaryTitle,24890,Q2
 Thunderbolt and Lightfoot,primaryTitle,24883,Q2
+Through a Glass Darkly,primaryTitle,24883,Q2
 Catch-22,primaryTitle,24876,Q2
 Jolly LLB 2,primaryTitle,24864,Q2
+Le Cercle Rouge,primaryTitle,24860,Q2
+Beckett,primaryTitle,24853,Q2
+Nights in Rodanthe,primaryTitle,24839,Q2
 Let's Go to Prison,primaryTitle,24815,Q2
+The Outsider,primaryTitle,24814,Q2
+An American Werewolf in Paris,primaryTitle,24801,Q2
+No,primaryTitle,24777,Q2
 The Bonfire of the Vanities,primaryTitle,24769,Q2
 The Contract,primaryTitle,24752,Q2
 Memoirs of an Invisible Man,primaryTitle,24749,Q2
+The Ref,primaryTitle,24728,Q2
 American Dreamz,primaryTitle,24723,Q2
 Needful Things,primaryTitle,24697,Q2
+Crazy/Beautiful,primaryTitle,24696,Q2
 Amazing Grace,primaryTitle,24694,Q2
+The Way We Were,primaryTitle,24692,Q2
+Addicted to Love,primaryTitle,24630,Q2
+Immortal Beloved,primaryTitle,24615,Q2
 Surviving Christmas,primaryTitle,24597,Q2
 Gambit,primaryTitle,24589,Q2
 Men at Work,primaryTitle,24582,Q2
 All the King's Men,primaryTitle,24568,Q2
+Creep 2,primaryTitle,24551,Q2
+McCabe & Mrs. Miller,primaryTitle,24545,Q2
 Stormbreaker,primaryTitle,24538,Q2
 Munich: The Edge of War,primaryTitle,24518,Q2
+Winter Light,primaryTitle,24515,Q2
+Death and the Maiden,primaryTitle,24507,Q2
 Fierce Creatures,primaryTitle,24478,Q2
 Buffalo Soldiers,primaryTitle,24474,Q2
 Three Men and a Little Lady,primaryTitle,24459,Q2
 Horror of Dracula,primaryTitle,24455,Q2
 The Art of the Steal,primaryTitle,24448,Q2
 Over Her Dead Body,primaryTitle,24442,Q2
+Dragon Wars: D-War,primaryTitle,24389,Q2
 Fading Gigolo,primaryTitle,24383,Q2
 Exorcist II: The Heretic,primaryTitle,24382,Q2
 Get on Up,primaryTitle,24378,Q2
 The Spanish Prisoner,primaryTitle,24344,Q2
+Madras Cafe,primaryTitle,24332,Q2
 Prizzi's Honor,primaryTitle,24328,Q2
 Aftermath,primaryTitle,24327,Q2
 Flawless,primaryTitle,24316,Q2
 Nothing But Trouble,primaryTitle,24305,Q2
 The Last Detail,primaryTitle,24293,Q2
+Kazaam,primaryTitle,24248,Q2
 Barefoot,primaryTitle,24237,Q2
 The Accidental Husband,primaryTitle,24218,Q2
+Fire in the Sky,primaryTitle,24192,Q2
 Bhuj: The Pride of India,primaryTitle,24165,Q2
 Jungle 2 Jungle,primaryTitle,24158,Q2
 Getaway,primaryTitle,24132,Q2
 The Shootist,primaryTitle,24098,Q2
+Down Periscope,primaryTitle,24083,Q2
 Sniper,primaryTitle,24071,Q2
-Fast Food Nation,primaryTitle,24051,Q2
+Jessabelle,primaryTitle,24061,Q2
 Swimming with Sharks,primaryTitle,24051,Q2
+Fast Food Nation,primaryTitle,24051,Q2
 Red Cliff II,primaryTitle,24043,Q2
+Cyrano de Bergerac,primaryTitle,24015,Q2
 Agneepath,primaryTitle,24006,Q2
+Dolphin Tale,primaryTitle,24000,Q2
 Shopgirl,primaryTitle,23999,Q2
 The Ice Harvest,primaryTitle,23999,Q2
 Rampart,primaryTitle,23978,Q2
+Viridiana,primaryTitle,23971,Q2
 School Ties,primaryTitle,23959,Q2
 Love the Coopers,primaryTitle,23957,Q2
+Legionnaire,primaryTitle,23944,Q2
 The Contender,primaryTitle,23939,Q2
 Reservation Road,primaryTitle,23935,Q2
+Color of Night,primaryTitle,23869,Q2
 About Last Night,primaryTitle,23851,Q2
 Man of the House,primaryTitle,23840,Q2
 Street Fighter: The Legend of Chun-Li,primaryTitle,23838,Q2
 Trapped,primaryTitle,23828,Q2
+Fatman,primaryTitle,23807,Q2
 Muppet Treasure Island,primaryTitle,23795,Q2
 Marshall,primaryTitle,23779,Q2
+Nowhere to Run,primaryTitle,23756,Q2
 Angel Eyes,primaryTitle,23732,Q2
+Waves,primaryTitle,23727,Q2
+How Green Was My Valley,primaryTitle,23724,Q2
 A Dog's Journey,primaryTitle,23715,Q2
+ATM,primaryTitle,23709,Q2
 White Squall,primaryTitle,23707,Q2
 Knockaround Guys,primaryTitle,23698,Q2
+Tuck Everlasting,primaryTitle,23678,Q2
 On Deadly Ground,primaryTitle,23674,Q2
+Local Hero,primaryTitle,23671,Q2
 Mansfield Park,primaryTitle,23650,Q2
 Down to Earth,primaryTitle,23639,Q2
+2,primaryTitle,23615,Q2
 Parmanu: The Story of Pokhran,primaryTitle,23610,Q2
 Tales from the Crypt: Demon Knight,primaryTitle,23603,Q2
 Little Manhattan,primaryTitle,23597,Q2
@@ -2648,137 +3442,217 @@ Khosla Ka Ghosla!,primaryTitle,23573,Q2
 The Fabulous Baker Boys,primaryTitle,23557,Q2
 Impostor,primaryTitle,23546,Q2
 One Eight Seven,primaryTitle,23538,Q2
-Darr,primaryTitle,23527,Q2
 Megan Leavey,primaryTitle,23527,Q2
+Darr,primaryTitle,23527,Q2
 Badlapur,primaryTitle,23523,Q2
+Bang Bang,primaryTitle,23503,Q2
 Manderlay,primaryTitle,23499,Q2
+Out for Justice,primaryTitle,23496,Q2
 The Final Countdown,primaryTitle,23484,Q2
 Crossing Over,primaryTitle,23476,Q2
 The Duellists,primaryTitle,23447,Q2
 Guru,primaryTitle,23430,Q2
+Special Correspondents,primaryTitle,23404,Q2
+The Flintstones in Viva Rock Vegas,primaryTitle,23380,Q2
 Ricki and the Flash,primaryTitle,23374,Q2
 London,primaryTitle,23365,Q2
 The United States of Leland,primaryTitle,23341,Q2
+The Passenger,primaryTitle,23329,Q2
 The Importance of Being Earnest,primaryTitle,23284,Q2
+The Postman Always Rings Twice,primaryTitle,23263,Q2
+Welcome to Marwen,primaryTitle,23254,Q2
 Laws of Attraction,primaryTitle,23241,Q2
+New in Town,primaryTitle,23218,Q2
 Breaking Away,primaryTitle,23217,Q2
 Love in the Time of Cholera,primaryTitle,23205,Q2
+Simmba,primaryTitle,23187,Q2
+Atrangi Re,primaryTitle,23157,Q2
 Cry Macho,primaryTitle,23143,Q2
+The Chaos Class Failed the Class,primaryTitle,23140,Q2
 Get Low,primaryTitle,23119,Q2
+The Last Seduction,primaryTitle,23098,Q2
 Get a Job,primaryTitle,23089,Q2
 We're No Angels,primaryTitle,23070,Q2
 The Card Counter,primaryTitle,23058,Q2
+It's Only the End of the World,primaryTitle,23046,Q2
 Hoffa,primaryTitle,23045,Q2
 Earth Girls Are Easy,primaryTitle,23038,Q2
+Department Q: The Absent One,primaryTitle,23035,Q2
+Wishmaster,primaryTitle,23026,Q2
 Smart People,primaryTitle,23023,Q2
 The Gauntlet,primaryTitle,23005,Q2
+A Prayer Before Dawn,primaryTitle,23001,Q2
+Tenebrae,primaryTitle,22999,Q2
 Tosun Pasa,primaryTitle,22998,Q2
+Brother,primaryTitle,22986,Q2
+Birdy,primaryTitle,22984,Q2
+Cruising,primaryTitle,22978,Q2
 Lakshya,primaryTitle,22966,Q2
 A Little Chaos,primaryTitle,22955,Q2
 Mississippi Grind,primaryTitle,22940,Q2
 The Ox-Bow Incident,primaryTitle,22921,Q2
-The Tender Bar,primaryTitle,22837,Q1
-Bareilly Ki Barfi,primaryTitle,22833,Q1
-A Prairie Home Companion,primaryTitle,22724,Q1
-They Came Together,primaryTitle,22715,Q1
-The End of the Affair,primaryTitle,22686,Q1
-The Astronaut Farmer,primaryTitle,22666,Q1
-Sand Castle,primaryTitle,22580,Q1
-Fresh,primaryTitle,22565,Q1
-Cold Creek Manor,primaryTitle,22554,Q1
-A Better Tomorrow,primaryTitle,22522,Q1
-Sgt. Bilko,primaryTitle,22506,Q1
-Elegy,primaryTitle,22481,Q1
-He Was a Quiet Man,primaryTitle,22481,Q1
-Harlem Nights,primaryTitle,22453,Q1
-Horsemen,primaryTitle,22435,Q1
-Closed Circuit,primaryTitle,22423,Q1
-Breaking and Entering,primaryTitle,22418,Q1
-The Great Raid,primaryTitle,22374,Q1
-Jane Got a Gun,primaryTitle,22294,Q1
-Phir Hera Pheri,primaryTitle,22268,Q1
-The Borrowers,primaryTitle,22233,Q1
-The Angriest Man in Brooklyn,primaryTitle,22230,Q1
-After the Dark,primaryTitle,22210,Q1
-Breakfast on Pluto,primaryTitle,22208,Q1
-"Juliet, Naked",primaryTitle,22201,Q1
-State of Grace,primaryTitle,22190,Q1
-Dil To Pagal Hai,primaryTitle,22177,Q1
-Black and Blue,primaryTitle,22109,Q1
-Problem Child 2,primaryTitle,22098,Q1
-Dark Blue,primaryTitle,22096,Q1
-Clockers,primaryTitle,22085,Q1
-Our Brand Is Crisis,primaryTitle,22084,Q1
-Arn: The Knight Templar,primaryTitle,22074,Q1
-Escobar: Paradise Lost,primaryTitle,22067,Q1
-Quigley Down Under,primaryTitle,22039,Q1
-The Vault,primaryTitle,22029,Q1
-Red Rock West,primaryTitle,22021,Q1
-Marauders,primaryTitle,22015,Q1
-Terminal,primaryTitle,21981,Q1
-The Green Butchers,primaryTitle,21969,Q1
-Dead Presidents,primaryTitle,21960,Q1
-They Call Me Trinity,primaryTitle,21945,Q1
-Breathe,primaryTitle,21944,Q1
-Marked for Death,primaryTitle,21941,Q1
-A Perfect Day,primaryTitle,21923,Q1
-Rock On!!,primaryTitle,21910,Q1
-Rosencrantz & Guildenstern Are Dead,primaryTitle,21907,Q1
-Fail Safe,primaryTitle,21829,Q1
-Strange Wilderness,primaryTitle,21794,Q1
-Ain't Them Bodies Saints,primaryTitle,21738,Q1
-Flickering Lights,primaryTitle,21732,Q1
-Twisted,primaryTitle,21729,Q1
-Tamara Drewe,primaryTitle,21713,Q1
-Prem Ratan Dhan Payo,primaryTitle,21708,Q1
-Namastey London,primaryTitle,21678,Q1
-Devil's Knot,primaryTitle,21634,Q1
-Welcome,primaryTitle,21626,Q1
-Mad Dog and Glory,primaryTitle,21560,Q1
-The Eagle Has Landed,primaryTitle,21538,Q1
-Cadillac Records,primaryTitle,21511,Q1
-Revenge of the Pink Panther,primaryTitle,21511,Q1
-Bad News Bears,primaryTitle,21497,Q1
-"The Goods: Live Hard, Sell Hard",primaryTitle,21494,Q1
-Factory Girl,primaryTitle,21480,Q1
-The Last Mimzy,primaryTitle,21475,Q1
-The Long Good Friday,primaryTitle,21458,Q1
-Hud,primaryTitle,21455,Q1
-Underdog,primaryTitle,21448,Q1
-6 Days,primaryTitle,21397,Q1
-Bad Day at Black Rock,primaryTitle,21393,Q1
-A Haunted House 2,primaryTitle,21389,Q1
-Lonely Hearts,primaryTitle,21380,Q1
-Captain Ron,primaryTitle,21361,Q1
-Days of Being Wild,primaryTitle,21357,Q1
-Feardotcom,primaryTitle,21348,Q1
-The Express,primaryTitle,21307,Q1
-The Week Of,primaryTitle,21294,Q1
-Fifty Shades of Black,primaryTitle,21268,Q1
-Fletch Lives,primaryTitle,21245,Q1
-Night Hunter,primaryTitle,21239,Q1
-Thumbsucker,primaryTitle,21232,Q1
-State and Main,primaryTitle,21228,Q1
-Empire State,primaryTitle,21226,Q1
-The Yards,primaryTitle,21208,Q1
-Pet Sematary II,primaryTitle,21187,Q1
-O,primaryTitle,21127,Q1
-Setup,primaryTitle,21118,Q1
-Random Hearts,primaryTitle,21094,Q1
-Salvador,primaryTitle,21060,Q1
-Life After Beth,primaryTitle,21049,Q1
-Annapolis,primaryTitle,21039,Q1
-Denial,primaryTitle,21024,Q1
-The Birth of a Nation,primaryTitle,21001,Q1
-Killshot,primaryTitle,20997,Q1
-Are We Done Yet?,primaryTitle,20988,Q1
+The Tender Bar,primaryTitle,22837,Q2
+Bareilly Ki Barfi,primaryTitle,22833,Q2
+Detective Byomkesh Bakshy!,primaryTitle,22815,Q2
+Soul Plane,primaryTitle,22801,Q2
+Toy Soldiers,primaryTitle,22766,Q2
+The Riot Club,primaryTitle,22743,Q2
+Lucky,primaryTitle,22739,Q2
+A Prairie Home Companion,primaryTitle,22724,Q2
+They Came Together,primaryTitle,22715,Q2
+2:22,primaryTitle,22704,Q2
+Family Plot,primaryTitle,22687,Q2
+The End of the Affair,primaryTitle,22686,Q2
+The Astronaut Farmer,primaryTitle,22666,Q2
+Bad Samaritan,primaryTitle,22641,Q2
+The Fly II,primaryTitle,22631,Q2
+Reds,primaryTitle,22583,Q2
+Sand Castle,primaryTitle,22580,Q2
+Last Days,primaryTitle,22580,Q2
+Fresh,primaryTitle,22565,Q2
+Mutiny on the Bounty,primaryTitle,22561,Q2
+A Taxi Driver,primaryTitle,22557,Q2
+Cold Creek Manor,primaryTitle,22554,Q2
+MI-5,primaryTitle,22530,Q2
+A Better Tomorrow,primaryTitle,22522,Q2
+Sgt. Bilko,primaryTitle,22506,Q2
+Running with Scissors,primaryTitle,22504,Q2
+Elegy,primaryTitle,22481,Q2
+He Was a Quiet Man,primaryTitle,22481,Q2
+Disturbing Behavior,primaryTitle,22480,Q2
+Vanity Fair,primaryTitle,22472,Q2
+A Good Old Fashioned Orgy,primaryTitle,22462,Q2
+Harlem Nights,primaryTitle,22453,Q2
+Horsemen,primaryTitle,22435,Q2
+The Trip,primaryTitle,22432,Q2
+Only You,primaryTitle,22423,Q2
+Closed Circuit,primaryTitle,22423,Q2
+Breaking and Entering,primaryTitle,22418,Q2
+The Great Raid,primaryTitle,22374,Q2
+Blind Date,primaryTitle,22321,Q2
+Capricorn One,primaryTitle,22321,Q2
+Jane Got a Gun,primaryTitle,22294,Q2
+Below,primaryTitle,22282,Q2
+The Battle of Britain,primaryTitle,22275,Q2
+Phir Hera Pheri,primaryTitle,22268,Q2
+Rowdy Rathore,primaryTitle,22263,Q2
+The Borrowers,primaryTitle,22233,Q2
+The Angriest Man in Brooklyn,primaryTitle,22230,Q2
+After the Dark,primaryTitle,22210,Q2
+Breakfast on Pluto,primaryTitle,22208,Q2
+Dugun Dernek,primaryTitle,22203,Q2
+"Juliet, Naked",primaryTitle,22201,Q2
+State of Grace,primaryTitle,22190,Q2
+Dil To Pagal Hai,primaryTitle,22177,Q2
+Lorenzo's Oil,primaryTitle,22134,Q2
+Black and Blue,primaryTitle,22109,Q2
+Problem Child 2,primaryTitle,22098,Q2
+Dark Blue,primaryTitle,22096,Q2
+Manon of the Spring,primaryTitle,22090,Q2
+Clockers,primaryTitle,22085,Q2
+Our Brand Is Crisis,primaryTitle,22084,Q2
+The Dry,primaryTitle,22079,Q2
+Arn: The Knight Templar,primaryTitle,22074,Q2
+Escobar: Paradise Lost,primaryTitle,22067,Q2
+Quigley Down Under,primaryTitle,22039,Q2
+What We Did on Our Holiday,primaryTitle,22036,Q2
+The Vault,primaryTitle,22029,Q2
+Quest for Fire,primaryTitle,22022,Q2
+Red Rock West,primaryTitle,22021,Q2
+Vidocq,primaryTitle,22015,Q2
+Marauders,primaryTitle,22015,Q2
+Terminal,primaryTitle,21981,Q2
+The Green Butchers,primaryTitle,21969,Q2
+Dead Presidents,primaryTitle,21960,Q2
+Maximum Risk,primaryTitle,21953,Q2
+They Call Me Trinity,primaryTitle,21945,Q2
+Breathe,primaryTitle,21944,Q2
+Marked for Death,primaryTitle,21941,Q2
+A Perfect Day,primaryTitle,21923,Q2
+Rock On!!,primaryTitle,21910,Q2
+Rosencrantz & Guildenstern Are Dead,primaryTitle,21907,Q2
+Fail Safe,primaryTitle,21829,Q2
+Strange Wilderness,primaryTitle,21794,Q2
+Ain't Them Bodies Saints,primaryTitle,21738,Q2
+Flickering Lights,primaryTitle,21732,Q2
+Twisted,primaryTitle,21729,Q2
+Tamara Drewe,primaryTitle,21713,Q2
+Prem Ratan Dhan Payo,primaryTitle,21708,Q2
+The Goldfinch,primaryTitle,21682,Q2
+Namastey London,primaryTitle,21678,Q2
+Explorers,primaryTitle,21677,Q2
+Them!,primaryTitle,21668,Q2
+Devil's Knot,primaryTitle,21634,Q2
+Welcome,primaryTitle,21626,Q2
+In China They Eat Dogs,primaryTitle,21626,Q2
+Curly Sue,primaryTitle,21575,Q2
+Beyond Skyline,primaryTitle,21571,Q2
+Mad Dog and Glory,primaryTitle,21560,Q2
+The Eagle Has Landed,primaryTitle,21538,Q2
+The Beach Bum,primaryTitle,21522,Q2
+Revenge of the Pink Panther,primaryTitle,21511,Q2
+Cadillac Records,primaryTitle,21511,Q2
+Bad News Bears,primaryTitle,21497,Q2
+"The Goods: Live Hard, Sell Hard",primaryTitle,21494,Q2
+The Million Dollar Hotel,primaryTitle,21491,Q2
+Factory Girl,primaryTitle,21480,Q2
+The Last Mimzy,primaryTitle,21475,Q2
+The Long Good Friday,primaryTitle,21458,Q2
+Hud,primaryTitle,21455,Q2
+Underdog,primaryTitle,21448,Q2
+6 Days,primaryTitle,21397,Q2
+Bad Day at Black Rock,primaryTitle,21393,Q2
+A Haunted House 2,primaryTitle,21389,Q2
+Lonely Hearts,primaryTitle,21380,Q2
+Captain Ron,primaryTitle,21361,Q2
+Days of Being Wild,primaryTitle,21357,Q2
+Feardotcom,primaryTitle,21348,Q2
+Dark Crimes,primaryTitle,21327,Q2
+Piranha,primaryTitle,21318,Q2
+The Express,primaryTitle,21307,Q2
+The Week Of,primaryTitle,21294,Q2
+Angels with Dirty Faces,primaryTitle,21279,Q2
+Fifty Shades of Black,primaryTitle,21268,Q2
+Easy Virtue,primaryTitle,21253,Q2
+Fletch Lives,primaryTitle,21245,Q2
+Night Hunter,primaryTitle,21239,Q2
+Thumbsucker,primaryTitle,21232,Q2
+State and Main,primaryTitle,21228,Q2
+Empire State,primaryTitle,21226,Q2
+Mr. Deeds Goes to Town,primaryTitle,21224,Q2
+The Yards,primaryTitle,21208,Q2
+Pet Sematary II,primaryTitle,21187,Q2
+O,primaryTitle,21127,Q2
+Setup,primaryTitle,21118,Q2
+The Lady Eve,primaryTitle,21110,Q2
+Europa,primaryTitle,21108,Q2
+Random Hearts,primaryTitle,21094,Q2
+The Limehouse Golem,primaryTitle,21083,Q2
+Salvador,primaryTitle,21060,Q2
+Life After Beth,primaryTitle,21049,Q2
+Streets of Fire,primaryTitle,21047,Q2
+Secret Obsession,primaryTitle,21042,Q2
+Annapolis,primaryTitle,21039,Q2
+The Extraordinary Adventures of Adele Blanc-Sec,primaryTitle,21027,Q2
+Denial,primaryTitle,21024,Q2
+The Muppets Take Manhattan,primaryTitle,21009,Q2
+The Birth of a Nation,primaryTitle,21001,Q2
+Brain on Fire,primaryTitle,20998,Q2
+Killshot,primaryTitle,20997,Q2
+Are We Done Yet?,primaryTitle,20988,Q2
 Pieces of April,primaryTitle,20982,Q1
+We Are What We Are,primaryTitle,20975,Q1
 The Chase,primaryTitle,20956,Q1
+Enigma,primaryTitle,20949,Q1
 Redbelt,primaryTitle,20946,Q1
 Return to Me,primaryTitle,20940,Q1
 Freaky Deaky,primaryTitle,20939,Q1
+Ben Is Back,primaryTitle,20935,Q1
+The Killers,primaryTitle,20934,Q1
 Six Degrees of Separation,primaryTitle,20927,Q1
 Casa de mi Padre,primaryTitle,20920,Q1
+Highlander: The Final Dimension,primaryTitle,20896,Q1
+Sorcerer,primaryTitle,20892,Q1
 Assault on Wall Street,primaryTitle,20874,Q1
 Cat People,primaryTitle,20873,Q1
 The Alamo,primaryTitle,20872,Q1
@@ -2786,8 +3660,14 @@ Zoom,primaryTitle,20864,Q1
 Diner,primaryTitle,20809,Q1
 Phantoms,primaryTitle,20805,Q1
 Heaven Can Wait,primaryTitle,20800,Q1
+I Confess,primaryTitle,20791,Q1
+Ninotchka,primaryTitle,20766,Q1
+First Strike,primaryTitle,20761,Q1
 Lady and the Tramp,primaryTitle,20754,Q1
+Life Itself,primaryTitle,20751,Q1
+White Fang,primaryTitle,20744,Q1
 Blue Thunder,primaryTitle,20743,Q1
+Bride & Prejudice,primaryTitle,20706,Q1
 Splendor in the Grass,primaryTitle,20704,Q1
 Tulip Fever,primaryTitle,20700,Q1
 Point Blank,primaryTitle,20699,Q1
@@ -2801,39 +3681,62 @@ Big Trouble,primaryTitle,20625,Q1
 Crimson Rivers 2: Angels of the Apocalypse,primaryTitle,20612,Q1
 The Hard Way,primaryTitle,20607,Q1
 Basquiat,primaryTitle,20604,Q1
+Like Mike,primaryTitle,20589,Q1
 Krrish,primaryTitle,20582,Q1
+Foreign Correspondent,primaryTitle,20576,Q1
 Toilet: A Love Story,primaryTitle,20573,Q1
 How the West Was Won,primaryTitle,20559,Q1
 The Sure Thing,primaryTitle,20543,Q1
 Lucky You,primaryTitle,20539,Q1
+Black Friday,primaryTitle,20537,Q1
 Newsies,primaryTitle,20534,Q1
 Code 46,primaryTitle,20532,Q1
 City Hall,primaryTitle,20529,Q1
+"OSS 117: Cairo, Nest of Spies",primaryTitle,20520,Q1
 Quick Change,primaryTitle,20512,Q1
 Leviathan,primaryTitle,20503,Q1
 Into the Forest,primaryTitle,20475,Q1
 Omkara,primaryTitle,20475,Q1
+The Hurricane Heist,primaryTitle,20450,Q1
 My Dog Skip,primaryTitle,20411,Q1
+The Namesake,primaryTitle,20407,Q1
+The Misfits,primaryTitle,20405,Q1
 Knights of Badassdom,primaryTitle,20398,Q1
+31,primaryTitle,20348,Q1
+Anbe Sivam,primaryTitle,20338,Q1
 Drop Zone,primaryTitle,20337,Q1
+Nancy Drew,primaryTitle,20299,Q1
 Stop-Loss,primaryTitle,20286,Q1
 I Don't Know How She Does It,primaryTitle,20280,Q1
+RamLeela,primaryTitle,20276,Q1
+License to Drive,primaryTitle,20268,Q1
+The Quiet Ones,primaryTitle,20264,Q1
 Veronica Guerin,primaryTitle,20253,Q1
+Highlander: Endgame,primaryTitle,20235,Q1
 Head of State,primaryTitle,20209,Q1
+The Cutting Edge,primaryTitle,20201,Q1
 The Flight of the Phoenix,primaryTitle,20184,Q1
 The Delta Force,primaryTitle,20183,Q1
 Universal Soldier: Day of Reckoning,primaryTitle,20179,Q1
+Eight Men Out,primaryTitle,20173,Q1
 Henry's Crime,primaryTitle,20170,Q1
 Burke and Hare,primaryTitle,20168,Q1
 Meet Bill,primaryTitle,20139,Q1
+Kiss Me Deadly,primaryTitle,20131,Q1
 Less Than Zero,primaryTitle,20130,Q1
 Big Night,primaryTitle,20113,Q1
 Quartet,primaryTitle,20113,Q1
+Deep Water,primaryTitle,20110,Q1
+Pacific Heights,primaryTitle,20085,Q1
+Vampire Killers,primaryTitle,20067,Q1
 Nobody's Fool,primaryTitle,20055,Q1
 Harley Davidson and the Marlboro Man,primaryTitle,20050,Q1
 Picture Perfect,primaryTitle,20040,Q1
+5 to 7,primaryTitle,20033,Q1
+The Final Conflict,primaryTitle,20027,Q1
 The Freshman,primaryTitle,20026,Q1
 Capone,primaryTitle,19996,Q1
+The Numbers Station,primaryTitle,19994,Q1
 Wheelman,primaryTitle,19989,Q1
 Holy Man,primaryTitle,19978,Q1
 Blood Ties,primaryTitle,19975,Q1
@@ -2841,82 +3744,126 @@ Texas Killing Fields,primaryTitle,19966,Q1
 The Glimmer Man,primaryTitle,19964,Q1
 Mad City,primaryTitle,19962,Q1
 My Sassy Girl,primaryTitle,19956,Q1
+Limelight,primaryTitle,19950,Q1
 Dhoom,primaryTitle,19948,Q1
 Truth,primaryTitle,19939,Q1
 Silkwood,primaryTitle,19938,Q1
 Tubelight,primaryTitle,19929,Q1
+Son in Law,primaryTitle,19924,Q1
 The Vatican Tapes,primaryTitle,19922,Q1
+Vacation Friends,primaryTitle,19901,Q1
 Prince Avalanche,primaryTitle,19899,Q1
+"Greystoke: The Legend of Tarzan, Lord of the Apes",primaryTitle,19889,Q1
 Loving Pablo,primaryTitle,19884,Q1
-Çöpçüler Krali,primaryTitle,19877,Q1
+Waiting for Forever,primaryTitle,19883,Q1
+Copculer Krali,primaryTitle,19877,Q1
 Devil in a Blue Dress,primaryTitle,19861,Q1
 Dick,primaryTitle,19852,Q1
 Bunraku,primaryTitle,19845,Q1
 Grace of Monaco,primaryTitle,19831,Q1
 The Apparition,primaryTitle,19818,Q1
+Tape,primaryTitle,19806,Q1
 2 Days in the Valley,primaryTitle,19794,Q1
 Fahrenheit 451,primaryTitle,19775,Q1
 Nightwatch,primaryTitle,19774,Q1
+"New York, New York",primaryTitle,19754,Q1
+Higher Learning,primaryTitle,19750,Q1
 F/X,primaryTitle,19747,Q1
-Süt Kardesler,primaryTitle,19742,Q1
+Sut Kardesler,primaryTitle,19742,Q1
 Dragon Blade,primaryTitle,19736,Q1
+The Crush,primaryTitle,19725,Q1
 Kabhi Alvida Naa Kehna,primaryTitle,19719,Q1
 Reasonable Doubt,primaryTitle,19713,Q1
 Hick,primaryTitle,19694,Q1
 The Big Red One,primaryTitle,19686,Q1
 Internal Affairs,primaryTitle,19682,Q1
 Malibu's Most Wanted,primaryTitle,19679,Q1
+The Mirror Has Two Faces,primaryTitle,19676,Q1
 Jolly LLB,primaryTitle,19669,Q1
+Hard Kill,primaryTitle,19667,Q1
 Brassed Off,primaryTitle,19643,Q1
 Suspect Zero,primaryTitle,19641,Q1
 Kinky Boots,primaryTitle,19636,Q1
+Bring Me the Head of Alfredo Garcia,primaryTitle,19624,Q1
 Silver Streak,primaryTitle,19618,Q1
+Mrs. Serial Killer,primaryTitle,19613,Q1
 Newton,primaryTitle,19595,Q1
 A Sound of Thunder,primaryTitle,19594,Q1
 The Eiger Sanction,primaryTitle,19590,Q1
+The War with Grandpa,primaryTitle,19587,Q1
 Their Finest,primaryTitle,19573,Q1
+Department Q: A Conspiracy of Faith,primaryTitle,19570,Q1
 The Eyes of Tammy Faye,primaryTitle,19545,Q1
+Darkness,primaryTitle,19541,Q1
+Dum Laga Ke Haisha,primaryTitle,19539,Q1
 Father Figures,primaryTitle,19519,Q1
+Seconds,primaryTitle,19490,Q1
 City Slickers II: The Legend of Curly's Gold,primaryTitle,19483,Q1
+Willard,primaryTitle,19479,Q1
 Jai Ho,primaryTitle,19475,Q1
 Tucker: The Man and His Dream,primaryTitle,19473,Q1
+Thani Oruvan,primaryTitle,19463,Q1
 Nighthawks,primaryTitle,19459,Q1
+Sivaji,primaryTitle,19443,Q1
 Playing by Heart,primaryTitle,19435,Q1
+L'Eclisse,primaryTitle,19431,Q1
+Bigil,primaryTitle,19426,Q1
 The Ledge,primaryTitle,19418,Q1
+Police Story 2,primaryTitle,19393,Q1
 Uncle Frank,primaryTitle,19381,Q1
 Extreme Measures,primaryTitle,19378,Q1
 Night Train to Lisbon,primaryTitle,19366,Q1
+The Awful Truth,primaryTitle,19346,Q1
 Lantana,primaryTitle,19338,Q1
 Echelon Conspiracy,primaryTitle,19326,Q1
 Genius,primaryTitle,19321,Q1
+Tracers,primaryTitle,19307,Q1
 Exotica,primaryTitle,19302,Q1
+Southern Comfort,primaryTitle,19276,Q1
 Pat Garrett & Billy the Kid,primaryTitle,19274,Q1
 Thugs of Hindostan,primaryTitle,19254,Q1
+Muppets from Space,primaryTitle,19252,Q1
 Once Upon a Time in Venice,primaryTitle,19205,Q1
 Paper Man,primaryTitle,19165,Q1
 Unicorn Store,primaryTitle,19157,Q1
 Any Which Way You Can,primaryTitle,19125,Q1
+My Cousin Rachel,primaryTitle,19112,Q1
 The Trust,primaryTitle,19109,Q1
 Just Visiting,primaryTitle,19100,Q1
 Three to Tango,primaryTitle,19098,Q1
 Bad Ass,primaryTitle,19076,Q1
 Kiss of Death,primaryTitle,19001,Q1
+Cheap Thrills,primaryTitle,18999,Q1
+Old Henry,primaryTitle,18990,Q1
+Maurice,primaryTitle,18982,Q1
 Chhalaang,primaryTitle,18958,Q1
 Airport,primaryTitle,18932,Q1
+The Ultimate Gift,primaryTitle,18924,Q1
 The Personal History of David Copperfield,primaryTitle,18924,Q1
 Manjhi: The Mountain Man,primaryTitle,18914,Q1
 Coma,primaryTitle,18889,Q1
+The Villain,primaryTitle,18878,Q1
 Welcome to Me,primaryTitle,18848,Q1
+Shiddat,primaryTitle,18793,Q1
 Defending Your Life,primaryTitle,18783,Q1
 Wazir,primaryTitle,18781,Q1
+Shrink,primaryTitle,18759,Q1
+Sarkar,primaryTitle,18751,Q1
+Red Beard,primaryTitle,18741,Q1
 Cuban Fury,primaryTitle,18730,Q1
 War on Everyone,primaryTitle,18719,Q1
 Just Before I Go,primaryTitle,18715,Q1
+Life of Crime,primaryTitle,18715,Q1
 The Promotion,primaryTitle,18712,Q1
 Gerry,primaryTitle,18682,Q1
+Special Forces,primaryTitle,18682,Q1
 The Unholy,primaryTitle,18660,Q1
+The Ghost and Mrs. Muir,primaryTitle,18653,Q1
+Saaho,primaryTitle,18653,Q1
 Rudderless,primaryTitle,18627,Q1
+Fantastic Voyage,primaryTitle,18627,Q1
 Miss You Already,primaryTitle,18610,Q1
+Swing Vote,primaryTitle,18577,Q1
 The Juror,primaryTitle,18568,Q1
 The Chumscrubber,primaryTitle,18559,Q1
 Voyagers,primaryTitle,18552,Q1
@@ -2925,20 +3872,29 @@ The Last Station,primaryTitle,18517,Q1
 Revenge,primaryTitle,18498,Q1
 Down and Out in Beverly Hills,primaryTitle,18495,Q1
 In a Valley of Violence,primaryTitle,18492,Q1
+Showdown in Little Tokyo,primaryTitle,18487,Q1
 Grand Piano,primaryTitle,18474,Q1
+Once Upon a Time in China,primaryTitle,18462,Q1
 Security,primaryTitle,18445,Q1
 Hum Dil De Chuke Sanam,primaryTitle,18437,Q1
+French Connection II,primaryTitle,18435,Q1
 All the Right Moves,primaryTitle,18433,Q1
 You Kill Me,primaryTitle,18431,Q1
 Made,primaryTitle,18430,Q1
+Occupation,primaryTitle,18424,Q1
 Experimenter,primaryTitle,18394,Q1
 Down in the Valley,primaryTitle,18385,Q1
+Guzaarish,primaryTitle,18385,Q1
 The Prince,primaryTitle,18385,Q1
+Fearless 2,primaryTitle,18368,Q1
 Living in Oblivion,primaryTitle,18326,Q1
 Ripley's Game,primaryTitle,18312,Q1
 C'mon C'mon,primaryTitle,18307,Q1
 In the Electric Mist,primaryTitle,18301,Q1
+Tampopo,primaryTitle,18295,Q1
+Jungle Fever,primaryTitle,18286,Q1
 Jingle Jangle: A Christmas Journey,primaryTitle,18283,Q1
+Free Willy 2: The Adventure Home,primaryTitle,18283,Q1
 Thursday,primaryTitle,18278,Q1
 The Presidio,primaryTitle,18275,Q1
 The Corruptor,primaryTitle,18263,Q1
@@ -2947,6 +3903,7 @@ The Big Bounce,primaryTitle,18201,Q1
 New York Stories,primaryTitle,18195,Q1
 Iris,primaryTitle,18160,Q1
 Baadshah,primaryTitle,18136,Q1
+The Parallax View,primaryTitle,18129,Q1
 Joe Kidd,primaryTitle,18128,Q1
 Time After Time,primaryTitle,18123,Q1
 Killing Me Softly,primaryTitle,18076,Q1
@@ -2956,6 +3913,7 @@ Sergeant York,primaryTitle,18045,Q1
 Force 10 from Navarone,primaryTitle,18002,Q1
 Taps,primaryTitle,17979,Q1
 Fort Apache,primaryTitle,17918,Q1
+Damage,primaryTitle,17907,Q1
 Ricochet,primaryTitle,17896,Q1
 Supernova,primaryTitle,17883,Q1
 Wuthering Heights,primaryTitle,17871,Q1
@@ -2965,45 +3923,73 @@ Honeymoon in Vegas,primaryTitle,17839,Q1
 The Cotton Club,primaryTitle,17818,Q1
 Renaissance Man,primaryTitle,17813,Q1
 Fire Down Below,primaryTitle,17807,Q1
+The Lazarus Project,primaryTitle,17784,Q1
 River's Edge,primaryTitle,17766,Q1
+Dragonslayer,primaryTitle,17741,Q1
 Brubaker,primaryTitle,17733,Q1
+Blood and Chocolate,primaryTitle,17696,Q1
+Air Bud,primaryTitle,17688,Q1
 The Great Train Robbery,primaryTitle,17683,Q1
 Management,primaryTitle,17659,Q1
+Dobermann,primaryTitle,17656,Q1
 A Boy and His Dog,primaryTitle,17654,Q1
 Brad's Status,primaryTitle,17654,Q1
 Where the Truth Lies,primaryTitle,17650,Q1
 The Big Country,primaryTitle,17647,Q1
+Serving Sara,primaryTitle,17639,Q1
+Gully,primaryTitle,17633,Q1
 Student of the Year,primaryTitle,17625,Q1
+Great Balls of Fire!,primaryTitle,17618,Q1
 The Bishop's Wife,primaryTitle,17610,Q1
 The Great Race,primaryTitle,17584,Q1
 The Order,primaryTitle,17566,Q1
+10,primaryTitle,17556,Q1
+Bait,primaryTitle,17545,Q1
 The Program,primaryTitle,17545,Q1
+Hot Summer Nights,primaryTitle,17540,Q1
+Don't Think Twice,primaryTitle,17522,Q1
 The Grass Harp,primaryTitle,17511,Q1
+Raajneeti,primaryTitle,17489,Q1
 Franklyn,primaryTitle,17488,Q1
-The Grand Seduction,primaryTitle,17461,Q1
+Once Upon a Time in Mumbaai,primaryTitle,17464,Q1
 Tightrope,primaryTitle,17461,Q1
+The Grand Seduction,primaryTitle,17461,Q1
+Anniyan,primaryTitle,17452,Q1
 "Saban, Son of Saban",primaryTitle,17449,Q1
+Assassination Games,primaryTitle,17444,Q1
 Dangerous Beauty,primaryTitle,17443,Q1
 Birdman of Alcatraz,primaryTitle,17442,Q1
+Queen Margot,primaryTitle,17414,Q1
 Smiley Face,primaryTitle,17406,Q1
+Guys and Dolls,primaryTitle,17399,Q1
+The Closet,primaryTitle,17396,Q1
 Irresistible,primaryTitle,17392,Q1
 Heart and Souls,primaryTitle,17383,Q1
 She Wore a Yellow Ribbon,primaryTitle,17375,Q1
 The Ex,primaryTitle,17365,Q1
+Oye Lucky! Lucky Oye!,primaryTitle,17364,Q1
 The Dark Half,primaryTitle,17362,Q1
+She's the One,primaryTitle,17354,Q1
 Roger Dodger,primaryTitle,17352,Q1
+The Accidental Spy,primaryTitle,17348,Q1
+A Guy Thing,primaryTitle,17336,Q1
 The Englishman Who Went Up a Hill But Came Down a Mountain,primaryTitle,17317,Q1
 Postcards from the Edge,primaryTitle,17265,Q1
 The Sons of Katie Elder,primaryTitle,17253,Q1
 Margaret,primaryTitle,17249,Q1
 Mulholland Falls,primaryTitle,17234,Q1
 Casino Jack,primaryTitle,17223,Q1
-Art School Confidential,primaryTitle,17215,Q1
 Red Corner,primaryTitle,17215,Q1
+Art School Confidential,primaryTitle,17215,Q1
+36th Precinct,primaryTitle,17209,Q1
 Being Flynn,primaryTitle,17188,Q1
+Outpost,primaryTitle,17176,Q1
+Dil Dhadakne Do,primaryTitle,17172,Q1
 Strange Brew,primaryTitle,17156,Q1
 Silent Movie,primaryTitle,17145,Q1
 Infamous,primaryTitle,17144,Q1
+Lootcase,primaryTitle,17135,Q1
+The Voyeurs,primaryTitle,17135,Q1
 Raid,primaryTitle,17102,Q1
 Flash of Genius,primaryTitle,17097,Q1
 The Emperor's Club,primaryTitle,17085,Q1
@@ -3011,17 +3997,24 @@ The Son of No One,primaryTitle,17083,Q1
 Scarecrow,primaryTitle,17065,Q1
 Racing Stripes,primaryTitle,17032,Q1
 The In-Laws,primaryTitle,17023,Q1
+Le chant du loup,primaryTitle,17018,Q1
 The Sugarland Express,primaryTitle,17012,Q1
 Affliction,primaryTitle,17006,Q1
 Canadian Bacon,primaryTitle,16979,Q1
+The Good Neighbor,primaryTitle,16965,Q1
+Coogan's Bluff,primaryTitle,16961,Q1
+Smashed,primaryTitle,16956,Q1
 The Intruder,primaryTitle,16954,Q1
 I Think I Love My Wife,primaryTitle,16951,Q1
 The Bag Man,primaryTitle,16933,Q1
 American Heist,primaryTitle,16907,Q1
+Baby Boom,primaryTitle,16890,Q1
 Extraordinary Measures,primaryTitle,16872,Q1
+Bharath Ane Nenu,primaryTitle,16866,Q1
 The Escapist,primaryTitle,16863,Q1
 The Overnight,primaryTitle,16857,Q1
 Stray Dog,primaryTitle,16842,Q1
+Blind Fury,primaryTitle,16831,Q1
 Warlock,primaryTitle,16820,Q1
 Hangman,primaryTitle,16818,Q1
 Kin,primaryTitle,16777,Q1
@@ -3029,21 +4022,30 @@ Kin,primaryTitle,16777,Q1
 Wing Commander,primaryTitle,16768,Q1
 Judgment Night,primaryTitle,16765,Q1
 Jennifer 8,primaryTitle,16754,Q1
+Little Buddha,primaryTitle,16749,Q1
+High Sierra,primaryTitle,16743,Q1
 Golmaal: Fun Unlimited,primaryTitle,16724,Q1
+Maniac Cop,primaryTitle,16720,Q1
 Desperate Measures,primaryTitle,16696,Q1
 Laurel Canyon,primaryTitle,16684,Q1
 Navy Seals,primaryTitle,16676,Q1
 Little Monsters,primaryTitle,16664,Q1
-Sarkar,primaryTitle,16653,Q1
+Evil Under the Sun,primaryTitle,16663,Q1
 The Ten,primaryTitle,16645,Q1
 Sandy Wexler,primaryTitle,16623,Q1
 The Wraith,primaryTitle,16617,Q1
 Mister Roberts,primaryTitle,16608,Q1
+Made in America,primaryTitle,16604,Q1
 Convoy,primaryTitle,16585,Q1
+A Hijacking,primaryTitle,16582,Q1
 The Informers,primaryTitle,16559,Q1
+Project A,primaryTitle,16556,Q1
 Unlawful Entry,primaryTitle,16548,Q1
+American Pastoral,primaryTitle,16504,Q1
+Reversal of Fortune,primaryTitle,16502,Q1
 Feast of Love,primaryTitle,16499,Q1
 Rememory,primaryTitle,16493,Q1
+Singham,primaryTitle,16490,Q1
 The Hoax,primaryTitle,16472,Q1
 Almost Heroes,primaryTitle,16453,Q1
 Dreamscape,primaryTitle,16452,Q1
@@ -3051,15 +4053,23 @@ The Cincinnati Kid,primaryTitle,16451,Q1
 Superman II: The Richard Donner Cut,primaryTitle,16443,Q1
 Little Voice,primaryTitle,16438,Q1
 Gossip,primaryTitle,16427,Q1
+Shahid,primaryTitle,16424,Q1
+Angrezi Medium,primaryTitle,16409,Q1
 Mona Lisa,primaryTitle,16386,Q1
 Senseless,primaryTitle,16368,Q1
+Beyond the Lights,primaryTitle,16349,Q1
 Newness,primaryTitle,16338,Q1
 Bottle Shock,primaryTitle,16314,Q1
 Hands of Stone,primaryTitle,16297,Q1
+Cocoon: The Return,primaryTitle,16291,Q1
 The Man with the Iron Heart,primaryTitle,16291,Q1
+Trees Lounge,primaryTitle,16289,Q1
 Solitary Man,primaryTitle,16284,Q1
+Samba,primaryTitle,16281,Q1
 Race 2,primaryTitle,16272,Q1
 Swing Kids,primaryTitle,16269,Q1
+Barb and Star Go to Vista Del Mar,primaryTitle,16258,Q1
+Freedomland,primaryTitle,16246,Q1
 Battle of the Bulge,primaryTitle,16242,Q1
 American Outlaws,primaryTitle,16234,Q1
 Kodachrome,primaryTitle,16229,Q1
@@ -3072,50 +4082,80 @@ Dying Young,primaryTitle,16137,Q1
 Misconduct,primaryTitle,16111,Q1
 Parkland,primaryTitle,16110,Q1
 Collide,primaryTitle,16107,Q1
-Mutiny on the Bounty,primaryTitle,16087,Q1
 Nayak: The Real Hero,primaryTitle,16082,Q1
 Kibar Feyzo,primaryTitle,16081,Q1
 The Train,primaryTitle,16072,Q1
+Vada Chennai,primaryTitle,16062,Q1
+Nattevagten,primaryTitle,16059,Q1
+Mulk,primaryTitle,16039,Q1
+Party Monster,primaryTitle,16012,Q1
 Freejack,primaryTitle,16008,Q1
+The Distinguished Gentleman,primaryTitle,15994,Q1
 The Russia House,primaryTitle,15985,Q1
 The Driver,primaryTitle,15980,Q1
 Earthquake,primaryTitle,15978,Q1
 The American Friend,primaryTitle,15966,Q1
+I Can Only Imagine,primaryTitle,15960,Q1
 When the Game Stands Tall,primaryTitle,15956,Q1
 Summer Rental,primaryTitle,15954,Q1
 Cannonball Run II,primaryTitle,15951,Q1
 King Ralph,primaryTitle,15944,Q1
+The Stuff,primaryTitle,15934,Q1
 Rio Grande,primaryTitle,15932,Q1
-A United Kingdom,primaryTitle,15931,Q1
 The Wild One,primaryTitle,15931,Q1
+A United Kingdom,primaryTitle,15931,Q1
 The Professionals,primaryTitle,15913,Q1
+Death Wish II,primaryTitle,15899,Q1
+Assassination of a High School President,primaryTitle,15897,Q1
 Summer Catch,primaryTitle,15886,Q1
+Mood Indigo,primaryTitle,15882,Q1
 Adverse,primaryTitle,15875,Q1
 Love Aaj Kal,primaryTitle,15873,Q1
 Thunderheart,primaryTitle,15842,Q1
 Smokey and the Bandit II,primaryTitle,15837,Q1
 Hell Ride,primaryTitle,15834,Q1
 What's the Worst That Could Happen?,primaryTitle,15833,Q1
+Crossroads,primaryTitle,15833,Q1
 The Man with One Red Shoe,primaryTitle,15821,Q1
 Border,primaryTitle,15814,Q1
+Running on Empty,primaryTitle,15813,Q1
 Are You Here,primaryTitle,15803,Q1
+Fur: An Imaginary Portrait of Diane Arbus,primaryTitle,15797,Q1
+Lucas,primaryTitle,15796,Q1
+Journal 64,primaryTitle,15792,Q1
 Intermission,primaryTitle,15777,Q1
+Night Shift,primaryTitle,15773,Q1
 Grand Canyon,primaryTitle,15754,Q1
+Momentum,primaryTitle,15743,Q1
+Raising Cain,primaryTitle,15742,Q1
 Kiss of the Spider Woman,primaryTitle,15720,Q1
+My Beautiful Laundrette,primaryTitle,15716,Q1
 Khakee,primaryTitle,15715,Q1
 The Best Man Holiday,primaryTitle,15708,Q1
+Cecil B. Demented,primaryTitle,15702,Q1
 Final Girl,primaryTitle,15681,Q1
 At Close Range,primaryTitle,15649,Q1
+Mrs. Henderson Presents,primaryTitle,15647,Q1
+The Door in the Floor,primaryTitle,15629,Q1
+North Face,primaryTitle,15617,Q1
 Trinity Is Still My Name,primaryTitle,15615,Q1
 Night Moves,primaryTitle,15610,Q1
+The Heiress,primaryTitle,15587,Q1
+The Trip to Italy,primaryTitle,15582,Q1
 Fathers' Day,primaryTitle,15577,Q1
 Half Past Dead,primaryTitle,15575,Q1
+Ashby,primaryTitle,15571,Q1
 Year of the Dragon,primaryTitle,15568,Q1
+Gridlock'd,primaryTitle,15534,Q1
+Vizontele Tuuba,primaryTitle,15516,Q1
 Gunfight at the O.K. Corral,primaryTitle,15506,Q1
 Total Eclipse,primaryTitle,15500,Q1
 Detention,primaryTitle,15490,Q1
+A Face in the Crowd,primaryTitle,15481,Q1
 Garam Masala,primaryTitle,15474,Q1
+Tanu Weds Manu,primaryTitle,15471,Q1
 Biloxi Blues,primaryTitle,15468,Q1
+Lootera,primaryTitle,15455,Q1
 The Lion of the Desert,primaryTitle,15442,Q1
 Seven Days in May,primaryTitle,15427,Q1
 The Sea of Trees,primaryTitle,15414,Q1
@@ -3125,40 +4165,60 @@ The Defiant Ones,primaryTitle,15394,Q1
 Edison,primaryTitle,15392,Q1
 Dhamaal,primaryTitle,15379,Q1
 The Seeker: The Dark Is Rising,primaryTitle,15362,Q1
+8-Bit Christmas,primaryTitle,15361,Q1
 Alien Nation,primaryTitle,15345,Q1
 The Woman in Red,primaryTitle,15344,Q1
+Above the Rim,primaryTitle,15344,Q1
+Yankee Doodle Dandy,primaryTitle,15336,Q1
+"Suddenly, Last Summer",primaryTitle,15331,Q1
 The Night Listener,primaryTitle,15326,Q1
 The Oogieloves in the Big Balloon Adventure,primaryTitle,15307,Q1
 Mafia!,primaryTitle,15306,Q1
 Mujhse Shaadi Karogi,primaryTitle,15304,Q1
+Company,primaryTitle,15302,Q1
 Exposed,primaryTitle,15300,Q1
 Luther,primaryTitle,15285,Q1
+Gotti,primaryTitle,15260,Q1
 Hungama,primaryTitle,15247,Q1
 The Scarlet Letter,primaryTitle,15245,Q1
 Singh Is King,primaryTitle,15241,Q1
+The Great Muppet Caper,primaryTitle,15238,Q1
 Foul Play,primaryTitle,15236,Q1
+Little Big Soldier,primaryTitle,15214,Q1
 10 Items or Less,primaryTitle,15196,Q1
+Head in the Clouds,primaryTitle,15193,Q1
 The Dream Team,primaryTitle,15184,Q1
+Paulie,primaryTitle,15178,Q1
 Mr. India,primaryTitle,15157,Q1
 Lords of Chaos,primaryTitle,15148,Q1
 Two Brothers,primaryTitle,15144,Q1
 The Chamber,primaryTitle,15137,Q1
 The Road Within,primaryTitle,15131,Q1
+The New Daughter,primaryTitle,15131,Q1
 Home Team,primaryTitle,15112,Q1
+Dylan Dog: Dead of Night,primaryTitle,15108,Q1
 Body of Evidence,primaryTitle,15093,Q1
 Barbershop: The Next Cut,primaryTitle,15090,Q1
+The Kissing Booth 3,primaryTitle,15068,Q1
 Ashes of Time,primaryTitle,15061,Q1
 Paparazzi,primaryTitle,15054,Q1
+Blue Steel,primaryTitle,15040,Q1
 The Fury,primaryTitle,15032,Q1
+La Belle Epoque,primaryTitle,15031,Q1
 Bob Roberts,primaryTitle,15025,Q1
 Greedy,primaryTitle,15018,Q1
+Who's Your Caddy?,primaryTitle,15015,Q1
 Knock Off,primaryTitle,15014,Q1
 My Fellow Americans,primaryTitle,14998,Q1
 Kaho Naa... Pyaar Hai,primaryTitle,14988,Q1
 Trapped in Paradise,primaryTitle,14984,Q1
+Phantasm II,primaryTitle,14975,Q1
 Something to Talk About,primaryTitle,14959,Q1
 Beyond the Sea,primaryTitle,14956,Q1
+Valley Girl,primaryTitle,14940,Q1
+Intrusion,primaryTitle,14934,Q1
 Heaven's Gate,primaryTitle,14928,Q1
+Missing in Action,primaryTitle,14921,Q1
 Agent Cody Banks 2: Destination London,primaryTitle,14920,Q1
 Used Cars,primaryTitle,14901,Q1
 Dostana,primaryTitle,14893,Q1
@@ -3168,63 +4228,107 @@ Jagged Edge,primaryTitle,14870,Q1
 Satya,primaryTitle,14861,Q1
 The Life and Death of Peter Sellers,primaryTitle,14860,Q1
 All the Pretty Horses,primaryTitle,14859,Q1
+The Boys in the Band,primaryTitle,14824,Q1
+The Baytown Outlaws,primaryTitle,14815,Q1
+The Abominable Dr. Phibes,primaryTitle,14815,Q1
 Some Kind of Beautiful,primaryTitle,14801,Q1
 Welcome to Collinwood,primaryTitle,14771,Q1
+The Last Supper,primaryTitle,14769,Q1
+Dragon,primaryTitle,14750,Q1
 Urban Cowboy,primaryTitle,14745,Q1
 The Last Thing He Wanted,primaryTitle,14736,Q1
+Asterix and Obelix: God Save Britannia,primaryTitle,14727,Q1
+And Then There Were None,primaryTitle,14725,Q1
 All About the Benjamins,primaryTitle,14701,Q1
 Battle in Seattle,primaryTitle,14690,Q1
-A Fantastic Fear of Everything,primaryTitle,14673,Q1
+The Bad and the Beautiful,primaryTitle,14681,Q1
 Imagine That,primaryTitle,14673,Q1
+A Fantastic Fear of Everything,primaryTitle,14673,Q1
+Once Bitten,primaryTitle,14668,Q1
 The Sand Pebbles,primaryTitle,14666,Q1
 Replicant,primaryTitle,14665,Q1
+I Am Wrath,primaryTitle,14665,Q1
 The Night Clerk,primaryTitle,14662,Q1
 Bobby Z,primaryTitle,14655,Q1
 Powder Blue,primaryTitle,14641,Q1
 Pardes,primaryTitle,14609,Q1
+Diary of a Mad Black Woman,primaryTitle,14594,Q1
+Youngblood,primaryTitle,14591,Q1
 A Late Quartet,primaryTitle,14577,Q1
 Becket,primaryTitle,14569,Q1
+Singularity,primaryTitle,14538,Q1
+"Welcome Home, Roscoe Jenkins",primaryTitle,14526,Q1
+Heyy Babyy,primaryTitle,14513,Q1
+Slackers,primaryTitle,14507,Q1
 Dickie Roberts: Former Child Star,primaryTitle,14501,Q1
 Return to Paradise,primaryTitle,14482,Q1
+Psycho Raman,primaryTitle,14468,Q1
 The Big Kahuna,primaryTitle,14457,Q1
 The Seventh Sign,primaryTitle,14457,Q1
 The Big White,primaryTitle,14437,Q1
+Twelve O'Clock High,primaryTitle,14434,Q1
 Zero Effect,primaryTitle,14424,Q1
+Trouble in Paradise,primaryTitle,14423,Q1
 The Love Punch,primaryTitle,14421,Q1
 I Love You to Death,primaryTitle,14416,Q1
+Psycho III,primaryTitle,14411,Q1
 Up Close & Personal,primaryTitle,14406,Q1
 Housefull 2,primaryTitle,14405,Q1
 Animal Crackers,primaryTitle,14374,Q1
+Rob-B-Hood,primaryTitle,14366,Q1
 Little Italy,primaryTitle,14342,Q1
+Moonfall,primaryTitle,14312,Q1
+The Business,primaryTitle,14307,Q1
 The Slammin' Salmon,primaryTitle,14299,Q1
+Revenge of the Nerds II: Nerds in Paradise,primaryTitle,14297,Q1
+Shimmer Lake,primaryTitle,14290,Q1
 Ready to Rumble,primaryTitle,14290,Q1
 The Greatest Show on Earth,primaryTitle,14284,Q1
 Phantom,primaryTitle,14276,Q1
 With Honors,primaryTitle,14270,Q1
+The 9th Life of Louis Drax,primaryTitle,14266,Q1
 The Cowboys,primaryTitle,14254,Q1
 Gorky Park,primaryTitle,14246,Q1
 Lymelife,primaryTitle,14242,Q1
 Karan Arjun,primaryTitle,14223,Q1
 Playing with Fire,primaryTitle,14222,Q1
 24 Hours to Live,primaryTitle,14220,Q1
+Go Goa Gone,primaryTitle,14218,Q1
 Alice,primaryTitle,14216,Q1
+Final Analysis,primaryTitle,14208,Q1
 The Vikings,primaryTitle,14206,Q1
 Cadillac Man,primaryTitle,14204,Q1
+Madaari,primaryTitle,14200,Q1
+Against the Ice,primaryTitle,14197,Q1
+Rien a declarer,primaryTitle,14193,Q1
+Bala,primaryTitle,14192,Q1
 Operation Petticoat,primaryTitle,14186,Q1
+3 from Hell,primaryTitle,14161,Q1
 Clockstoppers,primaryTitle,14156,Q1
+Captain Blood,primaryTitle,14148,Q1
+The Lavender Hill Mob,primaryTitle,14142,Q1
+Amen.,primaryTitle,14116,Q1
 The Great Buck Howard,primaryTitle,14085,Q1
 Snow Falling on Cedars,primaryTitle,14084,Q1
 Moonlight Mile,primaryTitle,14077,Q1
+Housefull,primaryTitle,14077,Q1
 The Fortune Cookie,primaryTitle,14072,Q1
 The Hummingbird Project,primaryTitle,14071,Q1
 Monkey Business,primaryTitle,14061,Q1
 The Reluctant Fundamentalist,primaryTitle,14039,Q1
+Uncle Drew,primaryTitle,14038,Q1
 The Paper,primaryTitle,14036,Q1
 Another Stakeout,primaryTitle,14025,Q1
+Occupation: Rainfall,primaryTitle,14018,Q1
 Escape Plan: The Extractors,primaryTitle,14018,Q1
+Ghilli,primaryTitle,13996,Q1
+Ashoka the Great,primaryTitle,13989,Q1
 Career Opportunities,primaryTitle,13984,Q1
+Dream Girl,primaryTitle,13976,Q1
 Far Cry,primaryTitle,13975,Q1
 Emperor,primaryTitle,13966,Q1
+Pokiri,primaryTitle,13966,Q1
+The Tiger and the Snow,primaryTitle,13957,Q1
 The Lucky Ones,primaryTitle,13956,Q1
 North,primaryTitle,13951,Q1
 Simply Irresistible,primaryTitle,13940,Q1
@@ -3236,33 +4340,53 @@ Auto Focus,primaryTitle,13891,Q1
 Switchback,primaryTitle,13886,Q1
 Gangster No. 1,primaryTitle,13879,Q1
 Meek's Cutoff,primaryTitle,13877,Q1
+The Angel,primaryTitle,13869,Q1
 The Two Jakes,primaryTitle,13860,Q1
 Primeval,primaryTitle,13854,Q1
 Ordinary Decent Criminal,primaryTitle,13853,Q1
+Big Business,primaryTitle,13830,Q1
+The Deep End of the Ocean,primaryTitle,13830,Q1
+Von Ryan's Express,primaryTitle,13822,Q1
+At the End of the Tunnel,primaryTitle,13821,Q1
 Thunderbirds,primaryTitle,13813,Q1
+The Roaring Twenties,primaryTitle,13813,Q1
 The Clearing,primaryTitle,13803,Q1
+Steel,primaryTitle,13802,Q1
 Desi Boyz,primaryTitle,13792,Q1
+Moms' Night Out,primaryTitle,13772,Q1
 King of Thieves,primaryTitle,13772,Q1
+Best of the Best,primaryTitle,13771,Q1
+The Hill,primaryTitle,13756,Q1
+Ride with the Devil,primaryTitle,13714,Q1
 A Day at the Races,primaryTitle,13714,Q1
 The Substitute,primaryTitle,13706,Q1
 Terminal Velocity,primaryTitle,13673,Q1
 Erik the Viking,primaryTitle,13666,Q1
 The Dangerous Lives of Altar Boys,primaryTitle,13659,Q1
 Animal Factory,primaryTitle,13656,Q1
+Shut In,primaryTitle,13656,Q1
+At First Sight,primaryTitle,13649,Q1
 Blue Chips,primaryTitle,13644,Q1
 Yoga Hosers,primaryTitle,13614,Q1
+Thank You for Your Service,primaryTitle,13613,Q1
 Black Butterfly,primaryTitle,13607,Q1
 The Front Page,primaryTitle,13604,Q1
+A Home at the End of the World,primaryTitle,13554,Q1
 Copying Beethoven,primaryTitle,13548,Q1
 Youth Without Youth,primaryTitle,13522,Q1
-My Favorite Martian,primaryTitle,13505,Q1
+In the Army Now,primaryTitle,13515,Q1
 Paint Your Wagon,primaryTitle,13505,Q1
+My Favorite Martian,primaryTitle,13505,Q1
 Captain America,primaryTitle,13496,Q1
 Goon: Last of the Enforcers,primaryTitle,13493,Q1
 Going Overboard,primaryTitle,13487,Q1
+Night and the City,primaryTitle,13480,Q1
 Cherry Falls,primaryTitle,13476,Q1
 The Crossing Guard,primaryTitle,13468,Q1
+The Naked City,primaryTitle,13460,Q1
+Paddleton,primaryTitle,13440,Q1
 Outcast,primaryTitle,13426,Q1
+King Solomon's Mines,primaryTitle,13425,Q1
 A.C.O.D.,primaryTitle,13415,Q1
 Coming Home,primaryTitle,13413,Q1
 Cry Freedom,primaryTitle,13403,Q1
@@ -3270,55 +4394,90 @@ Meet John Doe,primaryTitle,13381,Q1
 PCU,primaryTitle,13377,Q1
 Owning Mahowny,primaryTitle,13369,Q1
 Antiviral,primaryTitle,13363,Q1
+Kicking and Screaming,primaryTitle,13357,Q1
 Santa Claus: The Movie,primaryTitle,13354,Q1
+The Ghazi Attack,primaryTitle,13344,Q1
 High School High,primaryTitle,13338,Q1
 Breaker Morant,primaryTitle,13334,Q1
 Infernal Affairs III,primaryTitle,13320,Q1
 Biker Boyz,primaryTitle,13319,Q1
 Radio Flyer,primaryTitle,13316,Q1
+Double Dragon,primaryTitle,13310,Q1
+Dookudu,primaryTitle,13305,Q1
 Excess Baggage,primaryTitle,13295,Q1
+Athadu,primaryTitle,13293,Q1
 Shoot to Kill,primaryTitle,13288,Q1
+Two for the Road,primaryTitle,13287,Q1
 The Toy,primaryTitle,13287,Q1
 Deathtrap,primaryTitle,13269,Q1
 Our Souls at Night,primaryTitle,13269,Q1
+Wheels on Meals,primaryTitle,13258,Q1
+Return to Sender,primaryTitle,13254,Q1
+Not Without My Daughter,primaryTitle,13253,Q1
 The Exception,primaryTitle,13252,Q1
 Chappaquiddick,primaryTitle,13227,Q1
 Absence of Malice,primaryTitle,13224,Q1
 Say It Isn't So,primaryTitle,13175,Q1
+Intacto,primaryTitle,13168,Q1
 Paheli,primaryTitle,13167,Q1
 Home for the Holidays,primaryTitle,13154,Q1
 Mark Felt: The Man Who Brought Down the White House,primaryTitle,13152,Q1
 Aankhen,primaryTitle,13150,Q1
 Welcome to the Jungle,primaryTitle,13146,Q1
 Henry & June,primaryTitle,13137,Q1
+Villains,primaryTitle,13128,Q1
+The Ladies Man,primaryTitle,13120,Q1
 Leap of Faith,primaryTitle,13113,Q1
+In Darkness,primaryTitle,13102,Q1
 The Secret: Dare to Dream,primaryTitle,13096,Q1
+Corky Romano,primaryTitle,13092,Q1
+Threesome,primaryTitle,13076,Q1
+Captain Alatriste: The Spanish Musketeer,primaryTitle,13070,Q1
+Flash Point,primaryTitle,13045,Q1
+The Mighty,primaryTitle,13020,Q1
 City of Lies,primaryTitle,13002,Q1
+Rebound,primaryTitle,13001,Q1
 Black or White,primaryTitle,13000,Q1
 Louder Than Bombs,primaryTitle,12980,Q1
 In Dreams,primaryTitle,12967,Q1
 The Front Runner,primaryTitle,12942,Q1
 Bhagam Bhag,primaryTitle,12927,Q1
 Fireflies in the Garden,primaryTitle,12908,Q1
+The Children Act,primaryTitle,12904,Q1
 Chachi 420,primaryTitle,12901,Q1
 Gorgeous,primaryTitle,12888,Q1
 Dreamer,primaryTitle,12884,Q1
 Te3n,primaryTitle,12879,Q1
+Soldier of Orange,primaryTitle,12873,Q1
+Hatari!,primaryTitle,12870,Q1
+On the Beach,primaryTitle,12866,Q1
 Stay Tuned,primaryTitle,12848,Q1
+Beyond a Reasonable Doubt,primaryTitle,12845,Q1
 Family Business,primaryTitle,12836,Q1
 W.E.,primaryTitle,12835,Q1
+A Dirty Shame,primaryTitle,12821,Q1
+Calgi Cengi,primaryTitle,12813,Q1
 Manhattan Night,primaryTitle,12803,Q1
 The Wild Geese,primaryTitle,12802,Q1
 Billionaire Boys Club,primaryTitle,12799,Q1
 Worth,primaryTitle,12798,Q1
+Cul-de-sac,primaryTitle,12785,Q1
 Robin and Marian,primaryTitle,12771,Q1
+Humpty Sharma Ki Dulhania,primaryTitle,12769,Q1
+Tristram Shandy,primaryTitle,12765,Q1
+The Killing of a Chinese Bookie,primaryTitle,12762,Q1
 The Big Easy,primaryTitle,12755,Q1
+Luce,primaryTitle,12741,Q1
 Snow Angels,primaryTitle,12729,Q1
 Chances Are,primaryTitle,12722,Q1
 She's Having a Baby,primaryTitle,12721,Q1
 The War,primaryTitle,12717,Q1
 USS Indianapolis: Men of Courage,primaryTitle,12711,Q1
+Office Uprising,primaryTitle,12710,Q1
+Welcome to Mooseport,primaryTitle,12702,Q1
 Inventing the Abbotts,primaryTitle,12692,Q1
+Roja,primaryTitle,12691,Q1
+Henry Poole Is Here,primaryTitle,12675,Q1
 Men & Chicken,primaryTitle,12668,Q1
 The Sheltering Sky,primaryTitle,12663,Q1
 The Hollars,primaryTitle,12661,Q1
@@ -3326,54 +4485,98 @@ Violet & Daisy,primaryTitle,12648,Q1
 Amelia,primaryTitle,12644,Q1
 Love Is Strange,primaryTitle,12636,Q1
 Tees Maar Khan,primaryTitle,12633,Q1
+Teen Wolf Too,primaryTitle,12621,Q1
 Jade,primaryTitle,12620,Q1
 Horse Feathers,primaryTitle,12609,Q1
 Dutch,primaryTitle,12607,Q1
 Two Hands,primaryTitle,12582,Q1
 The Forger,primaryTitle,12574,Q1
+Gulabo Sitabo,primaryTitle,12573,Q1
+Days of Wine and Roses,primaryTitle,12572,Q1
+Hey Ram,primaryTitle,12569,Q1
 Stockholm,primaryTitle,12555,Q1
+Conversations with Other Women,primaryTitle,12546,Q1
+100 Feet,primaryTitle,12543,Q1
+Dunston Checks In,primaryTitle,12533,Q1
+Topsy-Turvy,primaryTitle,12531,Q1
+Snow Day,primaryTitle,12528,Q1
+The NeverEnding Story III,primaryTitle,12526,Q1
 The English Teacher,primaryTitle,12525,Q1
 Outlaw,primaryTitle,12524,Q1
+Lean on Pete,primaryTitle,12499,Q1
 The Longest Week,primaryTitle,12493,Q1
+The Lair of the White Worm,primaryTitle,12491,Q1
+Bombay,primaryTitle,12464,Q1
 Shadow Dancer,primaryTitle,12463,Q1
-Bait,primaryTitle,12460,Q1
+Backtrack,primaryTitle,12460,Q1
 Freeheld,primaryTitle,12458,Q1
+Robinson Crusoe,primaryTitle,12428,Q1
+One Chance,primaryTitle,12426,Q1
 Nicholas Nickleby,primaryTitle,12424,Q1
 Being Julia,primaryTitle,12423,Q1
 Mo' Better Blues,primaryTitle,12422,Q1
+Chupke Chupke,primaryTitle,12422,Q1
 The Mustang,primaryTitle,12413,Q1
 The Red Baron,primaryTitle,12399,Q1
 The Other Sister,primaryTitle,12392,Q1
 Cut Bank,primaryTitle,12389,Q1
+The United States vs. Billie Holiday,primaryTitle,12388,Q1
+Housefull 4,primaryTitle,12376,Q1
 The Disappearance of Eleanor Rigby: Them,primaryTitle,12368,Q1
-C.H.U.D.,primaryTitle,12351,Q1
+The Bronze,primaryTitle,12363,Q1
+Grind,primaryTitle,12358,Q1
 Mr. Destiny,primaryTitle,12351,Q1
+C.H.U.D.,primaryTitle,12351,Q1
 Forget Paris,primaryTitle,12339,Q1
+Cannibal! The Musical,primaryTitle,12329,Q1
 Paid in Full,primaryTitle,12318,Q1
+Into the Night,primaryTitle,12299,Q1
 What Doesn't Kill You,primaryTitle,12291,Q1
+Dance Flick,primaryTitle,12289,Q1
+Hombre,primaryTitle,12286,Q1
+Pokkiri,primaryTitle,12280,Q1
+Jilla,primaryTitle,12279,Q1
+Johnny Gaddaar,primaryTitle,12274,Q1
+Ball of Fire,primaryTitle,12271,Q1
 The Road to Wellville,primaryTitle,12267,Q1
 The Deep,primaryTitle,12264,Q1
+Lone Wolf McQuade,primaryTitle,12257,Q1
 Romance & Cigarettes,primaryTitle,12254,Q1
+Kill Zone,primaryTitle,12254,Q1
+The Wings of the Dove,primaryTitle,12253,Q1
+Then Came You,primaryTitle,12252,Q1
 In the Blood,primaryTitle,12252,Q1
 Meeting Evil,primaryTitle,12229,Q1
 Acts of Violence,primaryTitle,12207,Q1
 The Preacher's Wife,primaryTitle,12203,Q1
 Blood Creek,primaryTitle,12195,Q1
+White Hunter Black Heart,primaryTitle,12185,Q1
 Against All Odds,primaryTitle,12162,Q1
 "Watch Out, We're Mad",primaryTitle,12160,Q1
+I Want You Back,primaryTitle,12158,Q1
+Remo Williams: The Adventure Begins,primaryTitle,12143,Q1
 Air,primaryTitle,12122,Q1
+Alligator,primaryTitle,12105,Q1
+Ittefaq,primaryTitle,12104,Q1
 Milk Money,primaryTitle,12096,Q1
 The Keep,primaryTitle,12072,Q1
 Boxing Helena,primaryTitle,12063,Q1
 The Best Little Whorehouse in Texas,primaryTitle,12061,Q1
 Cosmic Sin,primaryTitle,12056,Q1
 Madea Goes to Jail,primaryTitle,12047,Q1
+Charley Varrick,primaryTitle,12032,Q1
+One True Thing,primaryTitle,12026,Q1
 Rock the Kasbah,primaryTitle,12023,Q1
+Comidark Films 2: The Pawn,primaryTitle,12001,Q1
+I Love Trouble,primaryTitle,11997,Q1
+Saala Khadoos,primaryTitle,11993,Q1
 Acts of Vengeance,primaryTitle,11987,Q1
 A Defintely Maybe,primaryTitle,11983,Q1
 Paa,primaryTitle,11960,Q1
 Bucky Larson: Born to Be a Star,primaryTitle,11959,Q1
 The Return,primaryTitle,11958,Q1
+When a Stranger Calls,primaryTitle,11942,Q1
+Rise: Blood Hunter,primaryTitle,11941,Q1
 Play It to the Bone,primaryTitle,11939,Q1
 The One and Only Ivan,primaryTitle,11938,Q1
 Goodbye Bafana,primaryTitle,11924,Q1
@@ -3382,17 +4585,27 @@ Arkansas,primaryTitle,11913,Q1
 Rooster Cogburn,primaryTitle,11904,Q1
 Renegade,primaryTitle,11897,Q1
 The Visitors II: The Corridors of Time,primaryTitle,11896,Q1
+Life in a Metro,primaryTitle,11889,Q1
 Necessary Roughness,primaryTitle,11877,Q1
+Sleepwalk with Me,primaryTitle,11876,Q1
 Windfall,primaryTitle,11874,Q1
 Rapture-Palooza,primaryTitle,11868,Q1
 The Other Man,primaryTitle,11850,Q1
 Day of the Falcon,primaryTitle,11842,Q1
+Thalapathi,primaryTitle,11833,Q1
 Retreat,primaryTitle,11833,Q1
+Brainstorm,primaryTitle,11826,Q1
 Edmond,primaryTitle,11825,Q1
 Mixed Nuts,primaryTitle,11823,Q1
 Where the Buffalo Roam,primaryTitle,11810,Q1
+A Case of You,primaryTitle,11806,Q1
+Romeo and Juliet,primaryTitle,11801,Q1
 The Starling,primaryTitle,11801,Q1
+Baaghi 3,primaryTitle,11797,Q1
 No Entry,primaryTitle,11790,Q1
+The Hot Spot,primaryTitle,11785,Q1
+The Fanatic,primaryTitle,11778,Q1
+D.O.A.,primaryTitle,11770,Q1
 The Hit List,primaryTitle,11761,Q1
 My Mom's New Boyfriend,primaryTitle,11756,Q1
 Surviving the Game,primaryTitle,11752,Q1
@@ -3403,10 +4616,16 @@ Brake,primaryTitle,11712,Q1
 Ideal Home,primaryTitle,11711,Q1
 Black '47,primaryTitle,11709,Q1
 Billu,primaryTitle,11698,Q1
+Survive the Night,primaryTitle,11694,Q1
+Code Name: The Cleaner,primaryTitle,11688,Q1
 Towelhead,primaryTitle,11683,Q1
+Sonchiriya,primaryTitle,11678,Q1
+Syrup,primaryTitle,11654,Q1
 Three Fugitives,primaryTitle,11651,Q1
+Snake in the Eagle's Shadow,primaryTitle,11634,Q1
 Lay the Favorite,primaryTitle,11613,Q1
 The Comebacks,primaryTitle,11589,Q1
+Gentlemen Broncos,primaryTitle,11587,Q1
 Lust for Life,primaryTitle,11578,Q1
 Next of Kin,primaryTitle,11557,Q1
 The Falcon and The Snowman,primaryTitle,11548,Q1
@@ -3416,9 +4635,12 @@ Turbulence,primaryTitle,11491,Q1
 One False Move,primaryTitle,11487,Q1
 Burnt Offerings,primaryTitle,11481,Q1
 Shooting Dogs,primaryTitle,11480,Q1
+Elmer Gantry,primaryTitle,11476,Q1
 This Beautiful Fantastic,primaryTitle,11473,Q1
 First Kill,primaryTitle,11471,Q1
 Clay Pigeons,primaryTitle,11466,Q1
+Bamboozled,primaryTitle,11466,Q1
+The Flock,primaryTitle,11462,Q1
 Run Silent Run Deep,primaryTitle,11459,Q1
 My Life,primaryTitle,11435,Q1
 Who Finds a Friend Finds a Treasure,primaryTitle,11433,Q1
@@ -3426,6 +4648,8 @@ Crime Busters,primaryTitle,11432,Q1
 Brainscan,primaryTitle,11428,Q1
 Armed and Dangerous,primaryTitle,11415,Q1
 Norma Rae,primaryTitle,11413,Q1
+Ankhon Dekhi,primaryTitle,11412,Q1
+Written on the Wind,primaryTitle,11409,Q1
 Geronimo: An American Legend,primaryTitle,11402,Q1
 Julius Caesar,primaryTitle,11400,Q1
 Hoodlum,primaryTitle,11387,Q1
@@ -3433,6 +4657,7 @@ Mr. Blandings Builds His Dream House,primaryTitle,11382,Q1
 God's Pocket,primaryTitle,11375,Q1
 Gloria Bell,primaryTitle,11366,Q1
 People I Know,primaryTitle,11351,Q1
+Madea's Family Reunion,primaryTitle,11347,Q1
 Peacock,primaryTitle,11345,Q1
 De-Lovely,primaryTitle,11339,Q1
 Queen of the Desert,primaryTitle,11336,Q1
@@ -3446,30 +4671,54 @@ Viva Zapata!,primaryTitle,11259,Q1
 The Long Riders,primaryTitle,11257,Q1
 New York,primaryTitle,11254,Q1
 The Next Best Thing,primaryTitle,11254,Q1
+The Hunchback of Notre Dame,primaryTitle,11249,Q1
 Fifty Dead Men Walking,primaryTitle,11245,Q1
 The Newton Boys,primaryTitle,11239,Q1
 Support Your Local Sheriff!,primaryTitle,11230,Q1
+Tales from the Crypt,primaryTitle,11227,Q1
+Transit,primaryTitle,11202,Q1
 Mr. Baseball,primaryTitle,11197,Q1
+Rob the Mob,primaryTitle,11195,Q1
 Small Town Crime,primaryTitle,11194,Q1
+Noises Off...,primaryTitle,11174,Q1
 Deep Cover,primaryTitle,11174,Q1
+The Paradine Case,primaryTitle,11142,Q1
+Ip Man: The Final Fight,primaryTitle,11140,Q1
 Other People,primaryTitle,11140,Q1
-The Gingerbread Man,primaryTitle,11121,Q1
+Gadar: Ek Prem Katha,primaryTitle,11137,Q1
+The Method,primaryTitle,11130,Q1
 The Naked Spur,primaryTitle,11121,Q1
+The Gingerbread Man,primaryTitle,11121,Q1
+400 Days,primaryTitle,11118,Q1
+Graveyard Shift,primaryTitle,11108,Q1
 Extreme Movie,primaryTitle,11107,Q1
+The Factory,primaryTitle,11104,Q1
 Shirley,primaryTitle,11093,Q1
 Thirteen Conversations About One Thing,primaryTitle,11073,Q1
+The Black Cat,primaryTitle,11073,Q1
 Ishtar,primaryTitle,11070,Q1
 Bell Book and Candle,primaryTitle,11069,Q1
 Boss,primaryTitle,11068,Q1
 Feeling Minnesota,primaryTitle,11066,Q1
+The Barefoot Contessa,primaryTitle,11063,Q1
 Ghosts of Mississippi,primaryTitle,11060,Q1
 Action Jackson,primaryTitle,11057,Q1
+Full Frontal,primaryTitle,11026,Q1
+The Odessa File,primaryTitle,11026,Q1
+Soul Men,primaryTitle,10997,Q1
+Happy Days,primaryTitle,10995,Q1
+Lottery Ticket,primaryTitle,10995,Q1
+For Richer or Poorer,primaryTitle,10990,Q1
 Spinning Man,primaryTitle,10990,Q1
 Eddie,primaryTitle,10967,Q1
 Twixt,primaryTitle,10965,Q1
 The D Train,primaryTitle,10961,Q1
+Flipper,primaryTitle,10951,Q1
+The Notorious Bettie Page,primaryTitle,10949,Q1
+The Enemy Below,primaryTitle,10947,Q1
 The Brothers Solomon,primaryTitle,10943,Q1
 The Curse of Frankenstein,primaryTitle,10937,Q1
+The Babe,primaryTitle,10934,Q1
 A Single Shot,primaryTitle,10932,Q1
 Heartburn,primaryTitle,10922,Q1
 Legal Eagles,primaryTitle,10922,Q1
@@ -3477,50 +4726,88 @@ To End All Wars,primaryTitle,10921,Q1
 The Candidate,primaryTitle,10918,Q1
 The Muse,primaryTitle,10901,Q1
 The Duel,primaryTitle,10896,Q1
+Lost Souls,primaryTitle,10894,Q1
 The Hound of the Baskervilles,primaryTitle,10893,Q1
 Home of the Brave,primaryTitle,10886,Q1
+Father Goose,primaryTitle,10881,Q1
+Sherni,primaryTitle,10874,Q1
 F/X2,primaryTitle,10838,Q1
 Scrooge,primaryTitle,10834,Q1
+Qayamat Se Qayamat Tak,primaryTitle,10833,Q1
 Magic,primaryTitle,10827,Q1
 True History of the Kelly Gang,primaryTitle,10820,Q1
+The I Inside,primaryTitle,10820,Q1
+Theater of Blood,primaryTitle,10813,Q1
 Scenic Route,primaryTitle,10812,Q1
 The Electrical Life of Louis Wain,primaryTitle,10812,Q1
 Ill Manors,primaryTitle,10811,Q1
+A Very Brady Sequel,primaryTitle,10807,Q1
+Hondo,primaryTitle,10807,Q1
 Madea's Witness Protection,primaryTitle,10794,Q1
+First Sunday,primaryTitle,10787,Q1
 The Pride of the Yankees,primaryTitle,10779,Q1
-The Grey Zone,primaryTitle,10770,Q1
+Words and Pictures,primaryTitle,10771,Q1
 "The Long, Hot Summer",primaryTitle,10770,Q1
+The Grey Zone,primaryTitle,10770,Q1
+The Old Dark House,primaryTitle,10769,Q1
 Elephant White,primaryTitle,10763,Q1
 Sirens,primaryTitle,10753,Q1
+Class,primaryTitle,10746,Q1
 The Bang Bang Club,primaryTitle,10742,Q1
+The Man from Laramie,primaryTitle,10742,Q1
+I Sell the Dead,primaryTitle,10742,Q1
 Killerman,primaryTitle,10732,Q1
+Red,primaryTitle,10726,Q1
+Little Big League,primaryTitle,10706,Q1
 Maqbool,primaryTitle,10703,Q1
 Ishq,primaryTitle,10699,Q1
+The Connection,primaryTitle,10685,Q1
+Rosewater,primaryTitle,10675,Q1
+All the Real Girls,primaryTitle,10666,Q1
 The Missouri Breaks,primaryTitle,10658,Q1
+The Pallbearer,primaryTitle,10654,Q1
 The Vanishing of Sidney Hall,primaryTitle,10637,Q1
 The Perfect Guy,primaryTitle,10636,Q1
+Bullet in the Head,primaryTitle,10620,Q1
 Horror Express,primaryTitle,10611,Q1
+Forever Strong,primaryTitle,10610,Q1
 Dudley Do-Right,primaryTitle,10609,Q1
+Futureworld,primaryTitle,10609,Q1
+Twin Peaks: The Missing Pieces,primaryTitle,10603,Q1
 Dying of the Light,primaryTitle,10600,Q1
 Next Day Air,primaryTitle,10592,Q1
+Airport '77,primaryTitle,10592,Q1
 Our Friend,primaryTitle,10556,Q1
+A War,primaryTitle,10556,Q1
+Faces,primaryTitle,10541,Q1
+Miracle Mile,primaryTitle,10540,Q1
 The Four Musketeers: Milady's Revenge,primaryTitle,10536,Q1
-Judwaa 2,primaryTitle,10534,Q1
 The Snow Walker,primaryTitle,10534,Q1
+Judwaa 2,primaryTitle,10534,Q1
 Operation: Endgame,primaryTitle,10528,Q1
+Joe Somebody,primaryTitle,10526,Q1
+Jude,primaryTitle,10520,Q1
 The Friends of Eddie Coyle,primaryTitle,10519,Q1
 Waiting for the Barbarians,primaryTitle,10509,Q1
+Opening Night,primaryTitle,10499,Q1
 Hardcore,primaryTitle,10496,Q1
+Thalaivaa,primaryTitle,10491,Q1
 Don't Let Go,primaryTitle,10489,Q1
+Tender Mercies,primaryTitle,10475,Q1
+Sink or Swim,primaryTitle,10468,Q1
 Enduring Love,primaryTitle,10468,Q1
 The Good Thief,primaryTitle,10467,Q1
 Dead Birds,primaryTitle,10465,Q1
 The Best Man,primaryTitle,10464,Q1
 Airport 1975,primaryTitle,10460,Q1
+Business Man,primaryTitle,10459,Q1
 Catch a Fire,primaryTitle,10448,Q1
+Bats,primaryTitle,10443,Q1
 The Frisco Kid,primaryTitle,10437,Q1
 The Truth About Charlie,primaryTitle,10433,Q1
 Hard Times,primaryTitle,10427,Q1
+The Little Vampire,primaryTitle,10417,Q1
+Legend of the Fist: The Return of Chen Zhen,primaryTitle,10412,Q1
 Chup Chup Ke,primaryTitle,10410,Q1
 Baaghi 2,primaryTitle,10409,Q1
 Lucky Numbers,primaryTitle,10407,Q1
@@ -3529,36 +4816,58 @@ Ishqiya,primaryTitle,10397,Q1
 Life Stinks,primaryTitle,10388,Q1
 Pretty Persuasion,primaryTitle,10368,Q1
 The Horse Soldiers,primaryTitle,10356,Q1
+Sands of Iwo Jima,primaryTitle,10350,Q1
 The Polka King,primaryTitle,10350,Q1
 Stage Beauty,primaryTitle,10348,Q1
 Mom,primaryTitle,10347,Q1
+Someone to Watch Over Me,primaryTitle,10340,Q1
 Beyond the Reach,primaryTitle,10317,Q1
+The Legend of Billie Jean,primaryTitle,10310,Q1
 Trail of the Pink Panther,primaryTitle,10305,Q1
+Sweet Virginia,primaryTitle,10304,Q1
 Suspect,primaryTitle,10288,Q1
+Dugun Dernek 2: Sunnet,primaryTitle,10273,Q1
 Eyes of Laura Mars,primaryTitle,10272,Q1
+Neruda,primaryTitle,10260,Q1
 Without a Clue,primaryTitle,10255,Q1
 Open Hearts,primaryTitle,10235,Q1
+The Car,primaryTitle,10228,Q1
 Man Down,primaryTitle,10227,Q1
-D.O.A.,primaryTitle,10226,Q1
+Hilary and Jackie,primaryTitle,10224,Q1
 What's New Pussycat,primaryTitle,10224,Q1
+The Ones Below,primaryTitle,10216,Q1
+Ice Station Zebra,primaryTitle,10215,Q1
 The Boys Are Back,primaryTitle,10209,Q1
+Escape to Witch Mountain,primaryTitle,10208,Q1
 Freelancers,primaryTitle,10202,Q1
 The Great White Hype,primaryTitle,10193,Q1
+As Tears Go By,primaryTitle,10193,Q1
 Dear Wendy,primaryTitle,10189,Q1
 Aitraaz,primaryTitle,10181,Q1
 The Greatest Story Ever Told,primaryTitle,10179,Q1
+Soodhu Kavvum,primaryTitle,10177,Q1
 A Better Tomorrow II,primaryTitle,10173,Q1
-Wasp Network,primaryTitle,10157,Q1
+Suburban Commando,primaryTitle,10172,Q1
+Dahmer,primaryTitle,10171,Q1
+Malang,primaryTitle,10169,Q1
 Waterloo,primaryTitle,10157,Q1
+Wasp Network,primaryTitle,10157,Q1
 Luck by Chance,primaryTitle,10150,Q1
+Son of Frankenstein,primaryTitle,10148,Q1
 The Secret of Moonacre,primaryTitle,10147,Q1
 Hurlyburly,primaryTitle,10136,Q1
 Uncommon Valor,primaryTitle,10116,Q1
 Death Defying Acts,primaryTitle,10110,Q1
 Innocent Blood,primaryTitle,10105,Q1
+Shanghai,primaryTitle,10104,Q1
 Double Trouble,primaryTitle,10103,Q1
+Brute Force,primaryTitle,10098,Q1
+The Principal,primaryTitle,10096,Q1
 The Darwin Awards,primaryTitle,10095,Q1
+The Fountainhead,primaryTitle,10094,Q1
 Shootout at Lokhandwala,primaryTitle,10090,Q1
+Obsession,primaryTitle,10079,Q1
+The Mark of Zorro,primaryTitle,10073,Q1
 The Giant Mechanical Man,primaryTitle,10067,Q1
 CBGB,primaryTitle,10063,Q1
 Mary Magdalene,primaryTitle,10055,Q1
@@ -3567,6 +4876,7 @@ Tim and Eric's Billion Dollar Movie,primaryTitle,10028,Q1
 "My Son, My Son, What Have Ye Done",primaryTitle,10023,Q1
 Blood and Wine,primaryTitle,10019,Q1
 The Brave,primaryTitle,10016,Q1
-Vera Cruz,primaryTitle,10009,Q1
+The Late Bloomer,primaryTitle,10012,Q1
 Wolfen,primaryTitle,10009,Q1
+Vera Cruz,primaryTitle,10009,Q1
 Plunkett & Macleane,primaryTitle,10003,Q1

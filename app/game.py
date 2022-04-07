@@ -1,6 +1,6 @@
 import random
 
-def getWrongAnswers(answer, cast, actors, movies, seed):
+def getWrongAnswers(answer, cast, actors, movies, rollcall, seed):
     quartiles = ['Q1', 'Q2', 'Q3', 'Q4']
     quartiles.remove(answer['quartile'])
     answers = [answer]

@@ -3,20 +3,29 @@ const answers = document.getElementById("answers");
 
 function getStats() {
     let statistics = localStorage.getItem("statistics");
-    return (statistics == true) ? JSON.parse(statistics) : {'lastPlayed': "Never", 'daysPlayed': 0, 'rightAnswers': 0, 'avgAnswers': 0, 'avgPct': 0};
+    return statistics == true ? JSON.parse(statistics) : {'lastPlayed': "Never", 'daysPlayed': 0, 'rightAnswers': 0, 'avgAnswers': 0, "totalLength": 0, "avgPct": 0};
 }
 
 function getGameState(lastPlayed, data) {
     let game_state = localStorage.getItem("game_state");
-    return (game_state == false || compDay() > lastPlayed) ? {"gameLength": data.length, "answers": 0, "compPct": 0, "status": "in_progress"} : JSON.parse(game_state);
+    return (!game_state || compDay() > lastPlayed) ? {"gameLength": data.length, "answers": 0, "compPct": 0, "status": "in_progress"} : JSON.parse(game_state);
 }
 
-function updateStats(stats, lastPlayed, rightAnswers) {
-    return ;
+function updateStats(stats, lastPlayed, rightAnswers, gameLength) {
+    stats.lastPlayed = lastPlayed;
+    stats.daysPlayed++;
+    stats.rightAnswers += rightAnswers;
+    stats.avgAnswers = stats.rightAnswers / stats.daysPlayed;
+    stats.totalLength += gameLength;
+    stats.avgPct = stats.rightAnswers / stats.totalLength;
+    return localStorage.setItem("statistics", JSON.stringify(stats));
 }
 
-function updateGameState(game_state, answers) {
-    return ;
+function updateGameState(game_state, answers, stat) {
+    game_state.answers = answers;
+    game_state.compPct = answers / game_state.gameLength;
+    game_state.status = stat;
+    return localStorage.setItem("game_state", JSON.stringify(game_state));
 }
 
 function compDay() {
@@ -48,13 +57,17 @@ function getAnswer(guess) {
 }
 
 function checkAnswer(el) {
-    let guess = el.innerHTML;
+    let guess = el.innerText;
     let answer = data.shift().filter(getAnswer)[0];
     if (guess == answer.name) {
         updateScore();
         startRound(answer);
     } else {
         alert("Wrong =(");
+        let stats = getStats();
+        let game_state = getGameState(stats.lastPlayed, data);
+        updateStats(stats, compDay(), parseInt(current.children[0].innerHTML), data.length);
+        updateGameState(game_state, parseInt(current.children[0].innerHTML), "complete")
     }
 }
 

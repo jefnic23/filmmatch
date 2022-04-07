@@ -29,7 +29,7 @@ def index():
                 n = [v.to_dict() for k, v in movies[movies['name'].isin(df['primaryTitle'].tolist())].iterrows() if v['name'] not in [x["name"] for y in rollcall for x in y] and v['name'] != first['name']]
             current = random.choices(n, weights=[i['weight'] for i in n], k=1)[0]
             current['answer'] = True
-            rollcall.append(getWrongAnswers(current, cast, actors, movies, year+day+current['weight']+len(rollcall)))
+            rollcall.append(getWrongAnswers(current, cast, actors, movies, rollcall, year+day+current['weight']+len(rollcall)))
         except:
             break
     return render_template('index.html', first=first, data=rollcall, today=today)
