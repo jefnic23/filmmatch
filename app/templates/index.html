@@ -7,6 +7,12 @@
         const serv_day = new Date({{ today | tojson }});
     </script>
     <div id="main">
+        <div id="pregame" class="overlay">
+            <div class="overlay-content animate__animated animate__faster">
+                <hr>
+                <button>BEGIN</button>
+            </div>
+        </div>
         <div id="game">
             <div id="current">
                 <h3>0</h3>
@@ -21,5 +27,8 @@
             </div>
         </div>
     </div>
+{% endblock %}
+
+{% block scripts %}
     <script type="text/javascript" src="{{ url_for('static', filename='main.js') }}"></script>
 {% endblock %}
