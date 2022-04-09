@@ -2,13 +2,16 @@
 
 {% block content %}
     <script type="text/javascript">
-        const first = {{ first | tojson }};
-        const data = {{ data | tojson }};
         const serv_day = new Date({{ today | tojson }});
+        const first = {{ first | tojson }};
+        var data = {{ data | tojson }};
     </script>
     <div id="main">
         <div id="pregame" class="overlay">
             <div class="overlay-content animate__animated animate__faster">
+                <p>Match actors to the movies they starred in.</p>
+                <p>A random movie or actor is selected each day.</p>
+                <p>Try to connect as many movies and actors as you can.</p>
                 <hr>
                 <button>BEGIN</button>
             </div>
