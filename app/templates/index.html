@@ -11,9 +11,9 @@
             <div class="overlay-content animate__animated animate__faster">
                 <p>Match actors to the movies they starred in.</p>
                 <p>A random movie or actor is selected each day.</p>
-                <p>Try to connect as many movies and actors as you can.</p>
+                <p>Press <strong>BEGIN</strong> to start connecting as many movies and actors as you can.</p>
                 <hr>
-                <button>BEGIN</button>
+                <button class="game-button" onclick="startGame()">BEGIN</button>
             </div>
         </div>
         <div id="game">
@@ -25,10 +25,75 @@
             <hr>
             <div id="answers">
                 {% for _ in range(4) %}
-                    <button class="answer-button" onClick="checkAnswer(this)"></button>
+                    <button class="game-button" onClick="checkAnswer(this)"></button>
                 {% endfor %}
             </div>
         </div>
+        <div id="postgame" class="overlay">
+            <div class="overlay-content animate__animated animate__faster">
+                <div class="overlay-container">
+                    <h4>Matches</h4>
+                    <span id="matches"></span>
+                </div>
+                <div class='footer'>
+                    <div id="countdown">
+                        <h4>Next FilmMatch</h4>
+                        <span></span>
+                    </div>
+                    <div id='share'>
+                        <button class='game-button' onClick="createShareable()">
+                            Share
+                            <span class=icon>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
+                            </span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="info" class="share-overlay animate__animated animate__faster">
+            <button class="close icon" onclick="closeMenu(this)">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+            <div class="info-container">
+                <div class="info-item">
+                    <h4>Contact</h4>
+                    <a href="mailto:jefnic23@gmail.com" target="_blank">Email</a>
+                </div>
+                <div class="info-item">
+                    <h4>Support</h4>
+                    <a href="https://www.buymeacoffee.com/jefnic23" target="_blank">Buy me a coffee</a>
+                </div>
+            </div>
+            <div class="footnote">&copy; 2022 Jeff Nicholas</div>
+        </div>
+        <div id="stats" class="share-overlay animate__animated animate__faster">
+            <button class="close icon" onclick="closeMenu(this)">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+            <div class="stat-container">
+                <h4>Statistics</h4>
+                <div class="avg-container">
+                    <div id="total-answers" class="avg-item">
+                        <p>Total answers</p>
+                        <span></span>
+                    </div>
+                    <div id="avg-answers" class="avg-item">
+                        <p>Average answers</p>
+                        <span></span>
+                    </div>
+                    <div id="days-played" class="avg-item">
+                        <p>Days played</p>
+                        <span></span>
+                    </div>
+                    <div id="last-played" class="avg-item">
+                        <p>Last played</p>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="toast" class="animate__animated animate__faster"></div>
     </div>
 {% endblock %}
 

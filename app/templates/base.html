@@ -29,7 +29,7 @@
         {% block navbar %}
             <nav class="navbar">
                 <div class="navbar-left">
-                    <button class="icon">
+                    <button class="icon" onclick="openInfo()">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
                     </button>
                 </div>
@@ -37,7 +37,7 @@
                     <img class="logo" src="{{ url_for('static', filename='logo.png') }} "/>
                 </div>
                 <div class="navbar-right">
-                    <button class="icon">
+                    <button class="icon" onclick="openStats()">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"><path d="M3 3v18h18"/><path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"/></svg>
                     </button>
                 </div>
