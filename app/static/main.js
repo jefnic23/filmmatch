@@ -17,7 +17,7 @@ function getStats() {
 
 function getGameState(game_data=data, current=first) {
     let game_state = localStorage.getItem("game_state");
-    return !game_state ? {"gameData": game_data, "current": current, "answers": 0, "status": "in_progress"} : JSON.parse(game_state);
+    return !game_state ? {"gameData": game_data, "current": current, "answers": 0, "strikes": 0, "status": "in_progress"} : JSON.parse(game_state);
 }
 
 function updateStats(stats, lastPlayed, rightAnswers) {
@@ -34,6 +34,11 @@ function updateGameState(game_state, game_data, current, answers, stat) {
     game_state.answers = answers;
     game_state.status = stat;
     return localStorage.setItem("game_state", JSON.stringify(game_state));
+}
+
+function addStrike(game_state) {
+    game_state.strikes++;
+    return localStorage.setItem("game_state", JSON.stringify(game_state)); 
 }
 
 function compDay(serv_day, lastPlayed) {
@@ -63,17 +68,23 @@ function getAnswer(guess) {
 
 function checkAnswer(el) {
     let guess = el.innerText;
-    let answer = data.shift().filter(getAnswer)[0];
+    let answer = data[0].filter(getAnswer)[0];
+    // let answer = data.shift().filter(getAnswer)[0];
     let game_state = getGameState();
     if (guess == answer.name) {
+        data.shift();
         updateScore();
         updateGameState(game_state, data, answer, parseInt(current.children[0].innerHTML), "in_progress");
         startRound(answer);
     } else {
-        let stats = getStats();
-        updateStats(stats, serv_day, parseInt(current.children[0].innerHTML));
-        updateGameState(game_state, data, answer, parseInt(current.children[0].innerHTML), "complete");
-        endGame(game_state);
+        if (game_state.strikes < 2) {
+            addStrike(game_state);
+        } else {
+            let stats = getStats();
+            updateStats(stats, serv_day, parseInt(current.children[0].innerHTML));
+            updateGameState(game_state, data, answer, parseInt(current.children[0].innerHTML), "complete");
+            endGame(game_state);
+        }
     }
 }
 
