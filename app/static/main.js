@@ -17,7 +17,7 @@ function getStats() {
 
 function getGameState(game_data=data, current=first) {
     let game_state = localStorage.getItem("game_state");
-    return !game_state ? {"gameData": game_data, "current": current, "answers": 0, "strikes": 0, "status": "in_progress"} : JSON.parse(game_state);
+    return !game_state ? {"gameData": game_data, "current": current, "answers": 0, "strikes": 0, "guessed": [], "status": "in_progress"} : JSON.parse(game_state);
 }
 
 function updateStats(stats, lastPlayed, rightAnswers) {
@@ -28,17 +28,14 @@ function updateStats(stats, lastPlayed, rightAnswers) {
     return localStorage.setItem("statistics", JSON.stringify(stats));
 }
 
-function updateGameState(game_state, game_data, current, answers, stat) {
+function updateGameState(game_state, game_data, current, answers, strike, stat, guess, new_game=false) {
     game_state.gameData = game_data;
     game_state.current = current;
     game_state.answers = answers;
+    !guess ? game_state.guessed = [] : game_state.guessed.push(guess); 
+    !new_game ? game_state.strikes += strike : game_state.strikes = 0;
     game_state.status = stat;
     return localStorage.setItem("game_state", JSON.stringify(game_state));
-}
-
-function addStrike(game_state) {
-    game_state.strikes++;
-    return localStorage.setItem("game_state", JSON.stringify(game_state)); 
 }
 
 function compDay(serv_day, lastPlayed) {
@@ -66,23 +63,53 @@ function getAnswer(guess) {
     return guess.answer == true;
 }
 
+function resumeGame(guessed) {
+    guessed.forEach((g) => {
+        [...answers.children].forEach((c) => {
+            if (c.innerHTML === g) {
+                c.disabled = true;
+                c.classList.add("bad-button");
+                c.classList.remove("game-button");
+            }
+        });
+    });
+}
+
+function disableButton(el) {
+    el.disabled = true;
+    el.classList.add("animate__headShake");
+    setTimeout(() => {
+        el.classList.add("bad-button");
+        el.classList.remove("game-button");
+    }, 300);
+}
+
+function restoreButtons() {
+    [...answers.children].forEach((c) => {
+        c.classList.remove('bad-button', 'animate__headShake');
+        c.classList.add('game-button');
+        c.disabled = false;
+    });
+}
+
 function checkAnswer(el) {
     let guess = el.innerText;
     let answer = data[0].filter(getAnswer)[0];
-    // let answer = data.shift().filter(getAnswer)[0];
     let game_state = getGameState();
     if (guess == answer.name) {
         data.shift();
         updateScore();
-        updateGameState(game_state, data, answer, parseInt(current.children[0].innerHTML), "in_progress");
+        updateGameState(game_state, data, answer, parseInt(current.children[0].innerHTML), 0, "in_progress", "");
         startRound(answer);
+        restoreButtons();
     } else {
+        disableButton(el);
         if (game_state.strikes < 2) {
-            addStrike(game_state);
+            updateGameState(game_state, data, answer, parseInt(current.children[0].innerHTML), 1, "in_progress", guess);
         } else {
             let stats = getStats();
             updateStats(stats, serv_day, parseInt(current.children[0].innerHTML));
-            updateGameState(game_state, data, answer, parseInt(current.children[0].innerHTML), "complete");
+            updateGameState(game_state, data, answer, parseInt(current.children[0].innerHTML), 1, "complete", guess);
             endGame(game_state);
         }
     }
@@ -126,7 +153,7 @@ function createShareable() {
     let g = getGameState();
     let d = serv_day.toISOString().split('T')[0];
     let m = g.answers;
-    let c = 'FilmMatch '.concat(d, "\n\nMatches: ").concat(m);
+    let c = 'FilmMatch '.concat(d, "\nMatches: ").concat(m);
     navigator.clipboard.writeText(c).then(() => {
         showToast('Results copied to clipboard');
     });
@@ -185,15 +212,17 @@ function closeMenu(el) {
 document.addEventListener("DOMContentLoaded", () => {
     var stats = getStats();
     var game_state = getGameState();
-    if (game_state.status === "in_progress" && game_state.answers > 0) {
+    if (game_state.status === "in_progress" && (game_state.answers > 0 || game_state.strikes > 0)) {
         data = game_state.gameData;
         startRound(game_state.current);
+        resumeGame(game_state.guessed);
         current.children[0].innerHTML = game_state.answers;
     } else if (stats.lastPlayed === "Never" || compDay(serv_day, stats.lastPlayed)) {
         if (stats.lastPlayed === "Never") {
             pregame.style.display = 'flex';
             pregame.children[0].classList.add('animate__slideInDown');
         }
+        updateGameState(game_state, data, first, 0, 0, "in_progress", "", new_game=true);
         startRound(first);
     } else {
         endGame(game_state);

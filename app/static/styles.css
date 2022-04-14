@@ -181,6 +181,15 @@ h4 {
     transition: all .13s ease-in-out;
 }
 
+.bad-button {
+	background: none;
+    border: none;
+    padding: 13px;
+    font-size: 18px;
+	color: rgba(255,255,255,0.34);
+	transition: all .13s ease-in-out;
+}
+
 .share-overlay {
 	display: none;
 	position: fixed;
