@@ -155,7 +155,7 @@ function createShareable() {
     let m = g.answers;
     let ti = 'FilmMatch '.concat(d);
     let te = "Matches: ".concat(m);
-    let url = "www.filmmatch.net";
+    let url = "https://www.filmmatch.net";
     if (navigator.share) {
         navigator.share({
             title: ti,
