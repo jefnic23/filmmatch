@@ -24,7 +24,7 @@ function updateStats(stats, lastPlayed, rightAnswers) {
     stats.lastPlayed = lastPlayed;
     stats.daysPlayed++;
     stats.totalAnswers += rightAnswers;
-    stats.avgAnswers = Math.round(((stats.totalAnswers / stats.daysPlayed) + Number.EPSILON) * 100) / 100;
+    stats.avgAnswers = stats.totalAnswers / stats.daysPlayed;
     return localStorage.setItem("statistics", JSON.stringify(stats));
 }
 
@@ -194,7 +194,7 @@ function openInfo() {
 function displayStats() {
     let stats = getStats();
     total_answers.children[1].innerHTML = stats.totalAnswers;
-    avg_answers.children[1].innerHTML = stats.avgAnswers;
+    avg_answers.children[1].innerHTML = Math.round(((stats.avgAnswers) + Number.EPSILON) * 100) / 100;
     days_played.children[1].innerHTML = stats.daysPlayed;
     if (stats.lastPlayed === "Never") {
         last_played.children[1].innerHTML = stats.lastPlayed;
