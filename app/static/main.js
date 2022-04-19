@@ -24,7 +24,7 @@ function updateStats(stats, lastPlayed, rightAnswers) {
     stats.lastPlayed = lastPlayed;
     stats.daysPlayed++;
     stats.totalAnswers += rightAnswers;
-    stats.avgAnswers = stats.totalAnswers / stats.daysPlayed;
+    stats.avgAnswers = Math.round(((stats.totalAnswers / stats.daysPlayed) + Number.EPSILON) * 100) / 100;
     return localStorage.setItem("statistics", JSON.stringify(stats));
 }
 
@@ -153,10 +153,20 @@ function createShareable() {
     let g = getGameState();
     let d = serv_day.toISOString().split('T')[0];
     let m = g.answers;
-    let c = 'FilmMatch '.concat(d, "\nMatches: ").concat(m);
-    navigator.clipboard.writeText(c).then(() => {
-        showToast('Results copied to clipboard');
-    });
+    let ti = 'FilmMatch '.concat(d);
+    let te = "Matches: ".concat(m);
+    if (navigator.share) {
+        navigator.share({
+            title: ti,
+            text: te,
+        })
+        .then(() => console.log('Share was successful.'))
+        .catch((error) => console.log('Sharing failed', error));
+    } else {
+        navigator.clipboard.writeText(ti.concat("\n", te)).then(() => {
+            showToast('Results copied to clipboard');
+        });
+    }
 }
 
 function endGame(game_state) {
