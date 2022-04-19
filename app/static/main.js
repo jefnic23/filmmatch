@@ -155,15 +155,18 @@ function createShareable() {
     let m = g.answers;
     let ti = 'FilmMatch '.concat(d);
     let te = "Matches: ".concat(m);
+    let url = "www.filmmatch.net";
     if (navigator.share) {
         navigator.share({
             title: ti,
             text: te,
+            url: url
         })
         .then(() => console.log('Share was successful.'))
         .catch((error) => console.log('Sharing failed', error));
     } else {
-        navigator.clipboard.writeText(ti.concat("\n", te)).then(() => {
+        let c = ti.concat("\n", te).concat("\n\n", url);
+        navigator.clipboard.writeText(c).then(() => {
             showToast('Results copied to clipboard');
         });
     }
